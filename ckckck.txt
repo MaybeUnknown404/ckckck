@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358298138887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507226&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016519%2F1774345577688677_UNL_Malta_vs_Luxembourg_tv_bg.jpg" group-title="🔴 Live Event",🔴 Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507667&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774018963488735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Cyprus vs Belarus - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507440&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358494509887_EQ26_FIFA_WC_Poland_vs_Albania_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507227&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016531%2F1774358417657939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507229&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
