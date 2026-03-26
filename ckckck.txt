@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016478%2F17741600850116_IFC_Gokulam_Kerala_FC-vs-Shillong_Lajong_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gokulam Kerala FC vs Shillong Lajong FC - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507530&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358362040887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507217&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358298138887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507226&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358494509887_EQ26_FIFA_WC_Poland_vs_Albania_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507227&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016531%2F1774358417657939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507229&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
