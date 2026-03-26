@@ -1,7 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774345496833257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507636&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016519%2F1774345577688677_UNL_Malta_vs_Luxembourg_tv_bg.jpg" group-title="🔴 Live Event",🔴 Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507667&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016519%2F1774345431648677_UNL_Gibraltar_vs_Latvia_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507661&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774018692163959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Moldova vs Lithuania - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507434&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774018963488735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Cyprus vs Belarus - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507440&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774019306031959_INT_Friendlies26_Georgia_vs_Israel_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Georgia vs Israel - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507441&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358298138887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507226&type=hls
@@ -482,10 +497,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://foxau.indi1.workers.dev/index.m3u8?id=156320&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 Brisbane v Dolphins [27 Mar 26 16:00 WIB]
-#https://foxau.indi1.workers.dev/index.m3u8?id=157517&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 Canterbury v Newcastle [28 Mar 26 11:00 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=156322&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -500,10 +511,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 Canberra v Cronulla [29 Mar 26 12:05 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=157516&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 Gold Coast Titans v St George Illawarra [29 Mar 26 14:15 WIB]
-#https://foxau.indi1.workers.dev/index.m3u8?id=156334&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 group-logo="" group-title="🔴 Premier League" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
