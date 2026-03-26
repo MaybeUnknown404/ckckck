@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016478%2F17741599016026_IFC_Rajasthan_United_FC-vs-Diamond_Harbour_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rajasthan United FC vs Diamond Harbour FC - 26 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507517&type=hls
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016478%2F17741600850116_IFC_Gokulam_Kerala_FC-vs-Shillong_Lajong_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gokulam Kerala FC vs Shillong Lajong FC - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507530&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358362040887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507217&type=hls
