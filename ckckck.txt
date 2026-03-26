@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016478%2F17741600850116_IFC_Gokulam_Kerala_FC-vs-Shillong_Lajong_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gokulam Kerala FC vs Shillong Lajong FC - 26 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507530&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774018692163959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Moldova vs Lithuania - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507434&type=hls
 
