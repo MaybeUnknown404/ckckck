@@ -1,30 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774345670791257_EQ26_Playoffs_Semifinal_Italy_vs_Northern_Ireland_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Italy vs Northern Ireland - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507643&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346381740257_EQ26_Playoffs_Semifinal_Poland_vs_Albania_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Poland vs Albania - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507663&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346184940257_EQ26_Playoffs_Semifinal_Ukraine_vs_Sweden_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Ukraine vs Sweden - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507662&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774347215570257_EQ26_Playoffs_Semifinal_Denmark_vs_North_Macedonia_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Denmark vs North Macedonia - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507665&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774347386103257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507666&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774345800820257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507644&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346794082257_EQ26_Playoffs_Semifinal_Slovakia_vs_Kosovo_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Slovakia vs Kosovo - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507664&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -367,8 +342,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300861&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/300861/original/latest.jpg" group-title="🔴 Live Event",🔴 Real Madrid - Anadolu Efes
-http://spacetv.my.id/experimen/ge.mpd?id=300861&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/300861/original/latest.jpg" group-title="📅 Upcoming",⏳ Real Madrid - Anadolu Efes
+#http://spacetv.my.id/experimen/ge.mpd?id=300861&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300848&type=drm
@@ -434,12 +410,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300866&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18120059-2cnklyohbzeaoxou.png" group-title="📅 Upcoming",⏳ Colorado Avalanche - Winnipeg Jets
 #http://spacetv.my.id/experimen/ge.mpd?id=300866&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301033&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/26130532-btfpmz2dr0wxlkj2.jpg" group-title="📅 Upcoming",⏳ PFL Pittsburgh: Eblen vs. Battle
-#http://spacetv.my.id/experimen/ge.mpd?id=301033&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0c5a2182-6ad0-4741-b463-1ec3811589d4/e34126ad-94bc-49a5-aec4-9d73c84560ba.png" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United vs Wolverhampton Wanderers
