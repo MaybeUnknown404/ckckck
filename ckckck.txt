@@ -6,12 +6,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507643&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346381740257_EQ26_Playoffs_Semifinal_Poland_vs_Albania_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Poland vs Albania - Playoff Semi-finals - 27 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507663&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346184940257_EQ26_Playoffs_Semifinal_Ukraine_vs_Sweden_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Ukraine vs Sweden - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507662&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774347215570257_EQ26_Playoffs_Semifinal_Denmark_vs_North_Macedonia_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Denmark vs North Macedonia - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507665&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774347386103257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507666&type=hls
 
