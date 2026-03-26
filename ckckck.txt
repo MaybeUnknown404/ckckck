@@ -13,9 +13,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507667&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016519%2F1774345431648677_UNL_Gibraltar_vs_Latvia_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507661&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774018692163959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Moldova vs Lithuania - 26 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507434&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774018963488735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Cyprus vs Belarus - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507440&type=hls
 
