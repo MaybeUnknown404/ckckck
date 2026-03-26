@@ -1,0 +1,602 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358362040887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_tv_bg.jpg" group-title="ð
+Upcoming",â³ Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup
+
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507217&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358298138887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tv_bg.jpg" group-title="ð
+Upcoming",â³ Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup
+
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507226&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016530%2F1774358494509887_EQ26_FIFA_WC_Poland_vs_Albania_promo_tv_bg.jpg" group-title="ð
+Upcoming",â³ Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup
+
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507227&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016531%2F1774358417657939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_tv_bg.jpg" group-title="ð
+Upcoming",â³ Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup
+
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507229&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016532%2F177435934043337_DP_World_Tour26_Hero_Indian_Open_day1_24mar_tv_bg.jpg" group-title="ð´ Live Event",ð´ Hero Indian Open Day 1 - 26 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507374&type=hls
+
+#EXTINF:-1 group-title="ð
+Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== â° UPCOMING MATCHES ===
+
+#https://example.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=32665a9d-9db1-42e6-b2de-d68931bb4a66
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/42/de/c5/b142dec5-5e94-4366-a181-c6b43c0ba49b.png",Aruba v Macau | FIFA Series 2026â¢ Rwanda | 26/03 18:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=32665a9d-9db1-42e6-b2de-d68931bb4a66&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=ff6823ac-bde3-462e-8245-d8439d35fa4f
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/35/a9/56/ea/35a956ea-3317-4a1d-9867-1b6d083274f4.png",Tanzania v Liechtenstein | FIFA Series 2026â¢ Rwanda | 26/03 21:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=ff6823ac-bde3-462e-8245-d8439d35fa4f&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=8e03c500-0de3-41a6-b944-f688371a5baf
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/48/6b/8c/f6486b8c-1dd5-4207-b1d4-138c77a6b303.png",Chile v Cabo Verde | FIFA Series 2026â¢ New Zealand | 27/03 09:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=8e03c500-0de3-41a6-b944-f688371a5baf&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=d02969f2-2eca-47a3-933b-fb5117abe164
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c6/49/50/6c/c649506c-a9d7-4f84-8dbb-5c84c8677b57.png",China PR v CuraÃ§ao | FIFA Series 2026â¢ Australia | 27/03 12:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=d02969f2-2eca-47a3-933b-fb5117abe164&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/51/78/6a/8751786a-0011-4b83-b512-72e23faa064a.png",New Zealand v Finland | FIFA Series 2026â¢ New Zealand | 27/03 13:05 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=667e0775-aa07-4723-8323-8827af6ca70e
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026â¢ Indonesia | 27/03 15:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=667e0775-aa07-4723-8323-8827af6ca70e&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=265db3e0-c38b-4770-acad-ca07e79d45c0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ad/a4/73/ca/ada473ca-73e8-4a5b-9aed-101350d80b1c.png",Australia v Cameroon | FIFA Series 2026â¢ Australia | 27/03 16:00 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=265db3e0-c38b-4770-acad-ca07e79d45c0&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f5d83f62-a672-48e1-8f38-66c4a6d3d5d3
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/12/f8/53/bb12f853-c8e6-45ed-a5f3-6cd99f0b5c7a.png",Venezuela v Trinidad and Tobago | FIFA Series 2026â¢ Uzbekistan | 27/03 16:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f5d83f62-a672-48e1-8f38-66c4a6d3d5d3&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=e0f118cd-f8c5-4d43-8a91-19244fba044e
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bc/4e/21/e8/bc4e21e8-cf7a-4f67-adc0-bed1c509dab6.png",Indonesia v St. Kitts and Nevis | FIFA Series 2026â¢ Indonesia | 27/03 19:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=e0f118cd-f8c5-4d43-8a91-19244fba044e&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=89bcf836-621b-4e0c-98c1-57f64e724deb
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/85/c6/c4/cf/85c6c4cf-9900-497e-893e-3d1454ec6836.png",Uzbekistan v Gabon | FIFA Series 2026â¢ Uzbekistan | 27/03 20:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=89bcf836-621b-4e0c-98c1-57f64e724deb&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=56333088-1189-4e31-ace1-2dbb4c852d6f
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/ff/76/e9/0aff76e9-5967-491e-9e25-b6914c4d637b.png",Kenya v Estonia | FIFA Series 2026â¢ Rwanda | 27/03 22:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=56333088-1189-4e31-ace1-2dbb4c852d6f&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/df/fe/dd/00/dffedd00-ff26-47d7-a6ae-a6f1358fbbab.png",Rwanda v Grenada | FIFA Series 2026â¢ Rwanda | 28/03 01:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9e4dd33-671d-4114-a019-451aa79fb4e7
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/af/75/cf/a5af75cf-a4ff-4179-b2ec-40277fe94a13.png",Namibia v Comoros | FIFA Series 2026â¢ Kazakhstan | 28/03 18:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9e4dd33-671d-4114-a019-451aa79fb4e7&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=ca655f41-487a-4e98-bec1-f85f34332bf8
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/e6/31/99/1ee63199-0490-4d9f-985b-74be5e84219b.png",American Samoa v Guam | FIFA Series 2026â¢ Puerto Rico | 29/03 02:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=ca655f41-487a-4e98-bec1-f85f34332bf8&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=cb022b33-4b3c-4355-ba02-64d83e68270b
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/b5/53/70/dbb55370-61bf-4223-aa86-8d2b3063e570.png",US Virgin Islands v Puerto Rico | FIFA Series 2026â¢ Puerto Rico | 29/03 06:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=cb022b33-4b3c-4355-ba02-64d83e68270b&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1160bce0-5ff0-4fdf-84c5-82bf09f6d047
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/58/11/9e/48/58119e48-9a71-4ba2-85bb-aebc80bf48d1.png",Cabo Verde v Finland | FIFA Series 2026â¢ New Zealand | 30/03 09:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1160bce0-5ff0-4fdf-84c5-82bf09f6d047&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=7c19cd12-1802-4120-bc08-fc40af9d8b30
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/78/57/37/0c785737-ce74-404b-b2d7-967a0c2a82c0.png",New Zealand v Chile | FIFA Series 2026â¢ New Zealand | 30/03 13:05 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=7c19cd12-1802-4120-bc08-fc40af9d8b30&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=b32e5614-361d-4348-a390-f1f18757386b
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b8/25/66/02/b8256602-59bc-4558-bb32-445240c71de1.png",Trinidad and Tobago v Gabon | FIFA Series 2026â¢ Uzbekistan | 30/03 16:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=b32e5614-361d-4348-a390-f1f18757386b&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9686a35-2f3d-407e-9546-745372a61952
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",Uzbekistan v Venezuela | FIFA Series 2026â¢ Uzbekistan | 30/03 20:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a6/87/4d/29/a6874d29-0a40-49da-b95e-a802009e5c9c.png",Cameroon v China PR | FIFA Series 2026â¢ Australia | 31/03 12:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=05aca402-c4ee-4318-b383-a4a24cd7861b
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cf/26/7e/fe/cf267efe-410e-44b9-b7a4-d9039e9bcb80.png",Australia v CuraÃ§ao | FIFA Series 2026â¢ Australia | 31/03 16:00 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=05aca402-c4ee-4318-b383-a4a24cd7861b&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=6e09479e-97e7-47b3-930d-7b29dd82cfc3
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0f/d3/cf/6b/0fd3cf6b-5f3c-4de1-9dda-a1c196f6450c.png",Pakistan v Turks and Caicos Islands | FIFA Series 2026â¢ CÃ´te d'Ivoire | 09/04 22:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=6e09479e-97e7-47b3-930d-7b29dd82cfc3&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f91d6757-e3b7-4fe8-a2c7-fd3b78288033
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/e6/6e/89/80e66e89-fd27-475c-8518-48f70d639313.png",CÃ´te d'Ivoire v Mauritania | FIFA Series 2026â¢ CÃ´te d'Ivoire | 10/04 02:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f91d6757-e3b7-4fe8-a2c7-fd3b78288033&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c5dceec0-633d-4e17-9232-d7a865f8dcf6
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ff/b6/73/07/ffb67307-8579-4e3b-879c-d4d0f0ab15b0.png",Australia v Malawi | FIFA Series 2026â¢ Kenya | 11/04 17:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c5dceec0-633d-4e17-9232-d7a865f8dcf6&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=4a551c91-3ae6-4d4e-8fa3-88fab7352d25
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/4a/b5/ab/044ab5ab-281e-45af-b274-2381e49e609c.png",Kenya v India | FIFA Series 2026â¢ Kenya | 11/04 21:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=4a551c91-3ae6-4d4e-8fa3-88fab7352d25&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1426c645-a40a-4258-b842-8dcae57d149e
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/60/04/97/a3/600497a3-cde3-439a-94ec-ec3710288e49.png",Canada v Zambia | FIFA Series 2026â¢ Brazil | 12/04 01:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1426c645-a40a-4258-b842-8dcae57d149e&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=61106ede-75a9-44c8-99f2-670827e24871
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/81/37/21/70813721-32c1-4e69-84f2-2f32c059a091.png",Brazil v Korea Republic | FIFA Series 2026â¢ Brazil | 12/04 08:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=61106ede-75a9-44c8-99f2-670827e24871&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/35/11/36/b0351136-26f6-4fe9-8846-3b517e741724.png",Nepal v Congo DR | FIFA Series 2026â¢ Thailand | 12/04 15:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=94b20c0f-026e-42a1-90af-48a92ec08d08
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/53/7c/0a/89537c0a-d8e0-4d56-b4b4-d8ad1640318f.png",Thailand v New Caledonia | FIFA Series 2026â¢ Thailand | 12/04 20:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=94b20c0f-026e-42a1-90af-48a92ec08d08&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=2bce144a-8669-411f-88eb-15d8c99e5fa1
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/d5/06/e2/d2d506e2-2247-4b45-b109-aa641a6f87fe.png",Mauritania v Pakistan | FIFA Series 2026â¢ CÃ´te d'Ivoire | 12/04 22:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=2bce144a-8669-411f-88eb-15d8c99e5fa1&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=ab4684bd-f313-4312-b110-75a7a64f539d
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0d/f3/b5/c6/0df3b5c6-b27b-4299-9c8c-2ad4cab39328.png",Turks and Caicos Islands v CÃ´te d'Ivoire | FIFA Series 2026â¢ CÃ´te d'Ivoire | 13/04 02:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=ab4684bd-f313-4312-b110-75a7a64f539d&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=179785d8-c330-484e-b42f-1c42c3b1aa20
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8b/da/f2/03/8bdaf203-4c20-45d8-9cd8-3f6584d718ad.png",Canada v Korea Republic | FIFA Series 2026â¢ Brazil | 15/04 01:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=179785d8-c330-484e-b42f-1c42c3b1aa20&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=7bd58037-cccf-42d1-b030-563655672199
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a1/da/ae/11/a1daae11-8e9f-409a-bab1-2b1e1f3b6b6d.png",Brazil v Zambia | FIFA Series 2026â¢ Brazil | 15/04 08:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=7bd58037-cccf-42d1-b030-563655672199&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=dfd0b628-ad9c-4ae1-a091-e19e55aaa634
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ff/7b/d0/ad/ff7bd0ad-4436-429c-bce2-2319186d9acc.png",Turks and Caicos Islands v Mauritania | FIFA Series 2026â¢ CÃ´te d'Ivoire | 16/04 22:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=dfd0b628-ad9c-4ae1-a091-e19e55aaa634&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=2d45961a-05fe-4a71-9fb2-0df8af5c1c46
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/00/eb/10/6200eb10-833e-4238-bca2-c502940d332c.png",CÃ´te d'Ivoire v Pakistan | FIFA Series 2026â¢ CÃ´te d'Ivoire | 17/04 02:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=2d45961a-05fe-4a71-9fb2-0df8af5c1c46&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=a7a458fe-4fb4-480f-9e02-fbfb13a2ffcd
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/0e/f4/2e/800ef42e-bdb5-4718-875c-d41b0ed0d990.png",Korea Republic v Zambia | FIFA Series 2026â¢ Brazil | 19/04 01:50 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=a7a458fe-4fb4-480f-9e02-fbfb13a2ffcd&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f926b72a-afda-4080-bb79-2e08503761a9
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="ð
+FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/22/ae/7b/f8/22ae7bf8-62cf-401a-9ae8-b9f513034113.png",Brazil v Canada | FIFA Series 2026â¢ Brazil | 19/04 08:20 WIB
+
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f926b72a-afda-4080-bb79-2e08503761a9&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cawCoUSGrX61B1PleFFp_9C9fYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969339/8cda29.jpg", Practice 1
+
+https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8I-aZmIvOMXuH0HozdFQFhcY6_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969340/f61bd6.jpg", Practice 2
+
+https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4cGhvxsUz3rHV9DadXSwl9tbxCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969345/5d5e5c.jpg", Practice 3
+
+https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fhTYImuBVQyzrDMvXlfs4plRm9M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969347/6bcf99.jpg", Qualifying
+
+https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg", Race
+
+https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=QYddLIzHIHcvW9CqHBsfeIfsNTWvdn7w|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg", Persikad vs Persekat Tegal
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/48YUEx1htBkexo1E9M8GHbUu7G8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19541/pegadaian-championship-2025-26-5a3836.jpg", Persikad vs Persekat Tegal
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2Ix_mWZ1w8VZqZuZ3FPuKPPrthQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969750/a52132.jpg", Adhyaksa FC vs Sumsel United
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg", Persela Lamongan vs Persiba Balikpapan
+
+https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6cxbf3h75yUdQDpKdN1nQLVILzI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20833/pegadaian-championship-2025-26-773a82.jpg", Persela Lamongan vs Persiba Balikpapan
+
+https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/suWhcuMGXKUriJmKMmhBAhKeQCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969754/7495a5.jpg", Persipura Jayapura vs Deltras FC
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CHel6ZjlyPFiuj2o2GFG8f4YRJ8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19543/pegadaian-championship-2025-26-de40f9.jpg", Persipura Jayapura vs Deltras FC
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2ZSWOvVzC-pr0Z1ly-EKh28JuTc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969774/065841.jpg", PSMS Medan vs PSPS Pekanbaru
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/f8XGBw5AoZQ-6qyUKgcuYWgqgcY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970015/bb70b2.jpg", Persiraja Banda Aceh vs Sriwijaya FC
+
+https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg", Garudayaksa FC vs FC Bekasi City
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UwzvTcf5m-QaEIMnok96r8Nb5Co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970030/1f8f25.jpg", PS. Barito Putera vs Persiku Kudus
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BVL_4crI3ZU0cl1U1ofQks0Bcn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970031/5dca81.jpg", Kendal Tornado FC vs PSS Sleman
+
+https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
+#EXTINF:-1 group-logo="" group-title="ð
+Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg", PSIS Semarang vs Persipal FC
+
+https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300847&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18114906-3rb6pqedgpyllqxs.jpg" group-title="ð
+Upcoming",â³ ATP 1000 Miami, Stadium, Quarter-Final 3
+
+http://spacetv.my.id/experimen/ge.mpd?id=300847&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300861&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18115844-e59vynv9hjejkghr.jpg" group-title="ð
+Upcoming",â³ Real Madrid - Anadolu Efes
+
+http://spacetv.my.id/experimen/ge.mpd?id=300861&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300848&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18114906-3rb6pqedgpyllqxs.jpg" group-title="ð
+Upcoming",â³ ATP 1000 Miami, Stadium, Quarter-Final 4
+
+http://spacetv.my.id/experimen/ge.mpd?id=300848&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300862&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18115917-dd14zgohnuqss9dw.png" group-title="ð
+Upcoming",â³ Florida Panthers - Minnesota Wild
+
+http://spacetv.my.id/experimen/ge.mpd?id=300862&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300850&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18114906-3rb6pqedgpyllqxs.jpg" group-title="ð
+Upcoming",â³ ATP 1000 Miami, Stadium, Semi-Final 1
+
+http://spacetv.my.id/experimen/ge.mpd?id=300850&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300863&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18115933-bvleag11kcz3xrlj.jpg" group-title="ð
+Upcoming",â³ Barcelona - Crvena Zvezda Meridianbet
+
+http://spacetv.my.id/experimen/ge.mpd?id=300863&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300852&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18114906-3rb6pqedgpyllqxs.jpg" group-title="ð
+Upcoming",â³ ATP 1000 Miami, Stadium, Semi-Final 2
+
+http://spacetv.my.id/experimen/ge.mpd?id=300852&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300864&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18115947-ix53gjuxkigopgm6.png" group-title="ð
+Upcoming",â³ Buffalo Sabres - Detroit Red Wings
+
+http://spacetv.my.id/experimen/ge.mpd?id=300864&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300880&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18120310-rf4siidacdnm9akb.jpg" group-title="ð
+Upcoming",â³ Japanese Grand Prix - Qualifying
+
+http://spacetv.my.id/experimen/ge.mpd?id=300880&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300988&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12151122-y46hnlyushcmgpgx.png" group-title="ð
+Upcoming",â³ Dubai World Cup 2026
+
+http://spacetv.my.id/experimen/ge.mpd?id=300988&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300967&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/20125655-31lgfvvtacpzwgk7.png" group-title="ð
+Upcoming",â³ Gijon - Dep. La Coruna
+
+http://spacetv.my.id/experimen/ge.mpd?id=300967&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=300877&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/18120159-plumjaw0ezdijx9x.jpg" group-title="ð
+Upcoming",â³ UFC Fight Night: Adesanya vs. Pyfer - Prelims/Main Card
+
+http://spacetv.my.id/experimen/ge.mpd?id=300877&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0c5a2182-6ad0-4741-b463-1ec3811589d4/e34126ad-94bc-49a5-aec4-9d73c84560ba.png" group-title="ð MyCo Upcoming",UPCOMING - West Ham United vs Wolverhampton Wanderers
+#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-vs-wolverhampton-wanderers-epl-2026&contentid=bd431fb2-19cb-4508-a6ea-63c00af46d6a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5f2133a5-3e7e-4cd0-9518-d544fb5d512e/e3e0bc7d-c6b7-4a26-a528-fed8bd42b06e.png" group-title="ð MyCo Upcoming",UPCOMING - Arsenal vs AFC Bournemouth
+#https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-afc-bournemouth-epl-2026&contentid=b3160331-c5bc-435b-8782-db3bfe6a91d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7b1cd29-3e9c-4251-83f0-260221feaf90/8dc249d7-a03c-47b0-8266-fa5ea08f3afa.png" group-title="ð MyCo Upcoming",UPCOMING - Brentford vs Everton
+#https://qtv.my.id/myco/index.m3u8?id=brentford-vs-everton-epl-2026&contentid=92255100-7d2b-4a22-b692-7378b302184c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/490c10dd-de2b-43be-8309-c8d8731d08ff/e9c238a4-0355-404b-be01-b7abd2f18f94.png" group-title="ð MyCo Upcoming",UPCOMING - Burnley vs Brighton & Hove Albion
+#https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/43680092-b13a-42d1-b31b-28093fef19e2/97b49d7d-14b4-47e1-a4c0-18829f4e81ee.jpg" group-title="ð´ Live Event",LIVE ð´ Ahmedabad Lions VS Jaipur Royals
+https://qtv.my.id/myco/index.m3u8?id=ahmedabad-lions-vs-jaipur-royals-actors-cricket-bash-2026&contentid=8432fcad-2229-45c6-bc3d-80ce4ae8d7bd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8472eb21-d658-418c-bbf6-bf14a0049989/95db2157-254b-41bc-b85d-5736174141a6.jpg" group-title="ð MyCo Upcoming",UPCOMING - West Ham United Women VS London City Lionesses
+#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-women-vs-london-city-lionesses-womens-super-league-2025-26&contentid=ff8ed78f-90c8-4f70-b3f5-f822b2fd22a4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f31c763d-616e-4557-b7e5-71c0817e1963/6ab5925d-815f-44b8-affc-14b066cc7d5f.jpg" group-title="ð MyCo Upcoming",UPCOMING - Chelsea F.C. Women VS Aston Villa Women
+#https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-aston-villa-women-womens-super-league-2025-26&contentid=f7f4218d-b7c2-4009-966d-b26055d9007a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/57a5690d-fe36-491c-82ad-3f12fdfe1131/212849d4-871c-4295-b55b-59c6bd7eb4c8.jpg" group-title="ð MyCo Upcoming",UPCOMING - Leicester City Women VS Brighton and Hove Albion Women
+#https://qtv.my.id/myco/index.m3u8?id=leicester-city-women-vs-brighton-and-hove-albion-women-womens-super-league-2025-26&contentid=76d17dc2-080e-4466-aba4-b61ad8ada87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/54b06698-9ee7-4433-96ed-dbbf935a5103/8a4c7d42-2a2f-4c0b-b37b-677de45b95e6.jpg" group-title="ð MyCo Upcoming",UPCOMING - Bayern Munich Women VS Manchester United Women
+#https://qtv.my.id/myco/index.m3u8?id=bayern-munich-women-vs-manchester-united-women-uefa-womens-champions-league-2025-26&contentid=aff6fa07-5fd8-42db-a180-1bf3ea76e61f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6c8cd646-72c8-4b64-8c42-2183f6befaac/91c4dbfa-deef-4c8e-ac2d-40882e98d039.jpg" group-title="ð MyCo Upcoming",UPCOMING - Chelsea F.C. Women VS Arsenal Women
+#https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/2d9aa51d-fd87-48e2-b5af-ad194cbf0943/5c6c9f5b-8aa6-42f9-9050-0cf6b2a5a775.png" group-title="ð MyCo Upcoming",UPCOMING - Crystal Palace vs Newcastle United
+#https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-newcastle-united-epl-2026&contentid=c7b1f077-407c-4f2a-9541-70f37438228f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/544b1de1-afb9-47cd-817b-b2a3215805db/b08f3e6c-3141-497a-9b1f-1de845e4255d.png" group-title="ð MyCo Upcoming",UPCOMING - Nottingham Forest vs Aston Villa
+#https://qtv.my.id/myco/index.m3u8?id=nottingham-forest-vs-aston-villa-epl-2026&contentid=20970545-8ddc-4f6d-b3c8-df8138563f02|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/908c1e11-e483-4d4a-808e-bbd8534c7547/efb5c994-4e02-4a6f-96dd-dc31760e9c24.png" group-title="ð MyCo Upcoming",UPCOMING - Liverpool vs Fulham
+#https://qtv.my.id/myco/index.m3u8?id=liverpool-vs-fulham-epl-2026&contentid=b4290a1a-c73b-4cd1-a5ab-ec697d75c7e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f9da928f-63c0-4d81-95d5-e314a09afdef/ac88aa85-bdb0-4736-bbf5-b24ca28641ab.png" group-title="ð MyCo Upcoming",UPCOMING - Sunderland vs Tottenham Hotspur
+#https://qtv.my.id/myco/index.m3u8?id=sunderland-vs-tottenham-hotspur-epl-2026&contentid=0598ec4f-49fd-40ae-be39-cc660efef5b3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c977e679-f9aa-4481-9a09-b469a36db57b/dc93ae8b-523e-499d-9aa0-26fbb3b89c6d.png" group-title="ð MyCo Upcoming",UPCOMING - Chelsea vs Manchester City
+#https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-city-epl-2026&contentid=2eebdd24-c67e-4ea0-92e6-3c6899e2add5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/924952eb-b28e-454e-9f96-d18317dff187/cb46db5d-25ff-4aac-96c2-73706cd36d9e.png" group-title="ð MyCo Upcoming",UPCOMING - Manchester United vs Leeds United
+#https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð´ Live Rugby",NRL Round 4 Manly v Sydney Roosters
+https://foxau.indi1.workers.dev/index.m3u8?id=156318&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Warriors v Wests Tigers [27 Mar 26 14:00 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=156320&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Brisbane v Dolphins [27 Mar 26 16:00 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=157517&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Canterbury v Newcastle [28 Mar 26 11:00 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=156322&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Penrith v Parramatta [28 Mar 26 13:30 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=156323&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 North Queensland v Melbourne [28 Mar 26 15:35 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=156324&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Canberra v Cronulla [29 Mar 26 12:05 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=157516&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="ð
+Upcoming",NRL Round 4 Gold Coast Titans v St George Illawarra [29 Mar 26 14:15 WIB]
+
+https://foxau.indi1.workers.dev/index.m3u8?id=156334&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-logo="" group-title="ð´ Premier League" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
+##https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
