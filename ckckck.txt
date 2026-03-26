@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774345670791257_EQ26_Playoffs_Semifinal_Italy_vs_Northern_Ireland_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Italy vs Northern Ireland - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507643&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774347386103257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507666&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774345800820257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507644&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016520%2F1774346794082257_EQ26_Playoffs_Semifinal_Slovakia_vs_Kosovo_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Slovakia vs Kosovo - Playoff Semi-finals - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507664&type=hls
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774042970546735_INT_Friendlies26_Croatia_vs_Colombia_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Croatia vs Colombia - 27 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507670&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
