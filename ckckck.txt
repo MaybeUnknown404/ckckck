@@ -122,6 +122,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=b4beec50-0ed1-4c3f-9d60-fb9c57203043
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/29/c9/74/d229c974-f85d-4e0f-8728-d8b2f51c7573.png",Macau v Tanzania | FIFA Series 2026™ Rwanda | 29/03 19:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=b4beec50-0ed1-4c3f-9d60-fb9c57203043&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bedcf73d-d7c6-4c29-909a-724a3d08897d
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ea/c5/22/fc/eac522fc-2722-4640-998d-7f66776b8eb9.png",Aruba v Liechtenstein | FIFA Series 2026™ Rwanda | 29/03 22:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=bedcf73d-d7c6-4c29-909a-724a3d08897d&type=dash
