@@ -26,14 +26,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016532%2F177435934043337_DP_World_Tour26_Hero_Indian_Open_day1_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hero Indian Open Day 1 - 26 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507374&type=hls
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=32665a9d-9db1-42e6-b2de-d68931bb4a66
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/42/de/c5/b142dec5-5e94-4366-a181-c6b43c0ba49b.png",Aruba v Macau | FIFA Series 2026™ Rwanda | 26/03 18:20 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=32665a9d-9db1-42e6-b2de-d68931bb4a66&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/42/de/c5/b142dec5-5e94-4366-a181-c6b43c0ba49b.png",🔴 LIVE | Aruba v Macau | FIFA Series 2026™ Rwanda | 26/03 18:20 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=32665a9d-9db1-42e6-b2de-d68931bb4a66&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=ff6823ac-bde3-462e-8245-d8439d35fa4f
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/35/a9/56/ea/35a956ea-3317-4a1d-9867-1b6d083274f4.png",Tanzania v Liechtenstein | FIFA Series 2026™ Rwanda | 26/03 21:20 WIB
