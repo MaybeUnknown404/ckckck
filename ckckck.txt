@@ -122,6 +122,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bedcf73d-d7c6-4c29-909a-724a3d08897d
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ea/c5/22/fc/eac522fc-2722-4640-998d-7f66776b8eb9.png",Aruba v Liechtenstein | FIFA Series 2026™ Rwanda | 29/03 22:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=bedcf73d-d7c6-4c29-909a-724a3d08897d&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1160bce0-5ff0-4fdf-84c5-82bf09f6d047
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/58/11/9e/48/58119e48-9a71-4ba2-85bb-aebc80bf48d1.png",Cabo Verde v Finland | FIFA Series 2026™ New Zealand | 30/03 09:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1160bce0-5ff0-4fdf-84c5-82bf09f6d047&type=dash
