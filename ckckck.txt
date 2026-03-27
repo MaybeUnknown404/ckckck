@@ -24,14 +24,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bc/4e/21/e8/bc4e21e8-cf7a-4f67-adc0-bed1c509dab6.png",🔴 LIVE | Indonesia v St. Kitts and Nevis | FIFA Series 2026™ Indonesia | 27/03 19:50 WIB
 http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=e0f118cd-f8c5-4d43-8a91-19244fba044e&type=dash
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
-#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=89bcf836-621b-4e0c-98c1-57f64e724deb
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/85/c6/c4/cf/85c6c4cf-9900-497e-893e-3d1454ec6836.png",Uzbekistan v Gabon | FIFA Series 2026™ Uzbekistan | 27/03 20:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=89bcf836-621b-4e0c-98c1-57f64e724deb&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/85/c6/c4/cf/85c6c4cf-9900-497e-893e-3d1454ec6836.png",🔴 LIVE | Uzbekistan v Gabon | FIFA Series 2026™ Uzbekistan | 27/03 20:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=89bcf836-621b-4e0c-98c1-57f64e724deb&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=56333088-1189-4e31-ace1-2dbb4c852d6f
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/ff/76/e9/0aff76e9-5967-491e-9e25-b6914c4d637b.png",Kenya v Estonia | FIFA Series 2026™ Rwanda | 27/03 22:50 WIB
