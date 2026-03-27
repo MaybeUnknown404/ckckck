@@ -22,11 +22,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507671&type=hls
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=265db3e0-c38b-4770-acad-ca07e79d45c0
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ad/a4/73/ca/ada473ca-73e8-4a5b-9aed-101350d80b1c.png",🔴 LIVE | Australia v Cameroon | FIFA Series 2026™ Australia | 27/03 16:00 WIB
-http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=265db3e0-c38b-4770-acad-ca07e79d45c0&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f5d83f62-a672-48e1-8f38-66c4a6d3d5d3
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/12/f8/53/bb12f853-c8e6-45ed-a5f3-6cd99f0b5c7a.png",🔴 LIVE | Venezuela v Trinidad and Tobago | FIFA Series 2026™ Uzbekistan | 27/03 16:50 WIB
 http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f5d83f62-a672-48e1-8f38-66c4a6d3d5d3&type=dash
