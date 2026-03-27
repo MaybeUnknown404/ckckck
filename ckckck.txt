@@ -92,6 +92,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/3f/f9/c7/953ff9c7-206e-4917-8284-879fd37be390.png",Rwanda v Estonia | FIFA Series 2026™ Rwanda | 31/03 01:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a6/87/4d/29/a6874d29-0a40-49da-b95e-a802009e5c9c.png",Cameroon v China PR | FIFA Series 2026™ Australia | 31/03 12:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2&type=dash
@@ -216,6 +222,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg", Race
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774430487031-LiveThumbnail.jpg" tvg-name="",United States: Qualifying
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69c276a62c37bd63aa6465af&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69c276a62c37bd63aa6465af&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
