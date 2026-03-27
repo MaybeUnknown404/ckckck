@@ -11,14 +11,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c6/49/50/6c/c649506c-a9d7-4f84-8dbb-5c84c8677b57.png",🔴 LIVE | China PR v Curaçao | FIFA Series 2026™ Australia | 27/03 12:50 WIB
 http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=d02969f2-2eca-47a3-933b-fb5117abe164&type=dash
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
-#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/51/78/6a/8751786a-0011-4b83-b512-72e23faa064a.png",New Zealand v Finland | FIFA Series 2026™ New Zealand | 27/03 13:05 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/51/78/6a/8751786a-0011-4b83-b512-72e23faa064a.png",🔴 LIVE | New Zealand v Finland | FIFA Series 2026™ New Zealand | 27/03 13:05 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=667e0775-aa07-4723-8323-8827af6ca70e
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026™ Indonesia | 27/03 15:20 WIB
