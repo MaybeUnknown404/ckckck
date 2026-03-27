@@ -1,6 +1,19 @@
 #EXTM3U
 
-Error mengambil data dari API.#EXTM3U
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016626%2F1774568646584686_INT_Friendlies26_Azerbaijan_vs_St_Lucia_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Azerbaijan vs St. Lucia - 27 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507703&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016597%2F1774515548023108_International-Friendlies_England-vs-Uruguay_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - England vs Uruguay
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507734&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016597%2F1774515040323108_International-Friendlies_Switzerland-vs-Germany_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Switzerland vs Germany
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507738&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
