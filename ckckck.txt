@@ -8,7 +8,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=8e03c500-0de3-41a6-b944-f688371a5baf
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/48/6b/8c/f6486b8c-1dd5-4207-b1d4-138c77a6b303.png",Chile v Cabo Verde | FIFA Series 2026™ New Zealand | 27/03 09:50 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/48/6b/8c/f6486b8c-1dd5-4207-b1d4-138c77a6b303.png",Chile v Cabo Verde | FIFA Series 2026™ New Zealand | 27/03 09:48 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=8e03c500-0de3-41a6-b944-f688371a5baf&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
