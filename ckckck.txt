@@ -16,13 +16,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507709&type=hls
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
-#https://example.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/df/fe/dd/00/dffedd00-ff26-47d7-a6ae-a6f1358fbbab.png",🔴 LIVE | Rwanda v Grenada | FIFA Series 2026™ Rwanda | 28/03 01:50 WIB
-http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7&type=dash
-
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -89,6 +82,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9686a35-2f3d-407e-9546-745372a61952
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",Uzbekistan v Venezuela | FIFA Series 2026™ Uzbekistan | 30/03 20:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/2e/8d/be/012e8dbe-620b-41f5-9413-ab60ecf5e67f.png",Grenada v Kenya | FIFA Series 2026™ Rwanda | 30/03 22:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
