@@ -31,7 +31,7 @@ http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78&
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=667e0775-aa07-4723-8323-8827af6ca70e
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026™ Indonesia | 27/03 15:18 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026™ Indonesia | 27/03 15:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=667e0775-aa07-4723-8323-8827af6ca70e&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
