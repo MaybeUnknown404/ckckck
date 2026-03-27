@@ -1,34 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774040691271735_INT_Friendlies26_Austria_vs_Ghana_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Austria vs Ghana - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507704&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016626%2F1774568895894686_INT_Friendlies26_Greece_vs_Paraguay_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Greece vs Paraguay - 28 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507706&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774041362102959_INT_Friendlies26_Montenegro_vs_Andorra_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Montenegro vs Andorra - 27 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507705&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016597%2F1774515548023108_International-Friendlies_England-vs-Uruguay_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - England vs Uruguay
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507734&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016597%2F1774515040323108_International-Friendlies_Switzerland-vs-Germany_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Switzerland vs Germany
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507738&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/df/fe/dd/00/dffedd00-ff26-47d7-a6ae-a6f1358fbbab.png",Rwanda v Grenada | FIFA Series 2026™ Rwanda | 28/03 01:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/df/fe/dd/00/dffedd00-ff26-47d7-a6ae-a6f1358fbbab.png",🔴 LIVE | Rwanda v Grenada | FIFA Series 2026™ Rwanda | 28/03 01:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=aa900e4e-19ea-423d-9cfe-9518d615e5c7&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9e4dd33-671d-4114-a019-451aa79fb4e7
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/af/75/cf/a5af75cf-a4ff-4179-b2ec-40277fe94a13.png",Namibia v Comoros | FIFA Series 2026™ Kazakhstan | 28/03 18:50 WIB
