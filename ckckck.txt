@@ -31,7 +31,7 @@ http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=11ef3bc1-cbd5-4f19-96fa-402f91fe3d78&
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=667e0775-aa07-4723-8323-8827af6ca70e
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026™ Indonesia | 27/03 15:20 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/76/fb/95/5176fb95-6a87-46fe-bc13-f45522abbe69.png",Solomon Islands v Bulgaria | FIFA Series 2026™ Indonesia | 27/03 15:18 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=667e0775-aa07-4723-8323-8827af6ca70e&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -472,9 +472,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/924952eb-b28e-454e-9f96-d18317dff187/cb46db5d-25ff-4aac-96c2-73706cd36d9e.png" group-title="📁 MyCo Upcoming",UPCOMING - Manchester United vs Leeds United
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15210194/live/17915029/record/52034940/thumbnail/image_480.jpg" ch-number="92" group-logo="",2026 Suncheon Open Tennis Tournament quarterfinals (LIVE NOW)
-https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260327TNS1
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 4 Warriors v Wests Tigers
 https://foxau.indi1.workers.dev/index.m3u8?id=156320&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
