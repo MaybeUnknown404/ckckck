@@ -4,14 +4,15 @@
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=8e03c500-0de3-41a6-b944-f688371a5baf
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/48/6b/8c/f6486b8c-1dd5-4207-b1d4-138c77a6b303.png",Chile v Cabo Verde | FIFA Series 2026™ New Zealand | 27/03 09:48 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=8e03c500-0de3-41a6-b944-f688371a5baf&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/48/6b/8c/f6486b8c-1dd5-4207-b1d4-138c77a6b303.png",🔴 LIVE | Chile v Cabo Verde | FIFA Series 2026™ New Zealand | 27/03 09:48 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=8e03c500-0de3-41a6-b944-f688371a5baf&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=d02969f2-2eca-47a3-933b-fb5117abe164
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c6/49/50/6c/c649506c-a9d7-4f84-8dbb-5c84c8677b57.png",China PR v Curaçao | FIFA Series 2026™ Australia | 27/03 12:50 WIB
