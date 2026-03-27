@@ -236,14 +236,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69bc5849c5ce8a1d61d94112&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69bc5849c5ce8a1d61d94112&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774428610579-FreePractice1.jpg" tvg-name="",Grand Prix of The U.S: Free Practice 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69bc4cdd8791e158615c6326&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69bc4cdd8791e158615c6326&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774429928532-FP2.jpg" tvg-name="",Pirelli Portuguese Round: SPB Superpole/SBK FP2/SSP Superpole
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
