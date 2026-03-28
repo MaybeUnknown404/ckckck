@@ -74,20 +74,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/2e/8d/be/012e8dbe-620b-41f5-9413-ab60ecf5e67f.png",Grenada v Kenya | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9686a35-2f3d-407e-9546-745372a61952
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",Uzbekistan v Venezuela | FIFA Series 2026™ Uzbekistan | 30/03 20:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/2e/8d/be/012e8dbe-620b-41f5-9413-ab60ecf5e67f.png",Grenada v Kenya | FIFA Series 2026™ Rwanda | 30/03 22:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/3f/f9/c7/953ff9c7-206e-4917-8284-879fd37be390.png",Rwanda v Estonia | FIFA Series 2026™ Rwanda | 31/03 01:50 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/3f/f9/c7/953ff9c7-206e-4917-8284-879fd37be390.png",Rwanda v Estonia | FIFA Series 2026™ Rwanda | 31/03 00:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
