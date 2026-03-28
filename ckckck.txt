@@ -198,14 +198,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1773953746219-SAGABALLOONERSVSIBARAKIROBOTS.jpg" tvg-name="",Saga Ballooners vs Ibaraki Robots | Round 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69bc62e4c5ce8a1d61d94113&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69bc62e4c5ce8a1d61d94113&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1773953816338-NAGASAKIVELCAVSSENDAI89ERS.jpg" tvg-name="",Nagasaki Velca vs Sendai 89Ers | Round 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
