@@ -375,9 +375,8 @@ https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260328CHITCHIT1
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_baseball.jpg" ch-number="92" group-logo="",Shin Bongi (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260328BMBC1
 
-#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 Penrith v Parramatta [28 Mar 26 13:30 WIB]
-#https://foxau.indi1.workers.dev/index.m3u8?id=156323&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 4 Penrith v Parramatta
+https://foxau.indi1.workers.dev/index.m3u8?id=156323&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 4 North Queensland v Melbourne [28 Mar 26 15:35 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=156324&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
