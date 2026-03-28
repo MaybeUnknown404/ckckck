@@ -193,9 +193,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg", Race
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=X4ikY8qXHKnYpUc48OsCUD8uLx5LQk1v|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774432526422-TissotSprint.jpg" tvg-name="",Grand Prix of The U.S: Qualifying/Sprint
