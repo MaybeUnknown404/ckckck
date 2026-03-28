@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016626%2F1774569130189686_INT_Friendlies26_San_Marino_vs_Faroe_Islands_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 San Marino vs Faroe Islands - 28 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507711&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
