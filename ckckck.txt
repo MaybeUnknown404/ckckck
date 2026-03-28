@@ -4,22 +4,15 @@
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719049690774_International_Friendlies_Germany_vs_Ghana_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Germany vs Ghana
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507735&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719422369774_International_Friendlies_Spain_vs_Egypt_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Spain vs Egypt
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507736&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=ca655f41-487a-4e98-bec1-f85f34332bf8
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/e6/31/99/1ee63199-0490-4d9f-985b-74be5e84219b.png",American Samoa v Guam | FIFA Series 2026™ Puerto Rico | 29/03 02:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=ca655f41-487a-4e98-bec1-f85f34332bf8&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/e6/31/99/1ee63199-0490-4d9f-985b-74be5e84219b.png",🔴 LIVE | American Samoa v Guam | FIFA Series 2026™ Puerto Rico | 29/03 02:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=ca655f41-487a-4e98-bec1-f85f34332bf8&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=cb022b33-4b3c-4355-ba02-64d83e68270b
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/b5/53/70/dbb55370-61bf-4223-aa86-8d2b3063e570.png",US Virgin Islands v Puerto Rico | FIFA Series 2026™ Puerto Rico | 29/03 06:50 WIB
