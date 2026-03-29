@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016633%2F1774598599349580_UFC_Fight_Night_Adesanya_vs_Pyfer_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Adesanya vs Pyfer - 29 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507785&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016646%2F1774623053218696_NZw_vs_SAw_1st_ODI_tv_bg.jpg" group-title="🔴 Live Event",🔴 1st ODI - 29 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507789&type=hls
 
