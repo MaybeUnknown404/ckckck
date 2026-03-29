@@ -198,11 +198,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f926b72a-afda-4080-bb79-2e08503761a9&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/fyYa45pWSN_CCai2yoIRSb5RI3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969353/3a1028.jpg", Race
-https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=7I2JOVrBAScME36ZfNi2gc8QVmaQFmBC|User-Agent=VidioPlayer/6.31.6
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1773953910806-SAGABALLOONERSVSIBARAKIROBOTS.jpg" tvg-name="",Saga Ballooners vs Ibaraki Robots | Round 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
