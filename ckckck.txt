@@ -320,8 +320,9 @@ https://qtv.my.id/myco/index.m3u8?id=west-ham-united-women-vs-london-city-liones
 #https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-aston-villa-women-womens-super-league-2025-26&contentid=f7f4218d-b7c2-4009-966d-b26055d9007a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/57a5690d-fe36-491c-82ad-3f12fdfe1131/212849d4-871c-4295-b55b-59c6bd7eb4c8.jpg" group-title="🔴 Live Event",LIVE 🔴 Leicester City Women VS Brighton and Hove Albion Women
-https://qtv.my.id/myco/index.m3u8?id=leicester-city-women-vs-brighton-and-hove-albion-women-womens-super-league-2025-26&contentid=76d17dc2-080e-4466-aba4-b61ad8ada87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/57a5690d-fe36-491c-82ad-3f12fdfe1131/212849d4-871c-4295-b55b-59c6bd7eb4c8.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City Women VS Brighton and Hove Albion Women
+#https://qtv.my.id/myco/index.m3u8?id=leicester-city-women-vs-brighton-and-hove-albion-women-womens-super-league-2025-26&contentid=76d17dc2-080e-4466-aba4-b61ad8ada87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/54b06698-9ee7-4433-96ed-dbbf935a5103/8a4c7d42-2a2f-4c0b-b37b-677de45b95e6.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Bayern Munich Women VS Manchester United Women
 #https://qtv.my.id/myco/index.m3u8?id=bayern-munich-women-vs-manchester-united-women-uefa-womens-champions-league-2025-26&contentid=aff6fa07-5fd8-42db-a180-1bf3ea76e61f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -355,7 +356,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_volleyball.jpg" ch-number="92" group-logo="",2025~2026 Special V (LIVE NOW)
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/17914287/record/52195166/thumbnail/image_480.jpg" ch-number="92" group-logo="",2025~2026 Special V (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260329EVEV1
 
 #EXTINF:-1 group-logo="" group-title="🔴 Premier League" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
