@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016633%2F1774598599349580_UFC_Fight_Night_Adesanya_vs_Pyfer_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Adesanya vs Pyfer - 29 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507785&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016646%2F1774623053218696_NZw_vs_SAw_1st_ODI_tv_bg.jpg" group-title="🔴 Live Event",🔴 1st ODI - 29 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507789&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719049690774_International_Friendlies_Germany_vs_Ghana_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Germany vs Ghana
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507735&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774718570559774_International_Friendlies_England_vs_Japan_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - England vs Japan
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507733&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719422369774_International_Friendlies_Spain_vs_Egypt_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Spain vs Egypt
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507736&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
