@@ -41,7 +41,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=3c230258-1804-41dc-9c6e-81d9a68f54a3
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a7/d1/2a/67/a7d12a67-1ee6-42d3-a89a-108f08f501fd.png",Solomon Islands v St. Kitts and Nevis | FIFA Series 2026™ Indonesia | 30/03 15:20 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a7/d1/2a/67/a7d12a67-1ee6-42d3-a89a-108f08f501fd.png",St. Kitts and Nevis v Solomon Islands | FIFA Series 2026™ Indonesia | 30/03 15:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=3c230258-1804-41dc-9c6e-81d9a68f54a3&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
