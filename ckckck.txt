@@ -328,9 +328,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8472eb21-d658-418c-bbf6-bf14a0049989/95db2157-254b-41bc-b85d-5736174141a6.jpg" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United Women VS London City Lionesses
-#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-women-vs-london-city-lionesses-womens-super-league-2025-26&contentid=ff8ed78f-90c8-4f70-b3f5-f822b2fd22a4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8472eb21-d658-418c-bbf6-bf14a0049989/95db2157-254b-41bc-b85d-5736174141a6.jpg" group-title="🔴 Live Event",LIVE 🔴 West Ham United Women VS London City Lionesses
+https://qtv.my.id/myco/index.m3u8?id=west-ham-united-women-vs-london-city-lionesses-womens-super-league-2025-26&contentid=ff8ed78f-90c8-4f70-b3f5-f822b2fd22a4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f31c763d-616e-4557-b7e5-71c0817e1963/6ab5925d-815f-44b8-affc-14b066cc7d5f.jpg" group-title="🔴 Live Event",LIVE 🔴 Chelsea F.C. Women VS Aston Villa Women
 https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-aston-villa-women-womens-super-league-2025-26&contentid=f7f4218d-b7c2-4009-966d-b26055d9007a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -371,7 +370,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/17978134/record/52187494/thumbnail/image_480.jpg" ch-number="92" group-logo="",Woori Card VS Hyundai Capital
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/17978134/record/52187494/thumbnail/image_480.jpg" ch-number="92" group-logo="",Woori Card VS Hyundai Capital (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260329022M258
 
 #EXTINF:-1 group-logo="" group-title="🔴 Premier League" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
