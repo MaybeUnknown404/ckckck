@@ -6,9 +6,6 @@
 #https://archertv.my.id/atraksi/vidx.mpd?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016646%2F1774623053218696_NZw_vs_SAw_1st_ODI_tv_bg.jpg" group-title="🔴 Live Event",🔴 1st ODI - 29 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507789&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016532%2F177435931504337_DP_World_Tour26_Hero_Indian_Open_day4_24mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hero Indian Open Day 4 - 29 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507726&type=hls
 
