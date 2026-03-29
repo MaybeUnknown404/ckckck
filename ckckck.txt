@@ -53,7 +53,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c0/17/66/82/c0176682-50a5-409e-8993-92a4d2f40c55.png",Bulgaria v Indonesia | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c0/17/66/82/c0176682-50a5-409e-8993-92a4d2f40c55.png",Indonesia v Bulgaria | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
