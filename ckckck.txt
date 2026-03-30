@@ -407,7 +407,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/17917559/record/52216362/thumbnail/image_480.jpg" ch-number="92" group-logo="",BNK Some VS KB Stars (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=202603300460188
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18021090/record/52216775/thumbnail/image_480.jpg" ch-number="92" group-logo="",weekly volleyball (LIVE NOW)
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_volleyball.jpg" ch-number="92" group-logo="",weekly volleyball (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260330SBS1
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 5 Dolphins v Manly [02 Apr 26 16:00 WIB]
