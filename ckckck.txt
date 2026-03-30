@@ -1,7 +1,9 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20992&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Timnas Match Day" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg", Final: Indonesia vs Bulgaria
-https://archertv.my.id/atraksi/vidx.m3u8?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://archertv.my.id/atraksi/vidx.mpd?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719049690774_International_Friendlies_Germany_vs_Ghana_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Germany vs Ghana
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507735&type=hls
@@ -430,4 +432,4 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cff6a455f311493d88e3c6e75a6029d:cbde61170000fec8f3b29199ed954325
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/20992/file/drm/dash/primary/av1-1080p/av1-1080p-1774871727_000029875200.m4s?hdntl=exp=1774888455~acl=/stream/20992/file/drm/dash/stream.mpd!/stream/20992/file/drm/dash/*/aac/*!/stream/20992/file/drm/dash/*/*-1080p/*!/stream/20992/file/drm/dash/*/*-720p/*!/stream/20992/file/drm/dash/*/*-480p/*!/stream/20992/file/drm/dash/*/*-360p/*~id=210679424~data=hdntl~hmac=d98d177bac8d5b8613b354aaa90d297c9ae2d10a2f28d648dadd7696fed781aa
+https://archertv.my.id/atraksi/vidx.m3u8?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
