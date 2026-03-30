@@ -325,6 +325,10 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
+#https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae007439-24c9-450b-a002-5ff5d3e0eaa0/97e2632f-5229-4045-b3ef-3a26a7b6aaf3.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brisbane Roar VS Sydney FC
 #https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -343,10 +347,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Cambridge United VS Swindon Town
 #https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
-#https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6f2b03c8-8b8d-414a-8296-e0272e7a9a64/1fd4ccd8-e254-468c-b257-8f11d0eca722.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Central Coast Mariners VS Perth Glory
