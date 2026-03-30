@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016626%2F1774569331100686_INT_Friendlies26_Azerbaijan_vs_Sierra_Leone_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Azerbaijan vs Sierra Leone - 30 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507774&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774105374332735_INT_Friendlies26_Cyprus_vs_Moldova_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Cyprus vs Moldova - 30 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507790&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719049690774_International_Friendlies_Germany_vs_Ghana_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Germany vs Ghana
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507735&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -29,11 +32,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/02/01/e4/8d0201e4-e4d9-4e05-bbd7-67c3b5dfef27.png",🔴 LIVE | Indonesia v Bulgaria | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
-http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c&type=dash
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/1f/44/d4/6d1f44d4-1f91-4489-aa01-e62cb43850b1.png",🔴 LIVE | Kenya v Grenada | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
