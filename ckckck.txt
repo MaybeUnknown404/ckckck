@@ -369,12 +369,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-western-sydney-wanderers-a-league-2025-26&contentid=d882f7a4-ac3a-49d0-a4a0-25c36c9a6911|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
-#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Najmah SC
 #https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-najmah-sc-roshn-saudi-league-2025-2026&contentid=fe1b095f-da9a-4ab3-9f06-abc48b1ee3ea|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
+#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d1aec5d6-4abf-422f-be43-d49795511d2f/528c206a-6c4b-442b-89f7-faafbc9bbee0.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al Hilal SFC VS Al Taawoun
