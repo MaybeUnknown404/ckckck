@@ -333,16 +333,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
-#https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Lyon Women VS VfL Wolfsburg Women
 #https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
-#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/22d989d7-3bd1-4c65-b27d-789168d88274/5f6518cc-fb17-46fe-ac30-80f5baf2157f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Adelaide United VS Auckland
@@ -353,8 +345,16 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
+#https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6f2b03c8-8b8d-414a-8296-e0272e7a9a64/1fd4ccd8-e254-468c-b257-8f11d0eca722.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Central Coast Mariners VS Perth Glory
 #https://qtv.my.id/myco/index.m3u8?id=central-coast-mariners-vs-perth-glory-a-league-2025-26&contentid=e948c074-2fa5-4007-afd0-f6d2512f54e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
+#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6eade17d-e9d3-46ae-80b1-b70352de009b/487953b7-926f-4a7f-8a4a-70a8691da203.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Western Sydney Wanderers
