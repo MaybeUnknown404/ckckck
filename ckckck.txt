@@ -1,9 +1,7 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20992&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg", Final: Indonesia vs Bulgaria
-#https://archertv.my.id/atraksi/vidx.mpd?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#https://archertv.my.id/atraksi/vidx.m3u8?id=20992&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016684%2F1774719049690774_International_Friendlies_Germany_vs_Ghana_28mar_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - UEFA International Friendlies - Germany vs Ghana
@@ -408,6 +406,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/17917559/record/52216362/thumbnail/image_480.jpg" ch-number="92" group-logo="",BNK Some VS KB Stars (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=202603300460188
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_volleyball.jpg" ch-number="92" group-logo="",weekly volleyball (LIVE NOW)
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260330SBS1
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 5 Dolphins v Manly [02 Apr 26 16:00 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=157515&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
