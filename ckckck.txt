@@ -16,14 +16,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=3c230258-1804-41dc-9c6e-81d9a68f54a3
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/66/99/86/a6/669986a6-f9fd-465a-8f5f-2dee9dddead3.png",St. Kitts and Nevis v Solomon Islands | FIFA Series 2026™ Indonesia | 30/03 15:20 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=3c230258-1804-41dc-9c6e-81d9a68f54a3&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/66/99/86/a6/669986a6-f9fd-465a-8f5f-2dee9dddead3.png",🔴 LIVE | St. Kitts and Nevis v Solomon Islands | FIFA Series 2026™ Indonesia | 30/03 15:20 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=3c230258-1804-41dc-9c6e-81d9a68f54a3&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=b32e5614-361d-4348-a390-f1f18757386b
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b8/25/66/02/b8256602-59bc-4558-bb32-445240c71de1.png",Trinidad and Tobago v Gabon | FIFA Series 2026™ Uzbekistan | 30/03 16:50 WIB
