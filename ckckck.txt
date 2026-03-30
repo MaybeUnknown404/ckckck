@@ -25,14 +25,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/02/01/e4/8d0201e4-e4d9-4e05-bbd7-67c3b5dfef27.png",Indonesia v Bulgaria | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/02/01/e4/8d0201e4-e4d9-4e05-bbd7-67c3b5dfef27.png",🔴 LIVE | Indonesia v Bulgaria | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/2e/8d/be/012e8dbe-620b-41f5-9413-ab60ecf5e67f.png",Grenada v Kenya | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
