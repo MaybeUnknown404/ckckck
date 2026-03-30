@@ -33,11 +33,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/1f/44/d4/6d1f44d4-1f91-4489-aa01-e62cb43850b1.png",🔴 LIVE | Kenya v Grenada | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
-http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9686a35-2f3d-407e-9546-745372a61952
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",🔴 LIVE | Uzbekistan v Venezuela | FIFA Series 2026™ Uzbekistan | 30/03 20:50 WIB
 http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
