@@ -36,20 +36,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/02/01/e4/8d0201e4-e4d9-4e05-bbd7-67c3b5dfef27.png",🔴 LIVE | Indonesia v Bulgaria | FIFA Series 2026™ Indonesia | 30/03 19:50 WIB
 http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f4bf9d87-00ff-4425-8e8e-1048927aa97c&type=dash
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
-#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c6957d87-6b34-4dbe-86b4-09024f702c6a
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/1f/44/d4/6d1f44d4-1f91-4489-aa01-e62cb43850b1.png",Kenya v Grenada | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/1f/44/d4/6d1f44d4-1f91-4489-aa01-e62cb43850b1.png",🔴 LIVE | Kenya v Grenada | FIFA Series 2026™ Rwanda | 30/03 20:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c6957d87-6b34-4dbe-86b4-09024f702c6a&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=f9686a35-2f3d-407e-9546-745372a61952
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",Uzbekistan v Venezuela | FIFA Series 2026™ Uzbekistan | 30/03 20:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/ec/9d/0f/c8ec9d0f-00b7-4d97-9252-8c934c8c65e2.png",🔴 LIVE | Uzbekistan v Venezuela | FIFA Series 2026™ Uzbekistan | 30/03 20:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/3f/f9/c7/953ff9c7-206e-4917-8284-879fd37be390.png",Rwanda v Estonia | FIFA Series 2026™ Rwanda | 31/03 00:20 WIB
