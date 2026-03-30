@@ -50,7 +50,7 @@ http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f9686a35-2f3d-407e-9546-745372a61952&
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/3f/f9/c7/953ff9c7-206e-4917-8284-879fd37be390.png",Rwanda v Estonia | FIFA Series 2026™ Rwanda | 31/03 00:20 WIB
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e9/13/7b/49/e9137b49-862c-4d68-a733-5132ec0890d2.png",Estonia v Rwanda | FIFA Series 2026™ Rwanda | 31/03 00:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=bfad5128-dc9c-4671-9a21-59b0bbe3e2f8&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
