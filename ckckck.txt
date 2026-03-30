@@ -341,8 +341,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
+#https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/22d989d7-3bd1-4c65-b27d-789168d88274/5f6518cc-fb17-46fe-ac30-80f5baf2157f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Adelaide United VS Auckland
 #https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-auckland-a-league-2025-26&contentid=34e85cc0-6b56-4d1d-ae45-382b268a55cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4392779a-e632-4e2d-abc7-2cf271ef3292/4f0bb0bd-efc7-4b74-83b7-e141e763a4d1.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Middlesbrough F.C. VS Millwall F.C.
+#https://qtv.my.id/myco/index.m3u8?id=middlesbrough-fc-vs-millwall-fc-efl-championship-2025-26&contentid=22ba42b5-9297-4867-b025-59b25fa3d9e5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/58145148-ed07-4d83-9aa1-e800c242f812/b768bd0f-8573-45c4-8c6a-2cfbe7e76d72.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Coventry City F.C. VS Derby County Football Club
+#https://qtv.my.id/myco/index.m3u8?id=coventry-city-fc-vs-derby-county-football-club-efl-championship-2025-26&contentid=4fa7d35b-2aba-415e-8c91-c27e7bfeea8a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Cambridge United VS Swindon Town
@@ -353,16 +365,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=central-coast-mariners-vs-perth-glory-a-league-2025-26&contentid=e948c074-2fa5-4007-afd0-f6d2512f54e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
-#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6eade17d-e9d3-46ae-80b1-b70352de009b/487953b7-926f-4a7f-8a4a-70a8691da203.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Western Sydney Wanderers
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-western-sydney-wanderers-a-league-2025-26&contentid=d882f7a4-ac3a-49d0-a4a0-25c36c9a6911|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4392779a-e632-4e2d-abc7-2cf271ef3292/4f0bb0bd-efc7-4b74-83b7-e141e763a4d1.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Middlesbrough F.C. VS Millwall F.C.
-#https://qtv.my.id/myco/index.m3u8?id=middlesbrough-fc-vs-millwall-fc-efl-championship-2025-26&contentid=22ba42b5-9297-4867-b025-59b25fa3d9e5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
+#https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Najmah SC
@@ -371,14 +379,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d1aec5d6-4abf-422f-be43-d49795511d2f/528c206a-6c4b-442b-89f7-faafbc9bbee0.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al Hilal SFC VS Al Taawoun
 #https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-taawoun-roshn-saudi-league-2025-2026&contentid=aa546aa5-5d82-4e03-bea3-3066ae72ad6e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/58145148-ed07-4d83-9aa1-e800c242f812/b768bd0f-8573-45c4-8c6a-2cfbe7e76d72.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Coventry City F.C. VS Derby County Football Club
-#https://qtv.my.id/myco/index.m3u8?id=coventry-city-fc-vs-derby-county-football-club-efl-championship-2025-26&contentid=4fa7d35b-2aba-415e-8c91-c27e7bfeea8a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
-#https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/2d9aa51d-fd87-48e2-b5af-ad194cbf0943/5c6c9f5b-8aa6-42f9-9050-0cf6b2a5a775.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs Newcastle United
