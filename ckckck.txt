@@ -1,5 +1,44 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016706%2F1774840062103799_European_Qualifiers26_Play_offs_Finals_Sweden_vs_Poland_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Sweden vs Poland - Playoff Final - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507969&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016706%2F1774839956570799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507968&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774130926173735_INT_Friendlies26_England_vs_Japan_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 England vs Japan - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507929&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016706%2F1774840161496799_European_Qualifiers26_Play_offs_Finals_Kosovo_vs_Turkiye_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Kosovo vs Türkiye - Playoff Final - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507970&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016706%2F1774840306916799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Czechia vs Denmark - Playoff Final - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507971&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016748%2F1774945519988671_INT_Friendlies26_Spain_vs_Egypt_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Spain vs Egypt - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507936&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774131382854959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Netherlands vs Ecuador - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507930&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016470%2F1774131709539735_INT_Friendlies26_Austria_vs_Korea_Republic_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Austria vs Korea Republic - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507931&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016705%2F1774838929418538_INT_Friendlies26_Ukraine_vs_Albania_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Ukraine vs Albania - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507933&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016705%2F1774839168162538_INT_Friendlies26_Slovakia_vs_Romania_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Slovakia vs Romania - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507934&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016705%2F1774838772543538_INT_Friendlies26_Wales_vs_Northern_Ireland_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Wales vs Northern Ireland - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507932&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016705%2F1774839376307538_INT_Friendlies26_Republic_of_Ireland_vs_North_Macedonia_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Republic of Ireland vs North Macedonia - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507935&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774112434248959_INT_Friendlies26_Hungary_vs_Greece_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hungary vs Greece - 31 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507926&type=hls
+
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
