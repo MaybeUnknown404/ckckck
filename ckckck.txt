@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774017821267959_INT_Friendlies26_Kazakhstan_vs_Comoros_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Kazakhstan vs Comoros - 31 Mar 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507846&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016701%2F1774779122909601_IFC_Gokulam_Kerala_FC_vs_Aizawl_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Gokulam Kerala FC vs Aizawl FC - 31 Mar 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507847&type=hls
 
