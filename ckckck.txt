@@ -24,14 +24,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=05aca402-c4ee-4318-b383-a4a24cd7861b
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cf/26/7e/fe/cf267efe-410e-44b9-b7a4-d9039e9bcb80.png",Australia v Curaçao | FIFA Series 2026™ Australia | 31/03 16:00 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=05aca402-c4ee-4318-b383-a4a24cd7861b&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cf/26/7e/fe/cf267efe-410e-44b9-b7a4-d9039e9bcb80.png",🔴 LIVE | Australia v Curaçao | FIFA Series 2026™ Australia | 31/03 16:00 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=05aca402-c4ee-4318-b383-a4a24cd7861b&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=6e09479e-97e7-47b3-930d-7b29dd82cfc3
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0f/d3/cf/6b/0fd3cf6b-5f3c-4de1-9dda-a1c196f6450c.png",Pakistan v Turks and Caicos Islands | FIFA Series 2026™ Côte d'Ivoire | 09/04 22:50 WIB
