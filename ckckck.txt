@@ -20,14 +20,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#EXTINF:-1 group-title="🔴 LIVE FIFA Series" tvg-logo="https://i.ibb.co/1r8L7yH/live.png",=== 🔴 LIVE MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a6/87/4d/29/a6874d29-0a40-49da-b95e-a802009e5c9c.png",Cameroon v China PR | FIFA Series 2026™ Australia | 31/03 12:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="🔴 LIVE FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a6/87/4d/29/a6874d29-0a40-49da-b95e-a802009e5c9c.png",🔴 LIVE | Cameroon v China PR | FIFA Series 2026™ Australia | 31/03 12:50 WIB
+http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=1d7545d6-7c40-4c35-a023-ec0b2c0205b2&type=dash
 
+#EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
+#https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=05aca402-c4ee-4318-b383-a4a24cd7861b
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cf/26/7e/fe/cf267efe-410e-44b9-b7a4-d9039e9bcb80.png",Australia v Curaçao | FIFA Series 2026™ Australia | 31/03 16:00 WIB
