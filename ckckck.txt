@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016682%2F1774712390424734_EQ26_Playoffs_Final_Sweden_vs_Poland_28mar_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Playoff Finals - European Qualifiers for 2026 FIFA World Cup
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016724%2F1774870828953168_EQ_Finals_combo_tonight_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Playoff Finals - European Qualifiers for 2026 FIFA World Cup
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507951&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
