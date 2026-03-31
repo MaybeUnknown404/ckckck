@@ -15,6 +15,9 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507970&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016706%2F1774840306916799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Czechia vs Denmark - Playoff Final - 1 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507971&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016748%2F1774945519988671_INT_Friendlies26_Spain_vs_Egypt_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Spain vs Egypt - 1 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090507936&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774131382854959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Netherlands vs Ecuador - 1 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507930&type=hls
 
