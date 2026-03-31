@@ -36,9 +36,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090507932&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016705%2F1774839376307538_INT_Friendlies26_Republic_of_Ireland_vs_North_Macedonia_27mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Republic of Ireland vs North Macedonia - 1 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090507935&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016471%2F1774112434248959_INT_Friendlies26_Hungary_vs_Greece_20mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hungary vs Greece - 31 Mar 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507926&type=hls
-
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
