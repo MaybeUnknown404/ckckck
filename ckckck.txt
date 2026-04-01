@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016646%2F1774623294349696_NZw_vs_SAw_2nd_ODI_tv_bg.jpg" group-title="🔴 Live Event",🔴 2nd ODI - 1 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090507972&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016735%2F1774888259263727_FA_Cup_26_QF_Manchester_City_vs_Liverpool_promo_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Manchester City vs Liverpool
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507960&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
