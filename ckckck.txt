@@ -154,6 +154,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0hbDOYhmcpKXLwQMEGA9nB3dLWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997663/04385c.jpg", AZ Alkmaar vs Fortuna Sittard
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20288&type=drm&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PIt9G_Nq6HVTjLTW6MuqxI3wAgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997652/93a13e.jpg", Man City vs Liverpool
 #https://vid-id.indi1.workers.dev/index.mpd?id=20288&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
