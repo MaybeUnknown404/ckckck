@@ -405,11 +405,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/54b06698-9ee7-4433-96ed-dbbf935a5103/8a4c7d42-2a2f-4c0b-b37b-677de45b95e6.jpg" group-title="🔴 Live Event",LIVE 🔴 Bayern Munich Women VS Manchester United Women
-https://qtv.my.id/myco/index.m3u8?id=bayern-munich-women-vs-manchester-united-women-uefa-womens-champions-league-2025-26&contentid=aff6fa07-5fd8-42db-a180-1bf3ea76e61f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/54b06698-9ee7-4433-96ed-dbbf935a5103/8a4c7d42-2a2f-4c0b-b37b-677de45b95e6.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Bayern Munich Women VS Manchester United Women
+#https://qtv.my.id/myco/index.m3u8?id=bayern-munich-women-vs-manchester-united-women-uefa-womens-champions-league-2025-26&contentid=aff6fa07-5fd8-42db-a180-1bf3ea76e61f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6c8cd646-72c8-4b64-8c42-2183f6befaac/91c4dbfa-deef-4c8e-ac2d-40882e98d039.jpg" group-title="🔴 Live Event",LIVE 🔴 Chelsea F.C. Women VS Arsenal Women
-https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6c8cd646-72c8-4b64-8c42-2183f6befaac/91c4dbfa-deef-4c8e-ac2d-40882e98d039.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Chelsea F.C. Women VS Arsenal Women
+#https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
 #https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
