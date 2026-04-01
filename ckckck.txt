@@ -166,6 +166,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=20288&type=dash&token=5G6rEQLClbjqWZAseqqAvZog0UZGB4t6|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774847391693-AgustaNational.jpg" tvg-name="",Augusta National Women's Amateur | Round 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69c7868faecddc14e8748a2a&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69c7868faecddc14e8748a2a&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hyZbj4yDYMxAQEcbtuKfRgbIpLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/20b43f.jpg", Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator
@@ -400,9 +408,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/54b06698-9ee7-4433-96ed-dbbf935a5103/8a4c7d42-2a2f-4c0b-b37b-677de45b95e6.jpg" group-title="🔴 Live Event",LIVE 🔴 Bayern Munich Women VS Manchester United Women
 https://qtv.my.id/myco/index.m3u8?id=bayern-munich-women-vs-manchester-united-women-uefa-womens-champions-league-2025-26&contentid=aff6fa07-5fd8-42db-a180-1bf3ea76e61f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6c8cd646-72c8-4b64-8c42-2183f6befaac/91c4dbfa-deef-4c8e-ac2d-40882e98d039.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Chelsea F.C. Women VS Arsenal Women
-#https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6c8cd646-72c8-4b64-8c42-2183f6befaac/91c4dbfa-deef-4c8e-ac2d-40882e98d039.jpg" group-title="🔴 Live Event",LIVE 🔴 Chelsea F.C. Women VS Arsenal Women
+https://qtv.my.id/myco/index.m3u8?id=chelsea-fc-women-vs-arsenal-women-uefa-womens-champions-league-2025-26&contentid=e218d8bb-c903-4736-8b27-8859144fc3fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
 #https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
