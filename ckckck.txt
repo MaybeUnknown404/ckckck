@@ -539,9 +539,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1d27cb58-991f-4e8b-b7ac-961db440df23/9b553cea-a405-4991-a921-b7de333dab8a.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Barcelona Women VS Real Madrid Women
-#https://qtv.my.id/myco/index.m3u8?id=barcelona-women-vs-real-madrid-women-uefa-womens-champions-league-2025-26&contentid=e539877d-6505-4299-8138-eadc7b66a5d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1d27cb58-991f-4e8b-b7ac-961db440df23/9b553cea-a405-4991-a921-b7de333dab8a.jpg" group-title="🔴 Live Event",LIVE 🔴 Barcelona Women VS Real Madrid Women
+https://qtv.my.id/myco/index.m3u8?id=barcelona-women-vs-real-madrid-women-uefa-womens-champions-league-2025-26&contentid=e539877d-6505-4299-8138-eadc7b66a5d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Lyon Women VS VfL Wolfsburg Women
 #https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
