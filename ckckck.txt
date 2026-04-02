@@ -249,11 +249,6 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69c78c2ed3e7f71402f02986&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hyZbj4yDYMxAQEcbtuKfRgbIpLg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/20b43f.jpg", Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator
-https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DqdcPt6P8nqBkvVL4qReREzMjpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974497/e7b360.jpg", Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile
 #https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -532,11 +527,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="🔴 Live Event",LIVE 🔴 Macarthur VS Newcastle Jets
-https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/cbd0f8a9-b6fb-4670-be56-cc785777715a/c1f122ed-5fa2-4833-9af9-ba44472f8445.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Newcastle Jets
+#https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae007439-24c9-450b-a002-5ff5d3e0eaa0/97e2632f-5229-4045-b3ef-3a26a7b6aaf3.jpg" group-title="🔴 Live Event",LIVE 🔴 Brisbane Roar VS Sydney FC
-https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae007439-24c9-450b-a002-5ff5d3e0eaa0/97e2632f-5229-4045-b3ef-3a26a7b6aaf3.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brisbane Roar VS Sydney FC
+#https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1d27cb58-991f-4e8b-b7ac-961db440df23/9b553cea-a405-4991-a921-b7de333dab8a.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Barcelona Women VS Real Madrid Women
 #https://qtv.my.id/myco/index.m3u8?id=barcelona-women-vs-real-madrid-women-uefa-womens-champions-league-2025-26&contentid=e539877d-6505-4299-8138-eadc7b66a5d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
