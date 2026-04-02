@@ -123,6 +123,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=QuYFGWze6qP74nmLcPjLi7nGnZNLtdPM
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/imR9vSVH-vBssMpgJFclZThOwts=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000765/bc4961.jpg", Lazio vs Parma
+#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=QuYFGWze6qP74nmLcPjLi7nGnZNLtdPM|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=QuYFGWze6qP74nmLcPjLi7nGnZNLtdPM
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_N8g7mLIGTS3VVMjpBW_tz7iE5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981738/981297.jpg", Rayo Vallecano vs Elche
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=QuYFGWze6qP74nmLcPjLi7nGnZNLtdPM|User-Agent=VidioPlayer/6.31.6
