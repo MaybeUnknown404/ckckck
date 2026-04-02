@@ -552,6 +552,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="🔴 Live Event",LIVE 🔴 Cambridge United VS Swindon Town
+https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="🔴 Live Event",LIVE 🔴 Lyon Women VS VfL Wolfsburg Women
 https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
@@ -570,9 +573,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/58145148-ed07-4d83-9aa1-e800c242f812/b768bd0f-8573-45c4-8c6a-2cfbe7e76d72.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Coventry City F.C. VS Derby County Football Club
 #https://qtv.my.id/myco/index.m3u8?id=coventry-city-fc-vs-derby-county-football-club-efl-championship-2025-26&contentid=4fa7d35b-2aba-415e-8c91-c27e7bfeea8a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="🔴 Live Event",LIVE 🔴 Cambridge United VS Swindon Town
-https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6f2b03c8-8b8d-414a-8296-e0272e7a9a64/1fd4ccd8-e254-468c-b257-8f11d0eca722.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Central Coast Mariners VS Perth Glory
 #https://qtv.my.id/myco/index.m3u8?id=central-coast-mariners-vs-perth-glory-a-league-2025-26&contentid=e948c074-2fa5-4007-afd0-f6d2512f54e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
