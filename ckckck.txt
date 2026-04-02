@@ -530,8 +530,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-newcastle-jets-a-league-2025-26&contentid=691fee04-1018-4c07-893f-0139f71216a1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae007439-24c9-450b-a002-5ff5d3e0eaa0/97e2632f-5229-4045-b3ef-3a26a7b6aaf3.jpg" group-title="🔴 Live Event",LIVE 🔴 Brisbane Roar VS Sydney FC
-https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae007439-24c9-450b-a002-5ff5d3e0eaa0/97e2632f-5229-4045-b3ef-3a26a7b6aaf3.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brisbane Roar VS Sydney FC
+#https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-sydney-fc-a-league-2025-26&contentid=650ec6a7-7c59-41c7-ab7e-92239c79d865|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1d27cb58-991f-4e8b-b7ac-961db440df23/9b553cea-a405-4991-a921-b7de333dab8a.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Barcelona Women VS Real Madrid Women
 #https://qtv.my.id/myco/index.m3u8?id=barcelona-women-vs-real-madrid-women-uefa-womens-champions-league-2025-26&contentid=e539877d-6505-4299-8138-eadc7b66a5d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
