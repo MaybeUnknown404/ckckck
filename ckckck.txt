@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016735%2F1774888173565727_FA_Cup_26_QF_Chelsea_vs_Port_Vale_promo_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Chelsea vs Port Vale
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507961&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016735%2F1774888122340727_FA_Cup_26_QF_Southampton_vs_Arsenal_promo_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Southampton vs Arsenal
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507962&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -534,8 +546,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="🔴 Live Event",LIVE 🔴 Lyon Women VS VfL Wolfsburg Women
-https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Lyon Women VS VfL Wolfsburg Women
+#https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/22d989d7-3bd1-4c65-b27d-789168d88274/5f6518cc-fb17-46fe-ac30-80f5baf2157f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Adelaide United VS Auckland
 #https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-auckland-a-league-2025-26&contentid=34e85cc0-6b56-4d1d-ae45-382b268a55cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
