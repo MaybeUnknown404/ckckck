@@ -542,9 +542,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1d27cb58-991f-4e8b-b7ac-961db440df23/9b553cea-a405-4991-a921-b7de333dab8a.jpg" group-title="🔴 Live Event",LIVE 🔴 Barcelona Women VS Real Madrid Women
 https://qtv.my.id/myco/index.m3u8?id=barcelona-women-vs-real-madrid-women-uefa-womens-champions-league-2025-26&contentid=e539877d-6505-4299-8138-eadc7b66a5d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Lyon Women VS VfL Wolfsburg Women
-#https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b79bfa6e-749d-444d-8487-f833e09287f2/5d0db7bb-5764-46b5-ac4c-0b205163b416.jpg" group-title="🔴 Live Event",LIVE 🔴 Lyon Women VS VfL Wolfsburg Women
+https://qtv.my.id/myco/index.m3u8?id=lyon-women-vs-vfl-wolfsburg-women-uefa-womens-champions-league-2025-26&contentid=89a5f1f4-8285-4671-ac5e-a85dabd9d864|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
 #https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -562,9 +561,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=coventry-city-fc-vs-derby-county-football-club-efl-championship-2025-26&contentid=4fa7d35b-2aba-415e-8c91-c27e7bfeea8a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Cambridge United VS Swindon Town
-#https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a96c0cad-8ab0-4863-8271-a0be4bb1f41b/5739e309-5c64-4c0c-8503-57eada2c911d.jpg" group-title="🔴 Live Event",LIVE 🔴 Cambridge United VS Swindon Town
+https://qtv.my.id/myco/index.m3u8?id=cambridge-united-vs-swindon-town-league-two-2025-26&contentid=2df2d317-6904-4b2d-bedb-a0dba556811c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6f2b03c8-8b8d-414a-8296-e0272e7a9a64/1fd4ccd8-e254-468c-b257-8f11d0eca722.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Central Coast Mariners VS Perth Glory
 #https://qtv.my.id/myco/index.m3u8?id=central-coast-mariners-vs-perth-glory-a-league-2025-26&contentid=e948c074-2fa5-4007-afd0-f6d2512f54e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
