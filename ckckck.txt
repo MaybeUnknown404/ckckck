@@ -595,7 +595,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678710/live/18039435/record/52334967/thumbnail/image_480.jpg" ch-number="92" group-logo="",Korea Expressway Corporation VS GS Caltex
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260403022F263
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18039466/record/52335147/thumbnail/image_480.jpg" ch-number="92" group-logo="",Samsung Life Insurance VS Woori Bank
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18039466/record/52335147/thumbnail/image_480.jpg" ch-number="92" group-logo="",Samsung Life Insurance VS Woori Bank (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=202604030460190
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 5 Penrith v Melbourne
