@@ -497,8 +497,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="🔴 Live Event",LIVE 🔴 Leicester City F.C. VS Preston North End F.C.
-https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
+#https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Najmah SC
 #https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-najmah-sc-roshn-saudi-league-2025-2026&contentid=fe1b095f-da9a-4ab3-9f06-abc48b1ee3ea|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
