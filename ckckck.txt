@@ -403,9 +403,8 @@ http://spacetv.my.id/experimen/ge.mpd?id=301054&type=dash|User-Agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301100&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301100/original/latest.jpg" group-title="📅 Upcoming",⏳ Baskonia - Real Madrid
-#http://spacetv.my.id/experimen/ge.mpd?id=301100&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301100/original/latest.jpg" group-title="🔴 Live Event",🔴 Baskonia - Real Madrid
+http://spacetv.my.id/experimen/ge.mpd?id=301100&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301055&type=drm
@@ -474,6 +473,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301076&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/03/26185025-czswhfxixtlzdwgg.png" group-title="📅 Upcoming",⏳ Hoffenheim - Mainz
+#http://spacetv.my.id/experimen/ge.mpd?id=301076&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301376&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02130802-ow0ykuu47innczft.png" group-title="📅 Upcoming",⏳ Real Madrid - Bayern Munich
 #http://spacetv.my.id/experimen/ge.mpd?id=301376&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -517,9 +522,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Najmah SC
-#https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-najmah-sc-roshn-saudi-league-2025-2026&contentid=fe1b095f-da9a-4ab3-9f06-abc48b1ee3ea|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="🔴 Live Event",LIVE 🔴 Al-Nassr FC VS Al-Najmah SC
+https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-najmah-sc-roshn-saudi-league-2025-2026&contentid=fe1b095f-da9a-4ab3-9f06-abc48b1ee3ea|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/58145148-ed07-4d83-9aa1-e800c242f812/b768bd0f-8573-45c4-8c6a-2cfbe7e76d72.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Coventry City F.C. VS Derby County Football Club
 #https://qtv.my.id/myco/index.m3u8?id=coventry-city-fc-vs-derby-county-football-club-efl-championship-2025-26&contentid=4fa7d35b-2aba-415e-8c91-c27e7bfeea8a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
