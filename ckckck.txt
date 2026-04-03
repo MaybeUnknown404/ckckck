@@ -51,12 +51,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5
-#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/35/11/36/b0351136-26f6-4fe9-8846-3b517e741724.png",Nepal v Congo DR | FIFA Series 2026™ Thailand | 12/04 15:50 WIB
-#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5&type=dash
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=94b20c0f-026e-42a1-90af-48a92ec08d08
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/53/7c/0a/89537c0a-d8e0-4d56-b4b4-d8ad1640318f.png",Thailand v New Caledonia | FIFA Series 2026™ Thailand | 12/04 20:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=94b20c0f-026e-42a1-90af-48a92ec08d08&type=dash
