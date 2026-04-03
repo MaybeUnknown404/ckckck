@@ -530,8 +530,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-auckland-a-league-2025-26&contentid=34e85cc0-6b56-4d1d-ae45-382b268a55cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4392779a-e632-4e2d-abc7-2cf271ef3292/4f0bb0bd-efc7-4b74-83b7-e141e763a4d1.jpg" group-title="🔴 Live Event",LIVE 🔴 Middlesbrough F.C. VS Millwall F.C.
-https://qtv.my.id/myco/index.m3u8?id=middlesbrough-fc-vs-millwall-fc-efl-championship-2025-26&contentid=22ba42b5-9297-4867-b025-59b25fa3d9e5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4392779a-e632-4e2d-abc7-2cf271ef3292/4f0bb0bd-efc7-4b74-83b7-e141e763a4d1.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Middlesbrough F.C. VS Millwall F.C.
+#https://qtv.my.id/myco/index.m3u8?id=middlesbrough-fc-vs-millwall-fc-efl-championship-2025-26&contentid=22ba42b5-9297-4867-b025-59b25fa3d9e5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
 #https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -585,7 +586,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_volleyball.jpg" ch-number="92" group-logo="",Korea Expressway Corporation VS GS Caltex (LIVE NOW)
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678710/live/18039435/record/52334967/thumbnail/image_480.jpg" ch-number="92" group-logo="",Korea Expressway Corporation VS GS Caltex (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260403022F263
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18039466/record/52335147/thumbnail/image_480.jpg" ch-number="92" group-logo="",Samsung Life Insurance VS Woori Bank (LIVE NOW)
