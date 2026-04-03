@@ -51,6 +51,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5
+#EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/a2/5c/70/15a25c70-e934-478f-8095-acd2a220857f.png",Indonesia v Congo DR | FIFA Series 2026™ Thailand | 12/04 15:50 WIB
+#http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=c65b3163-4ef2-405f-a2c1-a5f0f6df14b5&type=dash
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/tv_baru/fifap/drm2.php?id=94b20c0f-026e-42a1-90af-48a92ec08d08
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/53/7c/0a/89537c0a-d8e0-4d56-b4b4-d8ad1640318f.png",Thailand v New Caledonia | FIFA Series 2026™ Thailand | 12/04 20:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=94b20c0f-026e-42a1-90af-48a92ec08d08&type=dash
@@ -495,8 +501,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=middlesbrough-fc-vs-millwall-fc-efl-championship-2025-26&contentid=22ba42b5-9297-4867-b025-59b25fa3d9e5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="🔴 Live Event",LIVE 🔴 Leicester City F.C. VS Preston North End F.C.
-https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/30f688f0-80a2-4e0d-809f-2817faa46bce/2f58c286-6a43-4b97-876e-4034cefb7efb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Leicester City F.C. VS Preston North End F.C.
+#https://qtv.my.id/myco/index.m3u8?id=leicester-city-fc-vs-preston-north-end-fc-efl-championship-2025-26&contentid=f59fafa1-bb72-453c-9c0f-156bb14ac0e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/542042d1-00d6-4229-a4b6-f50d9c592d0d/a878c84d-02bb-491f-804f-a66e79d32b6d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Najmah SC
 #https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-najmah-sc-roshn-saudi-league-2025-2026&contentid=fe1b095f-da9a-4ab3-9f06-abc48b1ee3ea|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
