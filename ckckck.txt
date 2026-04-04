@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016735%2F1774888122340727_FA_Cup_26_QF_Southampton_vs_Arsenal_promo_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Southampton vs Arsenal
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507962&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774526767136346_BLIGA_26_MD28_VfB-Stuttgart-vs-Dortmund_tv_background.jpg" group-title="🔴 Live Event",🔴 VfB Stuttgart vs Borussia Dortmund - MD 28 - 4 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090509685&type=hls
 
@@ -214,11 +210,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ND8ITWX9UpqOtdb74vd5BBpUoHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998477/d1d53b.jpg", FC Volendam vs Feyenoord
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20288&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VLkf89R59Nib1vzCdZ8qHq25vxs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997664/9fceee.jpg", Chelsea vs Port Vale
-https://vid-id.indi1.workers.dev/index.mpd?id=20288&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20249&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
