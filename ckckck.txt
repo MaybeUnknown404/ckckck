@@ -11,6 +11,24 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507962&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774505886099346_BLIGA_26_MD28_sc-Freiburg-vs-Bayern__tv_background.jpg" group-title="🔴 Live Event",🔴 Freiburg vs Bayern Munich - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509680&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774504774239346_BLIGA_26_MD28_Bayer-Leverkusen-vs-Wolfsburg_tv_background.jpg" group-title="🔴 Live Event",🔴 Bayer Leverkusen vs Wolfsburg - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509679&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774506110600346_BLIGA_26_MD28_Werder-Bremen-vs-RB-Leipzig_tv_background.jpg" group-title="🔴 Live Event",🔴 Werder Bremen vs RB Leipzig - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509681&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774506945829346_BLIGA_26_MD28_Borussia-Mgladbach-vs-Heidenheim_tv_background.jpg" group-title="🔴 Live Event",🔴 Borussia Mönchengladbach vs Heidenheim - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509682&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774526241860346_BLIGA_26_MD28_Hamburger-vs-Augsburg_tv_background.jpg" group-title="🔴 Live Event",🔴 Hamburger SV vs Augsburg - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509684&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774525633162346_BLIGA_26_MD28_Hoffenheim-vs-Mainz_tv_background.jpg" group-title="🔴 Live Event",🔴 Hoffenheim vs Mainz - MD 28 - 4 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090509683&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
