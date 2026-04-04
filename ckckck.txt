@@ -401,7 +401,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/48YUEx1htBkexo1E9M8GHbUu7G8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19541/pegadaian-championship-2025-26-5a3836.jpg", FC Bekasi City vs Persekat Tegal
-#https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Failed to get authorization token#EXTM3U
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0c5a2182-6ad0-4741-b463-1ec3811589d4/e34126ad-94bc-49a5-aec4-9d73c84560ba.png" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United vs Wolverhampton Wanderers
