@@ -535,8 +535,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=central-coast-mariners-vs-perth-glory-a-league-2025-26&contentid=e948c074-2fa5-4007-afd0-f6d2512f54e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6eade17d-e9d3-46ae-80b1-b70352de009b/487953b7-926f-4a7f-8a4a-70a8691da203.jpg" group-title="🔴 Live Event",LIVE 🔴 Melbourne City VS Western Sydney Wanderers
-https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-western-sydney-wanderers-a-league-2025-26&contentid=d882f7a4-ac3a-49d0-a4a0-25c36c9a6911|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/6eade17d-e9d3-46ae-80b1-b70352de009b/487953b7-926f-4a7f-8a4a-70a8691da203.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Western Sydney Wanderers
+#https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-western-sydney-wanderers-a-league-2025-26&contentid=d882f7a4-ac3a-49d0-a4a0-25c36c9a6911|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/99394f96-b5a0-49c4-9a4a-93e164a503ed/0688f8e9-83b1-4ba8-922b-059db8009207.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Wellington Phoenix
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-wellington-phoenix-a-league-2025-26&contentid=73f22519-2fe4-4e5d-aacf-d0cf7bcf3e78|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
