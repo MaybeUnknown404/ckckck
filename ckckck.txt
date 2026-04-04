@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016646%2F1774623506046696_NZw_vs_SAw_3rd_ODI_tv_bg.jpg" group-title="🔴 Live Event",🔴 3rd ODI - 4 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090509674&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016735%2F1774888173565727_FA_Cup_26_QF_Chelsea_vs_Port_Vale_promo_tv_Bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Chelsea vs Port Vale
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507961&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -244,6 +241,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mt37C5RH78ehcyCPducbrr5bpgw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4999103/c1fdd5.jpg", West Ham vs Leeds United
 #https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=RhbWWv3rgtNWOE4XvUILZhue01BYFC2U|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1774689642951-CCMVSPERTH.jpg" tvg-name="",Central Coast Mariners FC vs Perth Glory | Round 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69c79d86d3e7f71402f0298b&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69c79d86d3e7f71402f0298b&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
