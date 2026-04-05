@@ -104,11 +104,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4hUEAGkxnnMpANkmAI8S87kln0U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006226/b6b1a1.jpg", Inter vs Roma
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rRxarJjsbhrtK5OVrnElPisUmzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5006230/410070.jpg", Udinese vs Como
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=o5XcHXozRVcOCpS17Dw6NRLd5sFnVBFN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
