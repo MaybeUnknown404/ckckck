@@ -6,9 +6,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090516993&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016806%2F1775056658914385_bliga26_MD28_Eintracht_Frankfurt_vs_FC_Koln_1apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Eintracht Frankfurt vs FC Koln - MD 28 - 5 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090516992&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016629%2F1774527238611346_BLIGA_26_MD28_Union-Berlin-vs-St-Pauli_tv_background.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs St. Pauli - MD 28 - 5 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090514991&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
