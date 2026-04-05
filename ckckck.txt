@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016634%2F1774601416306142_FC_Cup_26_QF_West-Ham_United_vs_Leeds_United_tv_bg.jpg" group-title="🔴 Live Event",🔴 West Ham United vs Leeds United - Quarter-Final - 5 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090516993&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016579%2F1774439755589819_IFC_Sreenidi_Deccan_FC_vs_Aizawl_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Sreenidi Deccan FC vs Aizawl FC - 5 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090516994&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016806%2F1775056658914385_bliga26_MD28_Eintracht_Frankfurt_vs_FC_Koln_1apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Eintracht Frankfurt vs FC Koln - MD 28 - 5 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090516992&type=hls
 
