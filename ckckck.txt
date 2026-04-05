@@ -146,9 +146,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/nn8ZLGmst7nbEGR3LpAc8PPHBfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998479/8dc422.jpg", Getafe vs Athletic Club
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nn8ZLGmst7nbEGR3LpAc8PPHBfI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4998479/8dc422.jpg", Getafe vs Athletic Club
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=ilHmFiUy7NVv9tcDVyPzGmIuPdkcHk0u
@@ -227,11 +226,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/TxZaEcfXdbNMJt1ovOVT3f8GZDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5000556/85b8f2.jpg", Deltras FC vs Persela Lamongan
-https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20833&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6cxbf3h75yUdQDpKdN1nQLVILzI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20833/pegadaian-championship-2025-26-773a82.jpg", Deltras FC vs Persela Lamongan
 https://archertv.my.id/atraksi/vidx.mpd?id=20833&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
