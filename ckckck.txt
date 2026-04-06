@@ -347,9 +347,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=watford-fc-vs-charlton-athletic-fc-efl-championship-2025-26&contentid=47679bcd-f13e-4fa9-bbf2-356c74c72004|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a84f6e1e-2d68-47d9-b190-33ca8b12796f/96851035-3ae1-4ee6-ad9e-9ffc9fe37ba8.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Swansea City A.F.C. VS Middlesbrough F.C.
-#https://qtv.my.id/myco/index.m3u8?id=swansea-city-afc-vs-middlesbrough-fc-efl-championship-2025-26&contentid=6577708d-db43-4501-80d8-18304e05e1ce|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a84f6e1e-2d68-47d9-b190-33ca8b12796f/96851035-3ae1-4ee6-ad9e-9ffc9fe37ba8.jpg" group-title="🔴 Live Event",LIVE 🔴 Swansea City A.F.C. VS Middlesbrough F.C.
+https://qtv.my.id/myco/index.m3u8?id=swansea-city-afc-vs-middlesbrough-fc-efl-championship-2025-26&contentid=6577708d-db43-4501-80d8-18304e05e1ce|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae14a872-bf44-43c4-8a1a-e08c8a6f3c91/d4c0bbc7-333a-4ffa-a1ec-c48cceeda5af.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Hull City VS Coventry City F.C.
 #https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-coventry-city-fc-efl-championship-2025-26&contentid=57cc64b3-d597-4f49-bec3-3aefd460de6b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
