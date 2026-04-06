@@ -317,11 +317,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=al-ettifaq-vs-al-qadsiah-fc-roshn-saudi-league-2025-2026&contentid=fd39a327-e7f6-4220-a2b7-105edae5a2d4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/fe1f3b65-caa3-4cf6-9145-8b34ffe43062/d7083d9c-b2ff-4279-87cb-4e7f1b76e73f.jpg" group-title="🔴 Live Event",LIVE 🔴 Portsmouth F.C. VS Oxford United
-https://qtv.my.id/myco/index.m3u8?id=portsmouth-fc-vs-oxford-united-efl-championship-2025-26&contentid=9f3ea5f1-d1ea-43d9-9690-c0e779fd4916|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/fe1f3b65-caa3-4cf6-9145-8b34ffe43062/d7083d9c-b2ff-4279-87cb-4e7f1b76e73f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Portsmouth F.C. VS Oxford United
+#https://qtv.my.id/myco/index.m3u8?id=portsmouth-fc-vs-oxford-united-efl-championship-2025-26&contentid=9f3ea5f1-d1ea-43d9-9690-c0e779fd4916|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/dda48ea2-42a5-4ffd-9204-fbd782599027/c3f6533e-5753-48d0-8e61-4135debd1265.jpg" group-title="🔴 Live Event",LIVE 🔴 Ipswich Town F.C. VS Birmingham City F.C.
-https://qtv.my.id/myco/index.m3u8?id=ipswich-town-fc-vs-birmingham-city-fc-efl-championship-2025-26&contentid=ec395581-e1b4-4e29-ac12-39cd221a44e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/dda48ea2-42a5-4ffd-9204-fbd782599027/c3f6533e-5753-48d0-8e61-4135debd1265.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Ipswich Town F.C. VS Birmingham City F.C.
+#https://qtv.my.id/myco/index.m3u8?id=ipswich-town-fc-vs-birmingham-city-fc-efl-championship-2025-26&contentid=ec395581-e1b4-4e29-ac12-39cd221a44e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/fb56c952-4d8b-4713-9d60-34ce0ef14746/503e1da7-deef-46d1-81a2-f2f488e921c6.jpg" group-title="🔴 Live Event",LIVE 🔴 Watford F.C. VS Charlton Athletic F.C
 https://qtv.my.id/myco/index.m3u8?id=watford-fc-vs-charlton-athletic-fc-efl-championship-2025-26&contentid=47679bcd-f13e-4fa9-bbf2-356c74c72004|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -377,9 +379,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4510f71d-5a1e-4b59-9ba9-b520f2bd4dd0/2b2ceb02-35f2-4083-818f-ea44c2684025.jpg" group-title="📁 MyCo Upcoming",UPCOMING - West Bromwich Albion F.C. VS Millwall F.C.
 #https://qtv.my.id/myco/index.m3u8?id=west-bromwich-albion-fc-vs-millwall-fc-efl-championship-2025-26&contentid=798decad-97c7-463b-be93-d426b11d1eef|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18146890/record/52486309/thumbnail/image_480.jpg" ch-number="92" group-logo="",weekly volleyball (LIVE NOW)
-https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260406SBS1
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Canterbury v Penrith [09 Apr 26 16:50 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=157354&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
