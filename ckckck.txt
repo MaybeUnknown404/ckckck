@@ -318,8 +318,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=al-ettifaq-vs-al-qadsiah-fc-roshn-saudi-league-2025-2026&contentid=fd39a327-e7f6-4220-a2b7-105edae5a2d4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/fe1f3b65-caa3-4cf6-9145-8b34ffe43062/d7083d9c-b2ff-4279-87cb-4e7f1b76e73f.jpg" group-title="🔴 Live Event",LIVE 🔴 Portsmouth F.C. VS Oxford United
-https://qtv.my.id/myco/index.m3u8?id=portsmouth-fc-vs-oxford-united-efl-championship-2025-26&contentid=9f3ea5f1-d1ea-43d9-9690-c0e779fd4916|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/fe1f3b65-caa3-4cf6-9145-8b34ffe43062/d7083d9c-b2ff-4279-87cb-4e7f1b76e73f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Portsmouth F.C. VS Oxford United
+#https://qtv.my.id/myco/index.m3u8?id=portsmouth-fc-vs-oxford-united-efl-championship-2025-26&contentid=9f3ea5f1-d1ea-43d9-9690-c0e779fd4916|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/dda48ea2-42a5-4ffd-9204-fbd782599027/c3f6533e-5753-48d0-8e61-4135debd1265.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Ipswich Town F.C. VS Birmingham City F.C.
 #https://qtv.my.id/myco/index.m3u8?id=ipswich-town-fc-vs-birmingham-city-fc-efl-championship-2025-26&contentid=ec395581-e1b4-4e29-ac12-39cd221a44e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
