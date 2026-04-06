@@ -350,3 +350,31 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15522763/live/18040044/record/52477844/thumbnail/image_480.jpg" ch-number="92" group-logo="",25-26 WKBL Postseason Media Day (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260406BNK1
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Canterbury v Penrith [09 Apr 26 16:50 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157354&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 St George Illawarra v Manly [10 Apr 26 15:00 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157355&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 South Sydney v Canberra [11 Apr 26 12:00 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157356&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Cronulla v Sydney Roosters [11 Apr 26 14:30 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157357&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Melbourne v Warriors [11 Apr 26 16:35 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157358&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Parramatta v Gold Coast Titans [12 Apr 26 11:00 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157359&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Wests Tigers v Newcastle [12 Apr 26 13:05 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=157360&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
