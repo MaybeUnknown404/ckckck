@@ -1,11 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016579%2F1774440015125819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Namdhari FC vs Diamond Harbour FC - 6 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090517006&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+Error mengambil data dari API.#EXTM3U
 
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
