@@ -233,6 +233,10 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=swansea-city-afc-vs-middlesbrough-fc-efl-championship-2025-26&contentid=6577708d-db43-4501-80d8-18304e05e1ce|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae14a872-bf44-43c4-8a1a-e08c8a6f3c91/d4c0bbc7-333a-4ffa-a1ec-c48cceeda5af.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Hull City VS Coventry City F.C.
+#https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-coventry-city-fc-efl-championship-2025-26&contentid=57cc64b3-d597-4f49-bec3-3aefd460de6b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/09cc7807-70d3-4e44-b75e-a0cfa027b710/b0e5527d-614f-490b-9932-3db69412eabf.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Nashville SC VS Club América
 #https://qtv.my.id/myco/index.m3u8?id=nashville-sc-vs-club-america-concacaf-champions-cup-2026&contentid=7eee8040-9414-4898-acb1-68fc15db1ca2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -255,10 +259,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a3f095c0-bb06-49d7-8386-6a02d51f32da/7bc63a13-dfd2-41c8-8822-79cbce3ae2a9.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Tigres VS Seattle Sounders FC
 #https://qtv.my.id/myco/index.m3u8?id=tigres-vs-seattle-sounders-fc-concacaf-champions-cup-2026&contentid=eeb925db-cdd9-4959-a6d6-b9a27ad0fa51|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ae14a872-bf44-43c4-8a1a-e08c8a6f3c91/d4c0bbc7-333a-4ffa-a1ec-c48cceeda5af.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Hull City VS Coventry City F.C.
-#https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-coventry-city-fc-efl-championship-2025-26&contentid=57cc64b3-d597-4f49-bec3-3aefd460de6b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/19a863ca-1e31-491d-97d3-0fa3da6733c1/003f3376-ddcf-463b-87ab-4370d5d2f3d4.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Malaysia A VS Hong Kong, China-A
