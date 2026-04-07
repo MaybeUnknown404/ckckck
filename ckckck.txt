@@ -1,6 +1,30 @@
 #EXTM3U
 
-Error mengambil data dari API.#EXTM3U
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774440837281616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090521056&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774441008267617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090521057&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016885%2F1775284521470532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090511809&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016885%2F1775285468391532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090511811&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016966%2F177547911484362_UEL_26_Quarter-Final_Leg-1_Porto-vs-Nottingham-Forest_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Porto vs Nottingham Forest - UEFA Europa League
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090511814&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016966%2F177547964374962_UEL_26_Quarter-Final_Leg-1_Bologna-vs-Aston-Villa_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Bologna vs Aston Villa - UEFA Europa League
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090511815&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 group-title="📅 Event Upcoming" tvg-logo="https://i.ibb.co/0j7W8y3/upcoming.png",=== ⏰ UPCOMING MATCHES ===
 #https://example.com
