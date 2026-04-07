@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090524065%2FtvBackgroundImage%2F177535966835390_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090524065&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090524529%2FtvBackgroundImage%2F177536214570790_UCL26_QF_leg1_sporting_vs_arsenal_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090524529&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016885%2F1775285468391532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090511811&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -119,16 +116,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="http://qtv.my.id/glogo/fifawc25.png" group-title="📅 FIFA Series" tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/22/ae/7b/f8/22ae7bf8-62cf-401a-9ae8-b9f513034113.png",Brazil v Canada | FIFA Series 2026™ Brazil | 19/04 08:20 WIB
 #http://qtv.my.id/tv_baru/vidio/fifa.mpd?id=f926b72a-afda-4080-bb79-2e08503761a9&type=dash
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ONw1Uv4fxGx9S3CNdVwGnrh3L48=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007598/bd5b28.jpg", Real Madrid vs Bayern
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gc2uZAhopaQpNMuSYWQ65hnTbhc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007599/ec5a87.jpg", Sporting vs Arsenal
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=4SrfZdfBZbXufcUbqQnwuThrmEO5ynda
