@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774440837281616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090521056&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774441008267617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090521057&type=hls
 
