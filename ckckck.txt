@@ -126,8 +126,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg", Rayo Vallecano vs AEK Athens
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oYPMNubo0kausXvKuAl2j_Gq1Hk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007992/579a6f.jpg", Rayo Vallecano vs AEK Athens
 #https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uuUw1JLSn39YJowG9gzVkmuQke8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007994/5db73c.jpg", Crystal Palace vs Fiorentina
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19736&type=drm&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NUwa2tQnosXOjf-AddTxACTLsWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007996/7258c7.jpg", Mainz vs Strasbourg
+#https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=Cux6BdiUjj9jLJ9OnKheWZR90u6WmRC2|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
