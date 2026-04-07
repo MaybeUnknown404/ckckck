@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090524065%2FtvBackgroundImage%2F177535966835390_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090524065&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016885%2F1775285468391532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090511811&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
