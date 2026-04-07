@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016931%2F177535966835390_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090524065%2FtvBackgroundImage%2F177535966835390_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090524065&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090524529%2FtvBackgroundImage%2F177536214570790_UCL26_QF_leg1_sporting_vs_arsenal_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026
