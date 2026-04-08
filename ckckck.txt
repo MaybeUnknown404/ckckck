@@ -230,6 +230,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ced528583f1a7c859c8bab&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ced528583f1a7c859c8bab&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775151894042-IbarakiRobotsvsGunmaCraneThunders.jpeg" tvg-name="",Ibaraki Robots vs Gunma Crane Thunders | Round 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ceab2c583f1a7c859c8b9c&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ceab2c583f1a7c859c8b9c&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775151988948-UtsunomiyaBrexvsAlvarkTokyo.jpeg" tvg-name="",Utsunomiya Brex vs Alvark Tokyo | Round 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ceab8a583f1a7c859c8b9d&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ceab8a583f1a7c859c8b9d&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775152067019-NagasakiVelcavsSan-EnNeophoenix.jpeg" tvg-name="",Nagasaki Velca vs San-En Neophoenix | Round 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ceabd8583f1a7c859c8b9e&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ceabd8583f1a7c859c8b9e&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg", Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro
@@ -571,9 +595,8 @@ https://qtv.my.id/myco/index.m3u8?id=sri-lanka-a-vs-new-zealand-a-new-zealand-a-
 #https://qtv.my.id/myco/index.m3u8?id=botswana-women-vs-zambia-women-kalahari-womens-t20-2026&contentid=af70cb7a-7b50-4f78-809e-b07077a4d2cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a4dbe752-d634-465c-a793-1f72ffd690ac/3a3823b7-d4d1-4f3a-9f1d-1ae07fa554cf.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brazil Women VS Zambia Women
-#https://qtv.my.id/myco/index.m3u8?id=brazil-women-vs-zambia-women-kalahari-womens-t20-2026&contentid=43eb3507-07db-40f8-bd6f-6af10c6eb44a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a4dbe752-d634-465c-a793-1f72ffd690ac/3a3823b7-d4d1-4f3a-9f1d-1ae07fa554cf.jpg" group-title="🔴 Live Event",LIVE 🔴 Brazil Women VS Zambia Women
+https://qtv.my.id/myco/index.m3u8?id=brazil-women-vs-zambia-women-kalahari-womens-t20-2026&contentid=43eb3507-07db-40f8-bd6f-6af10c6eb44a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/eac6d5b4-d0db-4866-b4fa-7c6f0a864802/c2c869b3-7143-4010-86d4-eab6e2eafb0d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al Hilal SFC VS Al-Kholood Club
 #https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-kholood-club-roshn-saudi-league-2025-2026&contentid=2ddeff9e-8db8-4ad4-aefc-5efd85e043e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
