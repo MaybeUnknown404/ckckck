@@ -142,14 +142,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775462602244-AlHilalvsAlKholoodLiveThumbnail.jpg" tvg-name="",Al Hilal vs Al Kholood | MW 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cf4cc3583f1a7c859c8bb1&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cf4cc3583f1a7c859c8bb1&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775538471958-Par3Contest.jpg" tvg-name="",Masters Tournament | Par 3 Contest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -408,8 +400,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/eac6d5b4-d0db-4866-b4fa-7c6f0a864802/c2c869b3-7143-4010-86d4-eab6e2eafb0d.jpg" group-title="🔴 Live Event",LIVE 🔴 Al Hilal SFC VS Al-Kholood Club
-https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-kholood-club-roshn-saudi-league-2025-2026&contentid=2ddeff9e-8db8-4ad4-aefc-5efd85e043e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/eac6d5b4-d0db-4866-b4fa-7c6f0a864802/c2c869b3-7143-4010-86d4-eab6e2eafb0d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al Hilal SFC VS Al-Kholood Club
+#https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-kholood-club-roshn-saudi-league-2025-2026&contentid=2ddeff9e-8db8-4ad4-aefc-5efd85e043e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7e903a27-1f84-457e-a9c6-ad77af6f300d/6d8cccbf-aa6a-4775-9b1b-20798e4d1881.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Toluca VS LA Galaxy
 #https://qtv.my.id/myco/index.m3u8?id=toluca-vs-la-galaxy-concacaf-champions-cup-2026&contentid=d8c6360a-72e5-46e7-a8ae-687afa36387e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
