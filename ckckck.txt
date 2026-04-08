@@ -6,9 +6,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090525146&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090525204%2FtvBackgroundImage%2F177536315475190_UCL26_QF_leg1_barcelona_vs_atletico_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090525204&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1774841772264488_UEL26_QuarterFinal_Leg1_Braga_vs_Real_Betis_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Braga vs Real Betis - Quarter-Final - Leg 1 - 8 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090525163&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016966%2F177547911484362_UEL_26_Quarter-Final_Leg-1_Porto-vs-Nottingham-Forest_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Porto vs Nottingham Forest - UEFA Europa League
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090511814&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -513,8 +510,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/eac6d5b4-d0db-4866-b4fa-7c6f0a864802/c2c869b3-7143-4010-86d4-eab6e2eafb0d.jpg" group-title="🔴 Live Event",LIVE 🔴 Al Hilal SFC VS Al-Kholood Club
-https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-kholood-club-roshn-saudi-league-2025-2026&contentid=2ddeff9e-8db8-4ad4-aefc-5efd85e043e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/eac6d5b4-d0db-4866-b4fa-7c6f0a864802/c2c869b3-7143-4010-86d4-eab6e2eafb0d.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al Hilal SFC VS Al-Kholood Club
+#https://qtv.my.id/myco/index.m3u8?id=al-hilal-sfc-vs-al-kholood-club-roshn-saudi-league-2025-2026&contentid=2ddeff9e-8db8-4ad4-aefc-5efd85e043e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7e903a27-1f84-457e-a9c6-ad77af6f300d/6d8cccbf-aa6a-4775-9b1b-20798e4d1881.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Toluca VS LA Galaxy
 #https://qtv.my.id/myco/index.m3u8?id=toluca-vs-la-galaxy-concacaf-champions-cup-2026&contentid=d8c6360a-72e5-46e7-a8ae-687afa36387e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
