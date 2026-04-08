@@ -474,8 +474,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/98239dc7-7fc4-4e08-9e34-44e99476278b/b37d045f-3ff4-4681-9df4-167cc3c54441.jpg" group-title="🔴 Live Event",LIVE 🔴 Sri Lanka A VS New Zealand A
-https://qtv.my.id/myco/index.m3u8?id=sri-lanka-a-vs-new-zealand-a-new-zealand-a-tour-of-sri-lanka-2026&contentid=7e92ed5a-d17a-4294-ab3b-1387c3fe32e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/98239dc7-7fc4-4e08-9e34-44e99476278b/b37d045f-3ff4-4681-9df4-167cc3c54441.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sri Lanka A VS New Zealand A
+#https://qtv.my.id/myco/index.m3u8?id=sri-lanka-a-vs-new-zealand-a-new-zealand-a-tour-of-sri-lanka-2026&contentid=7e92ed5a-d17a-4294-ab3b-1387c3fe32e2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/995644fb-feb6-4cb5-ab52-d98596df28df/9b019135-cab8-4b7b-90f1-64b32893c840.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Botswana Women VS Zambia Women
 #https://qtv.my.id/myco/index.m3u8?id=botswana-women-vs-zambia-women-kalahari-womens-t20-2026&contentid=af70cb7a-7b50-4f78-809e-b07077a4d2cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
