@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090525204%2FtvBackgroundImage%2F177536315475190_UCL26_QF_leg1_barcelona_vs_atletico_4apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090525204&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016966%2F177547911484362_UEL_26_Quarter-Final_Leg-1_Porto-vs-Nottingham-Forest_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Porto vs Nottingham Forest - UEFA Europa League
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090511814&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
