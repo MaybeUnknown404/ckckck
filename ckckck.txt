@@ -466,15 +466,16 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7e903a27-1f84-457e-a9c6-ad77af6f300d/6d8cccbf-aa6a-4775-9b1b-20798e4d1881.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Toluca VS LA Galaxy
-#https://qtv.my.id/myco/index.m3u8?id=toluca-vs-la-galaxy-concacaf-champions-cup-2026&contentid=d8c6360a-72e5-46e7-a8ae-687afa36387e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7e903a27-1f84-457e-a9c6-ad77af6f300d/6d8cccbf-aa6a-4775-9b1b-20798e4d1881.jpg" group-title="🔴 Live Event",LIVE 🔴 Toluca VS LA Galaxy
+https://qtv.my.id/myco/index.m3u8?id=toluca-vs-la-galaxy-concacaf-champions-cup-2026&contentid=d8c6360a-72e5-46e7-a8ae-687afa36387e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a3f095c0-bb06-49d7-8386-6a02d51f32da/7bc63a13-dfd2-41c8-8822-79cbce3ae2a9.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Tigres VS Seattle Sounders FC
+#https://qtv.my.id/myco/index.m3u8?id=tigres-vs-seattle-sounders-fc-concacaf-champions-cup-2026&contentid=eeb925db-cdd9-4959-a6d6-b9a27ad0fa51|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a3f095c0-bb06-49d7-8386-6a02d51f32da/7bc63a13-dfd2-41c8-8822-79cbce3ae2a9.jpg" group-title="🔴 Live Event",LIVE 🔴 Tigres VS Seattle Sounders FC
-https://qtv.my.id/myco/index.m3u8?id=tigres-vs-seattle-sounders-fc-concacaf-champions-cup-2026&contentid=eeb925db-cdd9-4959-a6d6-b9a27ad0fa51|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/19a863ca-1e31-491d-97d3-0fa3da6733c1/003f3376-ddcf-463b-87ab-4370d5d2f3d4.jpg" group-title="🔴 Live Event",LIVE 🔴 Malaysia A VS Hong Kong, China-A
-https://qtv.my.id/myco/index.m3u8?id=malaysia-a-vs-hong-kong-china-a-hong-kong-china-a-tour-of-malaysia-a-2026&contentid=a978398c-332f-41c2-a8c3-479862629443|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/19a863ca-1e31-491d-97d3-0fa3da6733c1/003f3376-ddcf-463b-87ab-4370d5d2f3d4.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Malaysia A VS Hong Kong, China-A
+#https://qtv.my.id/myco/index.m3u8?id=malaysia-a-vs-hong-kong-china-a-hong-kong-china-a-tour-of-malaysia-a-2026&contentid=a978398c-332f-41c2-a8c3-479862629443|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/642b1402-157e-4919-9c35-5698b0ea35bb/15faf63b-d81e-4612-b525-71b0e8b7bebc.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Damac VS Al-Qadsiah FC
 #https://qtv.my.id/myco/index.m3u8?id=damac-vs-al-qadsiah-fc-roshn-saudi-league-2025-2026&contentid=387f71be-d7a5-4e97-bfbb-06f1e1a360ce|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
