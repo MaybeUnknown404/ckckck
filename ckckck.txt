@@ -92,6 +92,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oYPMNubo0kausXvKuAl2j_Gq1Hk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007992/579a6f.jpg", Rayo Vallecano vs AEK Athens
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uuUw1JLSn39YJowG9gzVkmuQke8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007994/5db73c.jpg", Crystal Palace vs Fiorentina
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19736&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NUwa2tQnosXOjf-AddTxACTLsWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007996/7258c7.jpg", Mainz vs Strasbourg
+#https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3g0PQBoIM3Pqfjas30YfI7mZnNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008003/bea628.jpg", Shakhtar Donetsk vs AZ Alkmaar
+#https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cOr9O_YgAu7uqQOTCLGGaLp_z5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008025/27051b.jpg", Real Madrid vs Girona
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
@@ -137,6 +161,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ODk8-4f5KWenaa3rFs-EdLjjMH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008508/7f6929.jpg", Celta Vigo vs Oviedo
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FcElEHIH9gNtDq4zOvFHxmdHbZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008432/bb1697.jpg", Sparta Rotterdam vs PSV
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8vaXRMknd0SxBFN7Fsf2OUK_gaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008502/22d312.jpg", Heracles vs Ajax
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19436&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_k-_T17Xp8Nj8Y1qqxOYK5BvjeE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008529/2bbe9c.jpg", NEC Nijmegen vs Feyenoord
+#https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=21154&type=drm&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IJ18nPuK9Pso11A3gXJ4--tyars=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008729/19087f.jpg", AZ Alkmaar vs Heerenveen
+#https://vid-id.indi1.workers.dev/index.mpd?id=21154&type=dash&token=dOoSym9PawHVOj2bfqLJPPxYQoqYOvNw|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
