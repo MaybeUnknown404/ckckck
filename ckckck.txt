@@ -99,11 +99,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oYPMNubo0kausXvKuAl2j_Gq1Hk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007992/579a6f.jpg", Rayo Vallecano vs AEK Athens
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19736&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NUwa2tQnosXOjf-AddTxACTLsWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007996/7258c7.jpg", Mainz vs Strasbourg
 https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
@@ -115,9 +110,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=vBDGPuBqNOmt
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uuUw1JLSn39YJowG9gzVkmuQke8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007994/5db73c.jpg", Crystal Palace vs Fiorentina
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uuUw1JLSn39YJowG9gzVkmuQke8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007994/5db73c.jpg", Crystal Palace vs Fiorentina
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
@@ -203,9 +197,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=vBDGPuBqNOmt
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xLTdQKuVVxfuhT30-LVfCxzcyRg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007993/149522.jpg", Bologna vs Aston Villa
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xLTdQKuVVxfuhT30-LVfCxzcyRg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007993/149522.jpg", Bologna vs Aston Villa
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775716404628-FeaturedGroups-9April.jpg" tvg-name="",Masters Tournament: Featured Groups | Round 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
