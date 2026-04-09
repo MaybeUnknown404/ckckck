@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1775133254942488_UEL26_QuarterFinal_Leg1_Porto_vs_Nottingham_Forest_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Porto vs Nottingham Forest - Quarter-Final - Leg 1 - 9 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525434&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1775134137348488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bologna vs Aston Villa - Quarter-Final - Leg 1 - 9 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525435&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775151716399363_UECL26_QF_leg1_Crystal_Palace_vs_Fiorentina_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Crystal Palace FC vs Fiorentina - Quarter-Final - Leg 1 - 10 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525479&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1775132873001488_UEL26_QuarterFinal_Leg1_Freiburg_vs_Celta_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Freiburg vs Celta - Quarter-Final - Leg 1 - 9 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525433&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775151458688363_UECL26_QF_leg1_FC_Shakhtar_Donetsk_vs_AZ_Alkmaar_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 FC Shakhtar Donetsk vs AZ Alkmaar - Quarter-Final - Leg 1 - 10 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525477&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775151897604363_UECL26_QF_leg1_Mainz_vs_Strasbourg_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴  Mainz vs Strasbourg - Quarter-Final - Leg 1 - 10 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090525481&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775150824285363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rayo Vallecano vs AEK Athens - Quarter-Final - Leg 1 - 9 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090525220&type=hls
 
@@ -180,9 +198,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YJT_s4Lm3eIojbVvlwVZNwMssiE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007999/d0abf9.jpg", Porto vs Nottingham Forest
-#https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YJT_s4Lm3eIojbVvlwVZNwMssiE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007999/d0abf9.jpg", Porto vs Nottingham Forest
+https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19602&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
