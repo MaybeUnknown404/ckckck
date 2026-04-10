@@ -497,9 +497,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=sheffield-united-fc-vs-hull-city-efl-championship-2025-26&contentid=33404cc1-e377-4db6-9d3d-fe3d67121fff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4510f71d-5a1e-4b59-9ba9-b520f2bd4dd0/2b2ceb02-35f2-4083-818f-ea44c2684025.jpg" group-title="📁 MyCo Upcoming",UPCOMING - West Bromwich Albion F.C. VS Millwall F.C.
-#https://qtv.my.id/myco/index.m3u8?id=west-bromwich-albion-fc-vs-millwall-fc-efl-championship-2025-26&contentid=798decad-97c7-463b-be93-d426b11d1eef|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4510f71d-5a1e-4b59-9ba9-b520f2bd4dd0/2b2ceb02-35f2-4083-818f-ea44c2684025.jpg" group-title="🔴 Live Event",LIVE 🔴 West Bromwich Albion F.C. VS Millwall F.C.
+https://qtv.my.id/myco/index.m3u8?id=west-bromwich-albion-fc-vs-millwall-fc-efl-championship-2025-26&contentid=798decad-97c7-463b-be93-d426b11d1eef|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5281a832-230c-4377-9d4c-8a003d4ea727/12ace075-6cb5-4152-810b-653f57ac1d65.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Wellington Phoenix
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-wellington-phoenix-a-league-2025-26&contentid=a67354fb-01a4-4d2d-b4ba-42db3a3a5e56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
