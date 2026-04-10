@@ -435,9 +435,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #http://spacetv.my.id/experimen/ge.mpd?id=301408&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0c5a2182-6ad0-4741-b463-1ec3811589d4/e34126ad-94bc-49a5-aec4-9d73c84560ba.png" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United vs Wolverhampton Wanderers
-#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-vs-wolverhampton-wanderers-epl-2026&contentid=bd431fb2-19cb-4508-a6ea-63c00af46d6a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0c5a2182-6ad0-4741-b463-1ec3811589d4/e34126ad-94bc-49a5-aec4-9d73c84560ba.png" group-title="🔴 Live Event",LIVE 🔴 West Ham United vs Wolverhampton Wanderers
+https://qtv.my.id/myco/index.m3u8?id=west-ham-united-vs-wolverhampton-wanderers-epl-2026&contentid=bd431fb2-19cb-4508-a6ea-63c00af46d6a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5f2133a5-3e7e-4cd0-9518-d544fb5d512e/e3e0bc7d-c6b7-4a26-a528-fed8bd42b06e.png" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal vs AFC Bournemouth
 #https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-afc-bournemouth-epl-2026&contentid=b3160331-c5bc-435b-8782-db3bfe6a91d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
