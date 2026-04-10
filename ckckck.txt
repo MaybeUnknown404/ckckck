@@ -128,6 +128,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FcElEHIH9gNtDq4zOvFHxmdHbZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008432/bb1697.jpg", Sparta Rotterdam vs PSV
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8vaXRMknd0SxBFN7Fsf2OUK_gaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008502/22d312.jpg", Heracles vs Ajax
+#https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19436&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_k-_T17Xp8Nj8Y1qqxOYK5BvjeE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008529/2bbe9c.jpg", NEC Nijmegen vs Feyenoord
+#https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=21154&type=drm&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IJ18nPuK9Pso11A3gXJ4--tyars=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008729/19087f.jpg", AZ Alkmaar vs Heerenveen
+#https://vid-id.indi1.workers.dev/index.mpd?id=21154&type=dash&token=vBDGPuBqNOmt29y4fjIsuHay4xZtBINN|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775541451174-SanDiegoPadresvsColoradoRockies.jpg" tvg-name="",San Diego Padres vs Colorado Rockies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -531,11 +555,11 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168193/record/52572685/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 1 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260410BILLIARDS1
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168224/record/52572688/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 1 (LIVE NOW)
-https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260410BILLIARDS2
-
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15210194/live/18169847/record/52574879/thumbnail/image_480.jpg" ch-number="92" group-logo="",The 1st Korea Professional Tennis Federation Tournament and Tennis Competition (Men/Women Quarterfinals) (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260410TNS1
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168224/record/52572688/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 1 (LIVE NOW)
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260410BILLIARDS2
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 St George Illawarra v Manly [10 Apr 26 15:00 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=157355&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
