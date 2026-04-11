@@ -407,9 +407,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/50f254f2-b590-4a24-b88c-1ed2ee125fc0/d9698712-0c4a-4cf7-950d-7fea7f89ffe9.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Okhdood Club VS Al-Nassr FC
-#https://qtv.my.id/myco/index.m3u8?id=al-okhdood-club-vs-al-nassr-fc-roshn-saudi-league-2025-2026&contentid=c5861c44-5268-430d-bc43-dd8466629c49|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/50f254f2-b590-4a24-b88c-1ed2ee125fc0/d9698712-0c4a-4cf7-950d-7fea7f89ffe9.jpg" group-title="🔴 Live Event",LIVE 🔴 Al-Okhdood Club VS Al-Nassr FC
+https://qtv.my.id/myco/index.m3u8?id=al-okhdood-club-vs-al-nassr-fc-roshn-saudi-league-2025-2026&contentid=c5861c44-5268-430d-bc43-dd8466629c49|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5281a832-230c-4377-9d4c-8a003d4ea727/12ace075-6cb5-4152-810b-653f57ac1d65.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Wellington Phoenix
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-wellington-phoenix-a-league-2025-26&contentid=a67354fb-01a4-4d2d-b4ba-42db3a3a5e56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
