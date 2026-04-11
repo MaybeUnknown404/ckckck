@@ -150,14 +150,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775465740447-OnTheRange.jpg" tvg-name="",Masters Tournament: On The Range | Day 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cf7ffb583f1a7c859c8bbd&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cf7ffb583f1a7c859c8bbd&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775716452610-FeaturedGroups-9April.jpg" tvg-name="",Masters Tournament: Featured Groups | Round 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -294,16 +286,14 @@ http://spacetv.my.id/experimen/ge.mpd?id=301356&type=dash|User-Agent=Mozilla/5.0
 http://spacetv.my.id/experimen/ge.mpd?id=301370&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301427&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301427/original/latest.jpg" group-title="📅 Upcoming",⏳ Liverpool - Fulham
-#http://spacetv.my.id/experimen/ge.mpd?id=301427&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301342&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301342/original/latest.jpg" group-title="🔴 Live Event",🔴 St. Pauli - Bayern Munich
+http://spacetv.my.id/experimen/ge.mpd?id=301342&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301342&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301342/original/latest.jpg" group-title="📅 Upcoming",⏳ St. Pauli - Bayern Munich
-#http://spacetv.my.id/experimen/ge.mpd?id=301342&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301427&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301427/original/latest.jpg" group-title="🔴 Live Event",🔴 Liverpool - Fulham
+http://spacetv.my.id/experimen/ge.mpd?id=301427&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301357&type=drm
@@ -366,6 +356,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301372&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02125143-6exkihsc6zbuaeix.png" group-title="📅 Upcoming",⏳ Parma - Napoli
+#http://spacetv.my.id/experimen/ge.mpd?id=301372&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301410&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02135745-qiy4lodn58lubwue.jpg" group-title="📅 Upcoming",⏳ ATP 1000 Monte-Carlo, Court Ranier III, Final
+#http://spacetv.my.id/experimen/ge.mpd?id=301410&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301612&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12144931-dr8ogmpy8kdbeq90.png" group-title="📅 Upcoming",⏳ Liverpool - Paris SG
 #http://spacetv.my.id/experimen/ge.mpd?id=301612&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -397,9 +399,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-brighton-hove-albion-epl-2026&contentid=0c3e0fdd-40e1-4ae2-b6e3-9f74ad34fe19|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/908c1e11-e483-4d4a-808e-bbd8534c7547/efb5c994-4e02-4a6f-96dd-dc31760e9c24.png" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool vs Fulham
-#https://qtv.my.id/myco/index.m3u8?id=liverpool-vs-fulham-epl-2026&contentid=b4290a1a-c73b-4cd1-a5ab-ec697d75c7e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/908c1e11-e483-4d4a-808e-bbd8534c7547/efb5c994-4e02-4a6f-96dd-dc31760e9c24.png" group-title="🔴 Live Event",LIVE 🔴 Liverpool vs Fulham
+https://qtv.my.id/myco/index.m3u8?id=liverpool-vs-fulham-epl-2026&contentid=b4290a1a-c73b-4cd1-a5ab-ec697d75c7e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c7b1f077-407c-4f2a-9541-70f37438228f/06127920-4076-42b1-9283-4d92d95f315c.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs Newcastle United
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-newcastle-united-epl-2026&contentid=c7b1f077-407c-4f2a-9541-70f37438228f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
