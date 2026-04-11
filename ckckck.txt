@@ -9,66 +9,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tjXsKCmbnPZkySqofnMWsj6LQSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008237/70a69c.jpg", European Championships 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/heLWPZB8joQSE0RBkkaOmfpww1A=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/orleans-masters-badminton-2026-presented-by-victor-finals-a15fcf.jpg", European Championships 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/D4pwnhfU90NbGwl89Xu4oXoT6WA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008726/e55cc5.jpg", European Championships 2026
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bBmFTCA2M1vi1T9VuqB954Loz_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008441/6d01ee.jpg", Cagliari vs Cremonese
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17938&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/idmg_uQSIv-6jPEmJ5-z01P5SKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008445/040088.jpg", Torino vs Verona
-#https://vid-id.indi1.workers.dev/index.mpd?id=17938&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Czp2XVQHKSSNIghBElPqIYIVKV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008442/7a2a8c.jpg", Milan vs Udinese
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/9RnaaNs5OAKG2doU9BD4i823QuM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008517/251dad.jpg", Atalanta vs Juventus
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KifqyySB39bf-qfiVoVloaaSXKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008518/5d7437.jpg", Genoa vs Sassuolo
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I9xaTxAilUPdwYjW2OzFHhQSxks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008519/1dc700.jpg", Parma vs Napoli
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/s79suoM8aq0mc3yneaenfYZXqF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008520/9adaba.jpg", Bologna vs Lecce
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Bb_pP99cNcYN2A8XCpHd04ewjqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008239/0ebb80.jpg", Real Sociedad vs Alaves
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
@@ -141,30 +81,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cf5c31583f1a7c859c8bb4&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cf5c31583f1a7c859c8bb4&type=hls
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k0h4UWCj5BcVdeji-02CXsuNY14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007960/b0e433.jpg", Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Popsivo Polwan
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t_Y0FxOBua0wBF4FIO1cdU2brwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007961/9fb93d.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Garuda Jaya
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FhKo_l7wgcwCuNHjsp8mUft2d1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007963/34c179.jpg", Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H8FK2HIXaANmJOLe7yWdp1ETzdw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007962/4dc423.jpg", Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19385&type=drm
