@@ -474,8 +474,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=al-khaleej-vs-al-hilal-sfc-roshn-saudi-league-2025-2026&contentid=021ebda3-d20a-48bf-b217-139bc9f3c38c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af6f0c74-cea5-4e0c-9048-6bc6895b6a67/1c3b3d4a-913b-4e99-960c-43be2da28f38.jpg" group-title="🔴 Live Event",LIVE 🔴 Sheffield United F.C. VS Hull City
-https://qtv.my.id/myco/index.m3u8?id=sheffield-united-fc-vs-hull-city-efl-championship-2025-26&contentid=33404cc1-e377-4db6-9d3d-fe3d67121fff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af6f0c74-cea5-4e0c-9048-6bc6895b6a67/1c3b3d4a-913b-4e99-960c-43be2da28f38.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sheffield United F.C. VS Hull City
+#https://qtv.my.id/myco/index.m3u8?id=sheffield-united-fc-vs-hull-city-efl-championship-2025-26&contentid=33404cc1-e377-4db6-9d3d-fe3d67121fff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5281a832-230c-4377-9d4c-8a003d4ea727/12ace075-6cb5-4152-810b-653f57ac1d65.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Wellington Phoenix
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-wellington-phoenix-a-league-2025-26&contentid=a67354fb-01a4-4d2d-b4ba-42db3a3a5e56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
