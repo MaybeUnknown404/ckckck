@@ -455,9 +455,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #http://spacetv.my.id/experimen/ge.mpd?id=301614&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="📁 MyCo Upcoming",UPCOMING - Xcel Contender Series
-#https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="🔴 Live Event",LIVE 🔴 Xcel Contender Series
+https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7b1cd29-3e9c-4251-83f0-260221feaf90/8dc249d7-a03c-47b0-8266-fa5ea08f3afa.png" group-title="🔴 Live Event",LIVE 🔴 Brentford vs Everton
 https://qtv.my.id/myco/index.m3u8?id=brentford-vs-everton-epl-2026&contentid=92255100-7d2b-4a22-b692-7378b302184c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
