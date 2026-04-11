@@ -464,8 +464,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-afc-bournemouth-epl-2026&contentid=b3160331-c5bc-435b-8782-db3bfe6a91d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="🔴 Live Event",LIVE 🔴 Xcel Contender Series
-https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="📁 MyCo Upcoming",UPCOMING - Xcel Contender Series
+#https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7b1cd29-3e9c-4251-83f0-260221feaf90/8dc249d7-a03c-47b0-8266-fa5ea08f3afa.png" group-title="📁 MyCo Upcoming",UPCOMING - Brentford vs Everton
 #https://qtv.my.id/myco/index.m3u8?id=brentford-vs-everton-epl-2026&contentid=92255100-7d2b-4a22-b692-7378b302184c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -578,11 +579,11 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18170203/record/52642229/thumbnail/image_480.jpg" ch-number="92" group-logo="",Hana Bank VS Samsung Life Insurance (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411046034
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168247/record/52598856/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
-https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS1
-
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168278/record/52598696/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS2
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168247/record/52598856/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS1
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 6 Cronulla v Sydney Roosters
 https://foxau.indi1.workers.dev/index.m3u8?id=157357&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
