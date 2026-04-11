@@ -453,9 +453,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5f2133a5-3e7e-4cd0-9518-d544fb5d512e/e3e0bc7d-c6b7-4a26-a528-fed8bd42b06e.png" group-title="🔴 Live Event",LIVE 🔴 Arsenal vs AFC Bournemouth
 https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-afc-bournemouth-epl-2026&contentid=b3160331-c5bc-435b-8782-db3bfe6a91d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="📁 MyCo Upcoming",UPCOMING - Xcel Contender Series
-#https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/93a6cfba-2290-44cc-8d7b-820a5dd06c4d/773ca559-ea1d-4438-91ff-50cf19c0e362.png" group-title="🔴 Live Event",LIVE 🔴 Xcel Contender Series
+https://qtv.my.id/myco/index.m3u8?id=xcel-contender-series-40&contentid=d44f2c08-03c8-4ee9-9e04-1ad3907eff4d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7b1cd29-3e9c-4251-83f0-260221feaf90/8dc249d7-a03c-47b0-8266-fa5ea08f3afa.png" group-title="📁 MyCo Upcoming",UPCOMING - Brentford vs Everton
 #https://qtv.my.id/myco/index.m3u8?id=brentford-vs-everton-epl-2026&contentid=92255100-7d2b-4a22-b692-7378b302184c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -489,15 +488,17 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8524550d-772d-4dbf-a471-a894b478b8df/3ce1d3ac-7aa4-4e7b-9205-9177ab274586.jpg" group-title="🔴 Live Event",LIVE 🔴 Norwich City F.C. VS Ipswich Town F.C.
-https://qtv.my.id/myco/index.m3u8?id=norwich-city-fc-vs-ipswich-town-fc-efl-championship-2025-26&contentid=455fbfb1-4ef9-43c5-b7c4-c0364137b1d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8524550d-772d-4dbf-a471-a894b478b8df/3ce1d3ac-7aa4-4e7b-9205-9177ab274586.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Norwich City F.C. VS Ipswich Town F.C.
+#https://qtv.my.id/myco/index.m3u8?id=norwich-city-fc-vs-ipswich-town-fc-efl-championship-2025-26&contentid=455fbfb1-4ef9-43c5-b7c4-c0364137b1d6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5381f978-f95d-434d-8842-c6aa4331cc95/45d5cbde-cf54-4815-89f0-4438e926ad99.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Khaleej VS Al Hilal SFC
 #https://qtv.my.id/myco/index.m3u8?id=al-khaleej-vs-al-hilal-sfc-roshn-saudi-league-2025-2026&contentid=021ebda3-d20a-48bf-b217-139bc9f3c38c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af6f0c74-cea5-4e0c-9048-6bc6895b6a67/1c3b3d4a-913b-4e99-960c-43be2da28f38.jpg" group-title="🔴 Live Event",LIVE 🔴 Sheffield United F.C. VS Hull City
-https://qtv.my.id/myco/index.m3u8?id=sheffield-united-fc-vs-hull-city-efl-championship-2025-26&contentid=33404cc1-e377-4db6-9d3d-fe3d67121fff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af6f0c74-cea5-4e0c-9048-6bc6895b6a67/1c3b3d4a-913b-4e99-960c-43be2da28f38.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sheffield United F.C. VS Hull City
+#https://qtv.my.id/myco/index.m3u8?id=sheffield-united-fc-vs-hull-city-efl-championship-2025-26&contentid=33404cc1-e377-4db6-9d3d-fe3d67121fff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4510f71d-5a1e-4b59-9ba9-b520f2bd4dd0/2b2ceb02-35f2-4083-818f-ea44c2684025.jpg" group-title="📁 MyCo Upcoming",UPCOMING - West Bromwich Albion F.C. VS Millwall F.C.
 #https://qtv.my.id/myco/index.m3u8?id=west-bromwich-albion-fc-vs-millwall-fc-efl-championship-2025-26&contentid=798decad-97c7-463b-be93-d426b11d1eef|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
