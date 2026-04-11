@@ -156,14 +156,6 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d24c00583f1a7c859c8bc6&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cead40583f1a7c859c8ba0&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cead40583f1a7c859c8ba0&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775166237162-TheAsianTournamentLandscape.jpg" tvg-name="",Chengdu: Guangzhou Loong Lions vs Billion Stars | Game 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cee327583f1a7c859c8bad&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cee327583f1a7c859c8bad&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775152519015-LevangaHokkaidovsNagasakiVelca.jpeg" tvg-name="",Levanga Hokkaido vs Nagasaki Velca | Round 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -171,6 +163,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cee327583f1a7c859c8bad&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cead9d583f1a7c859c8ba1&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cead9d583f1a7c859c8ba1&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775152633444-NewcastleJetsFCvsAdelaideUnited.jpeg" tvg-name="",Newcastle Jets FC vs Adelaide United | Round 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ceae1875e64c775b4d9b99&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ceae1875e64c775b4d9b99&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
