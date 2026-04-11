@@ -164,6 +164,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cead40583f1a7c859c8ba0&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cee327583f1a7c859c8bad&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cee327583f1a7c859c8bad&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775152519015-LevangaHokkaidovsNagasakiVelca.jpeg" tvg-name="",Levanga Hokkaido vs Nagasaki Velca | Round 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cead9d583f1a7c859c8ba1&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cead9d583f1a7c859c8ba1&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k0h4UWCj5BcVdeji-02CXsuNY14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007960/b0e433.jpg", Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Popsivo Polwan
@@ -558,7 +566,7 @@ https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411TNS1
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168247/record/52598856/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS1
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_billiards.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168278/record/52598696/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS2
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 6 South Sydney v Canberra
