@@ -140,14 +140,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=7Rc0pXqUl0g2U6n0w2i8fPpl6lOCQK0D|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775541472416-LosAngelesDodgersvsTexasRangers.jpg" tvg-name="",Los Angeles Dodgers vs Texas Rangers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69d24b2c583f1a7c859c8bc5&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d24b2c583f1a7c859c8bc5&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775197289588-SUPERCARS2.png" tvg-name="",ITM Taupo Super 440: Race 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -171,6 +163,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d24c00583f1a7c859c8bc6&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cead40583f1a7c859c8ba0&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cead40583f1a7c859c8ba0&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775166237162-TheAsianTournamentLandscape.jpg" tvg-name="",Chengdu: Guangzhou Loong Lions vs Billion Stars | Game 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69cee327583f1a7c859c8bad&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69cee327583f1a7c859c8bad&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
@@ -569,9 +569,8 @@ https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS1
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168278/record/52598696/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi Province Sports Festival 2026 Gwangju - Billiards Day 2 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260411BILLIARDS2
 
-#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 South Sydney v Canberra [11 Apr 26 12:00 WIB]
-#https://foxau.indi1.workers.dev/index.m3u8?id=157356&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 6 South Sydney v Canberra
+https://foxau.indi1.workers.dev/index.m3u8?id=157356&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 6 Cronulla v Sydney Roosters [11 Apr 26 14:30 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=157357&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
