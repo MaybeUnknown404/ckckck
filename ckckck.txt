@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016905%2F1774592284910658_BLIGA_26_MD29_St-Pauli-vs-Bayern_tv_background.jpg" group-title="🔴 Live Event",🔴 St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090525518&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775645457893205_UCL_QF_Leg2_Atletico_Madrid_vs_Barcelona_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Atletico vs Barcelona - UEFA Champions League 2025-26
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090526827&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
