@@ -267,21 +267,9 @@ http://spacetv.my.id/experimen/ge.mpd?id=301349&type=dash|User-Agent=Mozilla/5.0
 http://spacetv.my.id/experimen/ge.mpd?id=301359&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301410&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02135745-qiy4lodn58lubwue.jpg" group-title="📅 Upcoming",⏳ ATP 1000 Monte-Carlo, Court Ranier III, Final
-#http://spacetv.my.id/experimen/ge.mpd?id=301410&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301429&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02142112-hwwofyi2rkrvoorv.png" group-title="📅 Upcoming",⏳ Nottingham - Aston Villa
 #http://spacetv.my.id/experimen/ge.mpd?id=301429&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301430&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/02142153-r1p4yqauvookpwbm.png" group-title="📅 Upcoming",⏳ Sunderland - Tottenham
-#http://spacetv.my.id/experimen/ge.mpd?id=301430&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -294,6 +282,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301372&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301372/original/latest.jpg" group-title="📅 Upcoming",⏳ Parma - Napoli
 #http://spacetv.my.id/experimen/ge.mpd?id=301372&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301410&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301410/original/latest.jpg" group-title="📅 Upcoming",⏳ ATP 1000 Monte-Carlo, Court Ranier III, Final
+#http://spacetv.my.id/experimen/ge.mpd?id=301410&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301430&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301430/original/latest.jpg" group-title="📅 Upcoming",⏳ Sunderland - Tottenham
+#http://spacetv.my.id/experimen/ge.mpd?id=301430&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -382,8 +382,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ce3daee0-f476-4408-a152-2359d99ef467/e9e6f119-012d-4bd5-aa60-b02bc518742f.jpg" group-title="🔴 Live Event",LIVE 🔴 Birmingham City F.C. VS Wrexham A.F.C.
-https://qtv.my.id/myco/index.m3u8?id=birmingham-city-fc-vs-wrexham-afc-efl-championship-2025-26&contentid=f225bba5-2763-48f1-9666-66111d7b4b1f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ce3daee0-f476-4408-a152-2359d99ef467/e9e6f119-012d-4bd5-aa60-b02bc518742f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Birmingham City F.C. VS Wrexham A.F.C.
+#https://qtv.my.id/myco/index.m3u8?id=birmingham-city-fc-vs-wrexham-afc-efl-championship-2025-26&contentid=f225bba5-2763-48f1-9666-66111d7b4b1f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c712f7d7-1fed-4724-9bdb-9db5057b6417/7f375edf-34a4-4c11-8845-bff2bfbd16e2.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Luton Town VS Stockport County
 #https://qtv.my.id/myco/index.m3u8?id=luton-town-vs-stockport-county-vertu-trophy-2025-26&contentid=37618634-7ecd-473f-bf58-5a59c9040154|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -417,14 +418,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-newcastle-jets-a-league-2025-26&contentid=7e04a9f9-4559-480b-af6a-aa8d64f90c3f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
-#https://qtv.my.id/myco/index.m3u8?id=auckland-vs-central-coast-mariners-a-league-2025-26&contentid=100d3bef-aa48-4c6e-96cf-b31baa934416|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/2e453da7-67f7-4aac-be7f-e803c599c8c0/e0ae133d-d344-4c90-8ae8-0b611d061d6b.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
-#https://qtv.my.id/myco/index.m3u8?id=atletico-de-madrid-vs-real-sociedad-copa-del-rey-2025-26&contentid=2f3dc42a-0e77-44b6-a0c9-35c46605a87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f1059077-e4d1-43e1-bce4-17148b7c99f4/da53c9b8-92c5-4a16-abd2-b8c14b1f2e10.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brisbane Roar VS Melbourne City
 #https://qtv.my.id/myco/index.m3u8?id=brisbane-roar-vs-melbourne-city-a-league-2025-26&contentid=a830d273-377b-48de-90dd-6eb53ad59de9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -447,6 +440,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b89ef143-5e11-43e6-bb81-6c22f40eccc7/068fe9ac-8ef0-4cdf-a168-9964396c099a.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Blackburn Rovers F.C. VS Coventry City F.C.
 #https://qtv.my.id/myco/index.m3u8?id=blackburn-rovers-fc-vs-coventry-city-fc-efl-championship-2025-26&contentid=32384ff7-3168-4b28-ac5a-96b9442eeaa6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/2e453da7-67f7-4aac-be7f-e803c599c8c0/e0ae133d-d344-4c90-8ae8-0b611d061d6b.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
+#https://qtv.my.id/myco/index.m3u8?id=atletico-de-madrid-vs-real-sociedad-copa-del-rey-2025-26&contentid=2f3dc42a-0e77-44b6-a0c9-35c46605a87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
+#https://qtv.my.id/myco/index.m3u8?id=auckland-vs-central-coast-mariners-a-league-2025-26&contentid=100d3bef-aa48-4c6e-96cf-b31baa934416|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/784c4b62-55e4-4e1e-9a5e-d12d5716341a/1ebaa8be-7a93-4baa-8b15-35342b459119.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Adelaide United VS Macarthur
