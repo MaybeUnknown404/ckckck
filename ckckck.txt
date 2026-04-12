@@ -147,14 +147,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=220pJet1s6VKvUzbcbH32hvFTpFPYP0E|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775541490313-TampaBayRaysvsNewYorkYankees.jpg" tvg-name="",Tampa Bay Rays vs New York Yankees
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69d24e12583f1a7c859c8bc7&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d24e12583f1a7c859c8bc7&type=hls
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FhKo_l7wgcwCuNHjsp8mUft2d1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007963/34c179.jpg", Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile
@@ -442,11 +434,11 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15210194/live/18169892/record/52671446/thumbnail/image_480.jpg" ch-number="92" group-logo="",The 1st Korea Professional Tennis Federation Tournament and Tennis Competition (Men's/Women's Final) (LIVE NOW)
-https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412TNS1
-
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168298/record/52664590/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 3 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412BILLIARDS1
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15210194/live/18169892/record/52671446/thumbnail/image_480.jpg" ch-number="92" group-logo="",The 1st Korea Professional Tennis Federation Tournament and Tennis Competition (Men's/Women's Final) (LIVE NOW)
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412TNS1
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168316/record/52664594/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 3 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412BILLIARDS2
