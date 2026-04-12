@@ -272,9 +272,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #http://spacetv.my.id/experimen/ge.mpd?id=301614&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c977e679-f9aa-4481-9a09-b469a36db57b/dc93ae8b-523e-499d-9aa0-26fbb3b89c6d.png" group-title="📁 MyCo Upcoming",UPCOMING - Chelsea vs Manchester City
-#https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-city-epl-2026&contentid=2eebdd24-c67e-4ea0-92e6-3c6899e2add5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c977e679-f9aa-4481-9a09-b469a36db57b/dc93ae8b-523e-499d-9aa0-26fbb3b89c6d.png" group-title="🔴 Live Event",LIVE 🔴 Chelsea vs Manchester City
+https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-city-epl-2026&contentid=2eebdd24-c67e-4ea0-92e6-3c6899e2add5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/924952eb-b28e-454e-9f96-d18317dff187/cb46db5d-25ff-4aac-96c2-73706cd36d9e.png" group-title="📁 MyCo Upcoming",UPCOMING - Manchester United vs Leeds United
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
