@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774442649594617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090526841&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016905%2F1774593233390658_BLIGA_26_MD29_Koln-vs-Werder_tv_background.jpg" group-title="🔴 Live Event",🔴 FC Koln vs Werder Bremen - MD 29 - 12 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090526866&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775645450704205_UCL_QF_Leg2_Atletico_Madrid_vs_Barcelona_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Atletico vs Barcelona - UEFA Champions League 2025-26
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090526827&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775648363051205_UCL_QF_Leg2_Arsenal_vs_Sporting_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Arsenal vs Sporting CP - UEFA Champions League 2025-26
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090526829&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg", Vietnam vs Malaysia
@@ -169,8 +183,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=birmingham-city-fc-vs-wrexham-afc-efl-championship-2025-26&contentid=f225bba5-2763-48f1-9666-66111d7b4b1f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c712f7d7-1fed-4724-9bdb-9db5057b6417/7f375edf-34a4-4c11-8845-bff2bfbd16e2.jpg" group-title="🔴 Live Event",LIVE 🔴 Luton Town VS Stockport County
-https://qtv.my.id/myco/index.m3u8?id=luton-town-vs-stockport-county-vertu-trophy-2025-26&contentid=37618634-7ecd-473f-bf58-5a59c9040154|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c712f7d7-1fed-4724-9bdb-9db5057b6417/7f375edf-34a4-4c11-8845-bff2bfbd16e2.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Luton Town VS Stockport County
+#https://qtv.my.id/myco/index.m3u8?id=luton-town-vs-stockport-county-vertu-trophy-2025-26&contentid=37618634-7ecd-473f-bf58-5a59c9040154|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Qadsiah FC VS Al-Shabab FC
 #https://qtv.my.id/myco/index.m3u8?id=al-qadsiah-fc-vs-al-shabab-fc-roshn-saudi-league-2025-2026&contentid=9dd88b80-cca5-4403-b886-84d317388c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
