@@ -388,8 +388,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4d976cdd-7c67-428c-b96c-00d6d6a141f5/991c0d4c-ac9e-47ca-adf0-618279daf10c.jpg" group-title="🔴 Live Event",LIVE 🔴 Perth Glory VS Macarthur
-https://qtv.my.id/myco/index.m3u8?id=perth-glory-vs-macarthur-a-league-2025-26&contentid=fc9e4b96-f8a4-4074-925b-8a271ecc77db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4d976cdd-7c67-428c-b96c-00d6d6a141f5/991c0d4c-ac9e-47ca-adf0-618279daf10c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Perth Glory VS Macarthur
+#https://qtv.my.id/myco/index.m3u8?id=perth-glory-vs-macarthur-a-league-2025-26&contentid=fc9e4b96-f8a4-4074-925b-8a271ecc77db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ce3daee0-f476-4408-a152-2359d99ef467/e9e6f119-012d-4bd5-aa60-b02bc518742f.jpg" group-title="🔴 Live Event",LIVE 🔴 Birmingham City F.C. VS Wrexham A.F.C.
 https://qtv.my.id/myco/index.m3u8?id=birmingham-city-fc-vs-wrexham-afc-efl-championship-2025-26&contentid=f225bba5-2763-48f1-9666-66111d7b4b1f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
