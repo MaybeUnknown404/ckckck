@@ -431,8 +431,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=al-okhdood-club-vs-al-nassr-fc-roshn-saudi-league-2025-2026&contentid=c5861c44-5268-430d-bc43-dd8466629c49|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5281a832-230c-4377-9d4c-8a003d4ea727/12ace075-6cb5-4152-810b-653f57ac1d65.jpg" group-title="🔴 Live Event",LIVE 🔴 Melbourne City VS Wellington Phoenix
-https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-wellington-phoenix-a-league-2025-26&contentid=a67354fb-01a4-4d2d-b4ba-42db3a3a5e56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5281a832-230c-4377-9d4c-8a003d4ea727/12ace075-6cb5-4152-810b-653f57ac1d65.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne City VS Wellington Phoenix
+#https://qtv.my.id/myco/index.m3u8?id=melbourne-city-vs-wellington-phoenix-a-league-2025-26&contentid=a67354fb-01a4-4d2d-b4ba-42db3a3a5e56|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c712f7d7-1fed-4724-9bdb-9db5057b6417/7f375edf-34a4-4c11-8845-bff2bfbd16e2.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Luton Town VS Stockport County
 #https://qtv.my.id/myco/index.m3u8?id=luton-town-vs-stockport-county-vertu-trophy-2025-26&contentid=37618634-7ecd-473f-bf58-5a59c9040154|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -485,6 +486,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed954cd8-1f02-4e7e-b0e7-0d281ebc6613/3c680ebc-bfed-4dc5-a9e8-d3087c69d1a5.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs West Ham United
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18170235/record/52716026/thumbnail/image_480.jpg" ch-number="92" group-logo="",Woori Bank VS KB Stars
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412046035
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168298/record/52664590/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 3 (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260412BILLIARDS1
