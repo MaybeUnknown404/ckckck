@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016586%2F1774442508615617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Kashmir FC vs Gokulam Kerala FC - 12 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090526840&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775645450704205_UCL_QF_Leg2_Atletico_Madrid_vs_Barcelona_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Atletico vs Barcelona - UEFA Champions League 2025-26
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090526827&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775648363051205_UCL_QF_Leg2_Arsenal_vs_Sporting_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Arsenal vs Sporting CP - UEFA Champions League 2025-26
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090526829&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XJdgj5gYxuE_01S6MPlKJz_4CrA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5010223/52bc96.jpg", Laos vs Myanmar
@@ -385,8 +374,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4d976cdd-7c67-428c-b96c-00d6d6a141f5/991c0d4c-ac9e-47ca-adf0-618279daf10c.jpg" group-title="🔴 Live Event",LIVE 🔴 Perth Glory VS Macarthur
-https://qtv.my.id/myco/index.m3u8?id=perth-glory-vs-macarthur-a-league-2025-26&contentid=fc9e4b96-f8a4-4074-925b-8a271ecc77db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4d976cdd-7c67-428c-b96c-00d6d6a141f5/991c0d4c-ac9e-47ca-adf0-618279daf10c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Perth Glory VS Macarthur
+#https://qtv.my.id/myco/index.m3u8?id=perth-glory-vs-macarthur-a-league-2025-26&contentid=fc9e4b96-f8a4-4074-925b-8a271ecc77db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ce3daee0-f476-4408-a152-2359d99ef467/e9e6f119-012d-4bd5-aa60-b02bc518742f.jpg" group-title="🔴 Live Event",LIVE 🔴 Birmingham City F.C. VS Wrexham A.F.C.
 https://qtv.my.id/myco/index.m3u8?id=birmingham-city-fc-vs-wrexham-afc-efl-championship-2025-26&contentid=f225bba5-2763-48f1-9666-66111d7b4b1f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
