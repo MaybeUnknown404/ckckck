@@ -18,11 +18,6 @@ https://archertv.my.id/atraksi/vidx.mpd?id=21157&type=dash|User-Agent=Mozilla/5.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/cvE8GpR3pg8ho81rDg5Y2KZLqgA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21157/asean-u17-boys-championship-29dde7.jpg", Laos vs Myanmar
-https://archertv.my.id/atraksi/vidx.mpd?id=21157&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg", Vietnam vs Malaysia
 #https://archertv.my.id/atraksi/vidx.mpd?id=21157&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -325,9 +320,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #http://spacetv.my.id/experimen/ge.mpd?id=301614&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c7b1f077-407c-4f2a-9541-70f37438228f/06127920-4076-42b1-9283-4d92d95f315c.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs Newcastle United
-#https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-newcastle-united-epl-2026&contentid=c7b1f077-407c-4f2a-9541-70f37438228f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c7b1f077-407c-4f2a-9541-70f37438228f/06127920-4076-42b1-9283-4d92d95f315c.png" group-title="🔴 Live Event",LIVE 🔴 Crystal Palace vs Newcastle United
+https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-newcastle-united-epl-2026&contentid=c7b1f077-407c-4f2a-9541-70f37438228f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/20970545-8ddc-4f6d-b3c8-df8138563f02/c6cb652e-ef66-4f07-b8d5-2a7679dd22be.png" group-title="📁 MyCo Upcoming",UPCOMING - Nottingham Forest vs Aston Villa
 #https://qtv.my.id/myco/index.m3u8?id=nottingham-forest-vs-aston-villa-epl-2026&contentid=20970545-8ddc-4f6d-b3c8-df8138563f02|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
