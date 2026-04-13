@@ -234,6 +234,10 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-leeds-united-epl-2026&contentid=c00a62d8-3d5e-46f2-90e4-78de558305ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2f3dc42a-0e77-44b6-a0c9-35c46605a87d/d5e0da5a-9443-41a9-805c-4b4da3be2908.png" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
+#https://qtv.my.id/myco/index.m3u8?id=atletico-de-madrid-vs-real-sociedad-copa-del-rey-2025-26&contentid=2f3dc42a-0e77-44b6-a0c9-35c46605a87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ced2b934-ed45-4ac1-b49e-00118228f816/93c05157-9b13-458c-be9e-22a17606551c.png" group-title="📁 MyCo Upcoming",UPCOMING - Aston Villa vs Sunderland
 #https://qtv.my.id/myco/index.m3u8?id=aston-villa-vs-sunderland-epl-2026&contentid=14377c01-edce-4a5f-8f79-771662a3db38|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -272,10 +276,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed954cd8-1f02-4e7e-b0e7-0d281ebc6613/3c680ebc-bfed-4dc5-a9e8-d3087c69d1a5.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs West Ham United
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2f3dc42a-0e77-44b6-a0c9-35c46605a87d/d5e0da5a-9443-41a9-805c-4b4da3be2908.png" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
-#https://qtv.my.id/myco/index.m3u8?id=atletico-de-madrid-vs-real-sociedad-copa-del-rey-2025-26&contentid=2f3dc42a-0e77-44b6-a0c9-35c46605a87d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Qadsiah FC VS Al-Shabab FC
