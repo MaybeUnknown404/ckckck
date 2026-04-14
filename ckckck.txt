@@ -2,20 +2,6 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 ##https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090526897%2FtvBackgroundImage%2F1775432988666802_UCL26_QF_leg2_liverpool_vs_psg_5apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Liverpool vs PSG - Quarter-Final - Leg 2 - 14 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090526897&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090526899%2FtvBackgroundImage%2F1775435508148802_UCL26_QF_leg2_Atletico_vs_Barcelona_5apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Atletico vs Barcelona - Quarter-Final - Leg 2 - 14 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090526899&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017020%2F1775648363051205_UCL_QF_Leg2_Arsenal_vs_Sporting_promo_with_sponsors_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Arsenal vs Sporting CP - UEFA Champions League 2025-26
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090526829&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg", Philippines vs Laos
@@ -439,8 +425,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="🔴 Live Event",LIVE 🔴 Al-Qadsiah FC VS Al-Shabab FC
-https://qtv.my.id/myco/index.m3u8?id=al-qadsiah-fc-vs-al-shabab-fc-roshn-saudi-league-2025-2026&contentid=9dd88b80-cca5-4403-b886-84d317388c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Qadsiah FC VS Al-Shabab FC
+#https://qtv.my.id/myco/index.m3u8?id=al-qadsiah-fc-vs-al-shabab-fc-roshn-saudi-league-2025-2026&contentid=9dd88b80-cca5-4403-b886-84d317388c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/18d55b56-5f80-4910-a072-3c8ffe62b923/bb96e051-e67e-4f2b-8fd7-471649d51dba.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Cruz Azul VS Los Angeles FC
 #https://qtv.my.id/myco/index.m3u8?id=cruz-azul-vs-los-angeles-fc-concacaf-champions-cup-2026&contentid=1587f8be-0aa1-4efb-91ac-29dbdf96d8d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
