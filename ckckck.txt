@@ -439,8 +439,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="🔴 Live Event",LIVE 🔴 Al-Qadsiah FC VS Al-Shabab FC
-https://qtv.my.id/myco/index.m3u8?id=al-qadsiah-fc-vs-al-shabab-fc-roshn-saudi-league-2025-2026&contentid=9dd88b80-cca5-4403-b886-84d317388c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/aaa33345-46e5-480f-98bd-204b4345e96b/45d2ec73-b68c-4abe-8bca-126e741097de.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Qadsiah FC VS Al-Shabab FC
+#https://qtv.my.id/myco/index.m3u8?id=al-qadsiah-fc-vs-al-shabab-fc-roshn-saudi-league-2025-2026&contentid=9dd88b80-cca5-4403-b886-84d317388c63|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/18d55b56-5f80-4910-a072-3c8ffe62b923/bb96e051-e67e-4f2b-8fd7-471649d51dba.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Cruz Azul VS Los Angeles FC
 #https://qtv.my.id/myco/index.m3u8?id=cruz-azul-vs-los-angeles-fc-concacaf-champions-cup-2026&contentid=1587f8be-0aa1-4efb-91ac-29dbdf96d8d1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
