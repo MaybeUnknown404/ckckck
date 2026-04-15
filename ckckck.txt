@@ -2,9 +2,6 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 ##https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fblitz_assets%2F1090526907%2FtvBackgroundImage%2F1775435948259802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_clean_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bayern vs Real Madrid - Quarter-Final - Leg 2 - 15 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090526907&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017188%2F1776088129838512_UEL_QF_Leg2_Nottingham_Forest_vs_Porto_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Nottingham Forest vs Porto - UEFA Europa League
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090528140&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
