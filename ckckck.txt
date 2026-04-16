@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016848%2F1775141530072765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Nottingham Forest vs Porto  - Quarter-Final - Leg 2 - 17 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528046&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1775134137348488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528047&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775152619770363_UECL26_QF_leg2_Fiorentina_vs_Crystal_Palace_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Fiorentina vs Crystal Palace FC - Quarter-Final - Leg 2 - 17 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528097&type=hls
 
@@ -176,21 +173,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0PlliM567Sla0nCmXhJsP97hEB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015574/0a5d0d.jpg", Pisa vs Genoa
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/geZCGz-YDCvhZPXNj6VYTSV_lp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015454/4ae603.jpg", AEK Athens vs Rayo Vallecano
-https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mK8gzm_8GnLxSjGM5mKC1c9sX4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015459/d7ea45.jpg", Nottingham Forest vs Porto
-https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19602&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dUx4zkybUzProgQVt-gtIvy8aF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015461/38ab12.jpg", Real Betis vs Braga
-https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775760922174-YANKEESVSANGELS.jpg" tvg-name="",New York Yankees vs Los Angeles Angels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
