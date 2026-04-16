@@ -454,10 +454,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/bdc6df73-6627-4235-a7c6-60a05c7bf360/3363bc0a-c9ea-471d-b23f-1ad59b4449ce.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Seattle Sounders FC VS Tigres
-#https://qtv.my.id/myco/index.m3u8?id=seattle-sounders-fc-vs-tigres-concacaf-champions-cup-2026&contentid=8e652c03-76cb-41b1-a959-e340c83b2618|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/14d9209c-53f7-4d22-9fa1-2fea53a6d9a2/f2a1f4e0-ef04-4e7a-b510-f5c6d381044f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Melbourne Victory VS Newcastle Jets
 #https://qtv.my.id/myco/index.m3u8?id=melbourne-victory-vs-newcastle-jets-a-league-2025-26&contentid=7e04a9f9-4559-480b-af6a-aa8d64f90c3f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
