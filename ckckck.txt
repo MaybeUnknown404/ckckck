@@ -192,9 +192,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=nw2vkC4cxNID
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yfMm4tGznLlmoqEg-k9XKKP7Zv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg", Fiorentina vs Crystal Palace
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yfMm4tGznLlmoqEg-k9XKKP7Zv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg", Fiorentina vs Crystal Palace
+https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
@@ -208,9 +207,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=nw2vkC4cxNID
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gCykyP-6O2ZgMQSqtC3VxL4kMeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015443/55abb1.jpg", Aston Villa vs Bologna
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gCykyP-6O2ZgMQSqtC3VxL4kMeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015443/55abb1.jpg", Aston Villa vs Bologna
+https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775760922174-YANKEESVSANGELS.jpg" tvg-name="",New York Yankees vs Los Angeles Angels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
