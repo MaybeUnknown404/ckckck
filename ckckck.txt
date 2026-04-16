@@ -181,11 +181,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JSMgLR7H5Y3BRtQcTHrByQJS5y4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg", AZ Alkmaar vs Shakhtar Donetsk
-https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/geZCGz-YDCvhZPXNj6VYTSV_lp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015454/4ae603.jpg", AEK Athens vs Rayo Vallecano
 #https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
@@ -202,11 +197,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yfMm4tGznLlmoqEg-k9XKKP7Zv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg", Fiorentina vs Crystal Palace
 #https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KYL3_tZUUpTN8nEku15901fP5G4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg", Celta Vigo vs SC Freiburg
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
@@ -453,12 +443,6 @@ http://spacetv.my.id/experimen/ge.mpd?id=301628&type=dash|User-Agent=Mozilla/5.0
 http://spacetv.my.id/experimen/ge.mpd?id=301627&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301618&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301618/original/latest.jpg" group-title="📅 Upcoming",⏳ Celta Vigo - Freiburg
-#http://spacetv.my.id/experimen/ge.mpd?id=301618&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301584&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14130643-tzh2maca50cw4dmw.png" group-title="📅 Upcoming",⏳ Colorado Avalanche - Seattle Kraken
 #http://spacetv.my.id/experimen/ge.mpd?id=301584&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -522,6 +506,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301567&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12150032-rdwhqhbgcndz7iox.png" group-title="📅 Upcoming",⏳ Dubai - Valencia
 #http://spacetv.my.id/experimen/ge.mpd?id=301567&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301568&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12150032-rdwhqhbgcndz7iox.png" group-title="📅 Upcoming",⏳ Barcelona - Bayern
+#http://spacetv.my.id/experimen/ge.mpd?id=301568&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2f3dc42a-0e77-44b6-a0c9-35c46605a87d/d5e0da5a-9443-41a9-805c-4b4da3be2908.png" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
