@@ -224,14 +224,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=P3fVIuFlzeN7jNAqww1hI8tMnvZvDJFE|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775760812504-YANKEESVSANGELS.jpg" tvg-name="",New York Yankees vs Los Angeles Angels
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69d7f5dd496b4634d2d62800&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d7f5dd496b4634d2d62800&type=hls
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/42m0NKdp18M1mAKWQyf-WAr166w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014316/d6ae2a.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Surabaya Samator
@@ -408,9 +400,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301583&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301583/original/latest.jpg" group-title="📅 Upcoming",⏳ Vegas Golden Knights - Seattle Kraken
-#http://spacetv.my.id/experimen/ge.mpd?id=301583&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301583/original/latest.jpg" group-title="🔴 Live Event",🔴 Vegas Golden Knights - Seattle Kraken
+http://spacetv.my.id/experimen/ge.mpd?id=301583&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301618&type=drm
@@ -476,6 +467,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301584&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14130643-tzh2maca50cw4dmw.png" group-title="📅 Upcoming",⏳ Colorado Avalanche - Seattle Kraken
 #http://spacetv.my.id/experimen/ge.mpd?id=301584&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301539&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12145626-zvlxo0ihc9dk5lhn.png" group-title="📅 Upcoming",⏳ ATP 500 Barcelona, Pista Rafa Nadal, Quarter-Final 1
+#http://spacetv.my.id/experimen/ge.mpd?id=301539&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2f3dc42a-0e77-44b6-a0c9-35c46605a87d/d5e0da5a-9443-41a9-805c-4b4da3be2908.png" group-title="📁 MyCo Upcoming",UPCOMING - Atletico de Madrid VS Real Sociedad
