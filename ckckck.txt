@@ -2,30 +2,7 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 ##https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016848%2F1775141530072765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Nottingham Forest vs Porto  - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528046&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016836%2F1775134137348488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528047&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775152619770363_UECL26_QF_leg2_Fiorentina_vs_Crystal_Palace_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Fiorentina vs Crystal Palace FC - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528097&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016848%2F1775137658710765_UEL26_QuarterFinal_Leg2_Real_Betis_vs_Braga_30mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Betis vs Braga  - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528021&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775152885188363_UECL26_QF_leg2_AEK_Athens_vs_Rayo_Vallecano_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Athens FC vs Rayo Vallecano - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528098&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016853%2F1775153763302363_UECL26_QF_leg2_Strasbourg_vs_Mainz_2apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Strasbourg vs Mainz - Quarter-Final - Leg 2 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528099&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017239%2F177624337883952_Golf_Mexico_Day1_tv_bg.jpg" group-title="🔴 Live Event",🔴 Mexico City - Day 1 - 17 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528100&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21157&type=drm
