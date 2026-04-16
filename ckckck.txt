@@ -182,15 +182,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/geZCGz-YDCvhZPXNj6VYTSV_lp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015454/4ae603.jpg", AEK Athens vs Rayo Vallecano
-#https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/geZCGz-YDCvhZPXNj6VYTSV_lp8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015454/4ae603.jpg", AEK Athens vs Rayo Vallecano
+https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19736&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wRU7JDiABW7HDqL3ZB9ZyeYlEo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015458/2f8528.jpg", Strasbourg vs Mainz
-#https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wRU7JDiABW7HDqL3ZB9ZyeYlEo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015458/2f8528.jpg", Strasbourg vs Mainz
+https://vid-id.indi1.workers.dev/index.mpd?id=19736&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
@@ -205,9 +203,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=nw2vkC4cxNID
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19602&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dUx4zkybUzProgQVt-gtIvy8aF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015461/38ab12.jpg", Real Betis vs Braga
-#https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dUx4zkybUzProgQVt-gtIvy8aF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015461/38ab12.jpg", Real Betis vs Braga
+https://vid-id.indi1.workers.dev/index.mpd?id=19602&type=dash&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=nw2vkC4cxNIDgdgJJZiAMPXy5WFjb35h
