@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017315%2F1776429996486201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Madrid vs PSG - Semi-Final - 17 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528112&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438214276352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 St. Pauli vs FC Koln - MD 30 - 18 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528269&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017239%2F177624338575752_Golf_Mexico_Day2_tv_bg.jpg" group-title="🔴 Live Event",🔴 Mexico City - Day 2 - 17 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528101&type=hls
 
