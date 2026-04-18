@@ -15,9 +15,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528272&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528270&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438592954352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528274&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438478105352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴  Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528273&type=hls
 
