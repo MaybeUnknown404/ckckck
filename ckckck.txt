@@ -3,31 +3,8 @@
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
 https://ml-pull-hwc.myco.io/EPLBONGO1/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438735364352_bliga26_MD30_Hoffenheim_vs_Dortmund_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hoffenheim vs Borussia Dortmund - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528276&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438334075352_bliga26_MD30_Leverkusen_vs_Augsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bayer Leverkusen vs Augsburg - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528272&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016703%2F1774788512471263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shillong Lajong FC vs Aizawl FC - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528267&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528270&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438592954352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528274&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438478105352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴  Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528273&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017297%2F1776410593940312_FA_Cup_Semi_Finals_combo_tv_bg_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup Semifinals
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090528194&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 2
+https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21165&type=drm
@@ -54,9 +31,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=t8JAAeezCLfL3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/UvQn5K-Xd-VG_md0stGuqw8THKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015509/937272.jpg", Leeds United vs Wolves
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/UvQn5K-Xd-VG_md0stGuqw8THKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015509/937272.jpg", Leeds United vs Wolves
+https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
@@ -260,11 +236,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 http://spacetv.my.id/experimen/ge.mpd?id=301748&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301588&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301588/original/latest.jpg" group-title="🔴 Live Event",🔴 Brentford - Fulham
-http://spacetv.my.id/experimen/ge.mpd?id=301588&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301599&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301599/original/latest.jpg" group-title="🔴 Live Event",🔴 Dunfermline - Falkirk
 http://spacetv.my.id/experimen/ge.mpd?id=301599&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -318,15 +289,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301562&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14132357-xzftjj8cl41d5bav.png" group-title="📅 Upcoming",⏳ Dinamo Batumi - Iberia 1999
-#http://spacetv.my.id/experimen/ge.mpd?id=301562&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301571&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14132125-j9r59fb2bokjd5dn.png" group-title="📅 Upcoming",⏳ Lorient - Marseille
 #http://spacetv.my.id/experimen/ge.mpd?id=301571&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301562&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301562/original/latest.jpg" group-title="📅 Upcoming",⏳ Dinamo Batumi - Iberia 1999
+#http://spacetv.my.id/experimen/ge.mpd?id=301562&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -383,9 +354,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=leeds-united-vs-wolverhampton-wanderers-epl-2026&contentid=63d2c3ab-7415-4b50-aca7-6164d36138e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8c8aedfd-f348-41eb-ac4f-8f4e6652a71e/3d0379ff-6add-4ab2-99e1-cfb01841ea89.png" group-title="📁 MyCo Upcoming",UPCOMING - Newcastle United vs AFC Bournemouth
-#https://qtv.my.id/myco/index.m3u8?id=newcastle-united-vs-afc-bournemouth-epl-2026&contentid=8360b958-37f0-4380-a6f6-fb1ac4c3852c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8c8aedfd-f348-41eb-ac4f-8f4e6652a71e/3d0379ff-6add-4ab2-99e1-cfb01841ea89.png" group-title="🔴 Live Event",LIVE 🔴 Newcastle United vs AFC Bournemouth
+https://qtv.my.id/myco/index.m3u8?id=newcastle-united-vs-afc-bournemouth-epl-2026&contentid=8360b958-37f0-4380-a6f6-fb1ac4c3852c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ef0b8d9b-bdfe-420e-8694-4d616264256c/8e7b60b3-6ab6-4afe-860d-92e5ca868aeb.png" group-title="📁 MyCo Upcoming",UPCOMING - Chelsea vs Manchester United
 #https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-united-epl-2026&contentid=ba95d094-b015-4a47-895e-e86e7f3c5f1c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
