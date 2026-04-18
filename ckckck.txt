@@ -354,9 +354,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=dunfermline-vs-falkirk-scottish-cup-2025-26&contentid=e957a644-6ba1-42db-8205-295b5309d0db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/be7c238d-c5be-4b77-9fca-572b3df98ccc/e4029a75-dd31-46de-96f2-edddca49e860.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Wellington Phoenix VS Western Sydney Wanderers
-#https://qtv.my.id/myco/index.m3u8?id=wellington-phoenix-vs-western-sydney-wanderers-a-league-2025-26&contentid=325c0e86-6165-4aaf-9e20-45f6693cc00a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/be7c238d-c5be-4b77-9fca-572b3df98ccc/e4029a75-dd31-46de-96f2-edddca49e860.jpg" group-title="🔴 Live Event",LIVE 🔴 Wellington Phoenix VS Western Sydney Wanderers
+https://qtv.my.id/myco/index.m3u8?id=wellington-phoenix-vs-western-sydney-wanderers-a-league-2025-26&contentid=325c0e86-6165-4aaf-9e20-45f6693cc00a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b89ef143-5e11-43e6-bb81-6c22f40eccc7/068fe9ac-8ef0-4cdf-a168-9964396c099a.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Blackburn Rovers F.C. VS Coventry City F.C.
 #https://qtv.my.id/myco/index.m3u8?id=blackburn-rovers-fc-vs-coventry-city-fc-efl-championship-2025-26&contentid=32384ff7-3168-4b28-ac5a-96b9442eeaa6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
