@@ -12,9 +12,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528276&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438334075352_bliga26_MD30_Leverkusen_vs_Augsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bayer Leverkusen vs Augsburg - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528272&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016703%2F1774788512471263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shillong Lajong FC vs Aizawl FC - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528267&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528270&type=hls
 
@@ -26,6 +23,10 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528273&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017297%2F1776410593940312_FA_Cup_Semi_Finals_combo_tv_bg_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup Semifinals
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090528194&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
