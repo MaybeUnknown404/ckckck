@@ -274,9 +274,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-birmingham-city-fc-efl-championship-2025-26&contentid=e8fbffb9-0772-4c30-8b05-0a1f0027db12|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1976db93-747b-4930-a338-e619ad7ffa78/83ecfd43-d10a-4619-8153-2aeda5a3919e.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sydney FC VS Perth Glory
-#https://qtv.my.id/myco/index.m3u8?id=sydney-fc-vs-perth-glory-a-league-2025-26&contentid=b853a992-8696-46f8-8ffa-5f5b714c5b91|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1976db93-747b-4930-a338-e619ad7ffa78/83ecfd43-d10a-4619-8153-2aeda5a3919e.jpg" group-title="🔴 Live Event",LIVE 🔴 Sydney FC VS Perth Glory
+https://qtv.my.id/myco/index.m3u8?id=sydney-fc-vs-perth-glory-a-league-2025-26&contentid=b853a992-8696-46f8-8ffa-5f5b714c5b91|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7f3cea4c-8b1c-45a5-93bc-4e997caa14a6/6954c6b7-6ad1-4848-b09d-70835dd63ef7.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Dunfermline VS Falkirk
 #https://qtv.my.id/myco/index.m3u8?id=dunfermline-vs-falkirk-scottish-cup-2025-26&contentid=e957a644-6ba1-42db-8205-295b5309d0db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
