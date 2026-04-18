@@ -15,6 +15,9 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528272&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528270&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438592954352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528274&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438478105352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴  Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528273&type=hls
 
@@ -126,14 +129,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776153709701-Moto4NorthernCup.jpg" tvg-name="",Rd 1 Assen: Race 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ddf4ba496b4634d2d62831&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ddf4ba496b4634d2d62831&type=hls
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi
@@ -228,11 +223,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301748&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301748/original/latest.jpg" group-title="🔴 Live Event",🔴 Grand Prix Spain
 http://spacetv.my.id/experimen/ge.mpd?id=301748&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301554&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301554/original/latest.jpg" group-title="🔴 Live Event",🔴 Bayer Leverkusen - Augsburg
-http://spacetv.my.id/experimen/ge.mpd?id=301554&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301555&type=drm
