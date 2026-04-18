@@ -193,10 +193,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=aston-villa-vs-sunderland-epl-2026&contentid=14377c01-edce-4a5f-8f79-771662a3db38|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ef0b8d9b-bdfe-420e-8694-4d616264256c/8e7b60b3-6ab6-4afe-860d-92e5ca868aeb.png" group-title="📁 MyCo Upcoming",UPCOMING - Chelsea vs Manchester United
-#https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-united-epl-2026&contentid=ba95d094-b015-4a47-895e-e86e7f3c5f1c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/82b281bb-2533-4dc9-ab52-d98907a17eb2/39b793a3-c884-43d6-85cd-2c01fa192a09.png" group-title="📁 MyCo Upcoming",UPCOMING - Everton vs Liverpool
 #https://qtv.my.id/myco/index.m3u8?id=everton-vs-liverpool-epl-2026&contentid=1bd5b534-43af-4e7f-bb54-101a7c60751b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
