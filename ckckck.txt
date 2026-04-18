@@ -15,9 +15,6 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528272&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528270&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438592954352_bliga26_MD30_Union_Berlin_vs_Wolfsburg_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs Wolfsburg - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528274&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438478105352_bliga26_MD30_Werder_Bremen_vs_Hamburger_SV_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴  Werder Bremen vs Hamburger SV - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528273&type=hls
 
@@ -364,11 +361,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70231192-4f8a-4b73-a07a-bb16dd01f443/9c1f180e-7b25-46c3-8bc4-53807262a80c.jpg" group-title="🔴 Live Event",LIVE 🔴 Hull City VS Birmingham City F.C.
-https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-birmingham-city-fc-efl-championship-2025-26&contentid=e8fbffb9-0772-4c30-8b05-0a1f0027db12|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1976db93-747b-4930-a338-e619ad7ffa78/83ecfd43-d10a-4619-8153-2aeda5a3919e.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sydney FC VS Perth Glory
-#https://qtv.my.id/myco/index.m3u8?id=sydney-fc-vs-perth-glory-a-league-2025-26&contentid=b853a992-8696-46f8-8ffa-5f5b714c5b91|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70231192-4f8a-4b73-a07a-bb16dd01f443/9c1f180e-7b25-46c3-8bc4-53807262a80c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Hull City VS Birmingham City F.C.
+#https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-birmingham-city-fc-efl-championship-2025-26&contentid=e8fbffb9-0772-4c30-8b05-0a1f0027db12|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7f3cea4c-8b1c-45a5-93bc-4e997caa14a6/6954c6b7-6ad1-4848-b09d-70835dd63ef7.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Dunfermline VS Falkirk
