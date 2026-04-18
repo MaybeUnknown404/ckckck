@@ -288,15 +288,15 @@ http://spacetv.my.id/experimen/ge.mpd?id=301562&type=dash|User-Agent=Mozilla/5.0
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301591&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14132618-erhgcdlpccxiuy6b.png" group-title="📅 Upcoming",⏳ Tottenham - Brighton
-#http://spacetv.my.id/experimen/ge.mpd?id=301591&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301558&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301558/original/latest.jpg" group-title="📅 Upcoming",⏳ Eintracht Frankfurt - RB Leipzig
 #http://spacetv.my.id/experimen/ge.mpd?id=301558&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301591&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301591/original/latest.jpg" group-title="📅 Upcoming",⏳ Tottenham - Brighton
+#http://spacetv.my.id/experimen/ge.mpd?id=301591&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
