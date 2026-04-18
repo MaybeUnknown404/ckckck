@@ -4,21 +4,7 @@
 https://ml-pull-hwc.myco.io/EPLBONGO4/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 2
-https://ml-pull-hwc.myco.io/EPLBONGO5/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775439303329352_bliga26_MD30_Frankfurt_vs_Leipzig_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Eintracht Frankfurt vs RB Leipzig - MD 30 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528277&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017239%2F177624339154552_Golf_Mexico_Day3_tv_bg.jpg" group-title="🔴 Live Event",🔴 Mexico City - Day 3 - 18 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528336&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017297%2F1776410593940312_FA_Cup_Semi_Finals_combo_tv_bg_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup Semifinals
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090528194&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+https://ml-pull-hwc.myco.io/EPLBONGO5/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=21165&type=drm
@@ -235,10 +221,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed954cd8-1f02-4e7e-b0e7-0d281ebc6613/3c680ebc-bfed-4dc5-a9e8-d3087c69d1a5.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs West Ham United
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70231192-4f8a-4b73-a07a-bb16dd01f443/9c1f180e-7b25-46c3-8bc4-53807262a80c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Hull City VS Birmingham City F.C.
-#https://qtv.my.id/myco/index.m3u8?id=hull-city-vs-birmingham-city-fc-efl-championship-2025-26&contentid=e8fbffb9-0772-4c30-8b05-0a1f0027db12|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
