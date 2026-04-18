@@ -404,8 +404,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=sydney-fc-vs-perth-glory-a-league-2025-26&contentid=b853a992-8696-46f8-8ffa-5f5b714c5b91|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7f3cea4c-8b1c-45a5-93bc-4e997caa14a6/6954c6b7-6ad1-4848-b09d-70835dd63ef7.jpg" group-title="🔴 Live Event",LIVE 🔴 Dunfermline VS Falkirk
-https://qtv.my.id/myco/index.m3u8?id=dunfermline-vs-falkirk-scottish-cup-2025-26&contentid=e957a644-6ba1-42db-8205-295b5309d0db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7f3cea4c-8b1c-45a5-93bc-4e997caa14a6/6954c6b7-6ad1-4848-b09d-70835dd63ef7.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Dunfermline VS Falkirk
+#https://qtv.my.id/myco/index.m3u8?id=dunfermline-vs-falkirk-scottish-cup-2025-26&contentid=e957a644-6ba1-42db-8205-295b5309d0db|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
 #https://qtv.my.id/myco/index.m3u8?id=auckland-vs-central-coast-mariners-a-league-2025-26&contentid=100d3bef-aa48-4c6e-96cf-b31baa934416|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
