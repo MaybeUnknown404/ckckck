@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
-https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 2
 https://ml-pull-hwc.myco.io/EPLBONGO4/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775439303329352_bliga26_MD30_Frankfurt_vs_Leipzig_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Eintracht Frankfurt vs RB Leipzig - MD 30 - 18 Apr 2026
@@ -42,9 +39,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=t8JAAeezCLfL3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QhqQZWnBXukZK8W76nt2dCQtk00=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg", Tottenham vs Brighton
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QhqQZWnBXukZK8W76nt2dCQtk00=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg", Tottenham vs Brighton
+https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=t8JAAeezCLfL3tKIVkaao4m5V7BfX1bm
@@ -209,8 +205,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=aston-villa-vs-sunderland-epl-2026&contentid=14377c01-edce-4a5f-8f79-771662a3db38|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/26fef066-0bb8-47ef-9ace-cc74abbca8da/b2cca883-4fcb-483b-9071-d181e17110dc.png" group-title="🔴 Live Event",LIVE 🔴 Leeds United vs Wolverhampton Wanderers
-https://qtv.my.id/myco/index.m3u8?id=leeds-united-vs-wolverhampton-wanderers-epl-2026&contentid=63d2c3ab-7415-4b50-aca7-6164d36138e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/26fef066-0bb8-47ef-9ace-cc74abbca8da/b2cca883-4fcb-483b-9071-d181e17110dc.png" group-title="📁 MyCo Upcoming",UPCOMING - Leeds United vs Wolverhampton Wanderers
+#https://qtv.my.id/myco/index.m3u8?id=leeds-united-vs-wolverhampton-wanderers-epl-2026&contentid=63d2c3ab-7415-4b50-aca7-6164d36138e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8c8aedfd-f348-41eb-ac4f-8f4e6652a71e/3d0379ff-6add-4ab2-99e1-cfb01841ea89.png" group-title="📁 MyCo Upcoming",UPCOMING - Newcastle United vs AFC Bournemouth
 #https://qtv.my.id/myco/index.m3u8?id=newcastle-united-vs-afc-bournemouth-epl-2026&contentid=8360b958-37f0-4380-a6f6-fb1ac4c3852c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -220,9 +217,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=chelsea-vs-manchester-united-epl-2026&contentid=ba95d094-b015-4a47-895e-e86e7f3c5f1c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5f93d589-2e2e-4e55-97bb-3c206bf127cb/64c5ec03-cfc3-4d3b-b13e-411f8efd7db0.png" group-title="📁 MyCo Upcoming",UPCOMING - Tottenham Hotspur vs Brighton
-#https://qtv.my.id/myco/index.m3u8?id=tottenham-hotspur-vs-brighton-epl-2026&contentid=9b218cf4-b168-4eb7-b145-f6cb8244cccf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5f93d589-2e2e-4e55-97bb-3c206bf127cb/64c5ec03-cfc3-4d3b-b13e-411f8efd7db0.png" group-title="🔴 Live Event",LIVE 🔴 Tottenham Hotspur vs Brighton
+https://qtv.my.id/myco/index.m3u8?id=tottenham-hotspur-vs-brighton-epl-2026&contentid=9b218cf4-b168-4eb7-b145-f6cb8244cccf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/82b281bb-2533-4dc9-ab52-d98907a17eb2/39b793a3-c884-43d6-85cd-2c01fa192a09.png" group-title="📁 MyCo Upcoming",UPCOMING - Everton vs Liverpool
 #https://qtv.my.id/myco/index.m3u8?id=everton-vs-liverpool-epl-2026&contentid=1bd5b534-43af-4e7f-bb54-101a7c60751b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
