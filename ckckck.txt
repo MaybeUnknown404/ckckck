@@ -3,6 +3,9 @@
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
 https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 2
+https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775438735364352_bliga26_MD30_Hoffenheim_vs_Dortmund_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Hoffenheim vs Borussia Dortmund - MD 30 - 18 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528276&type=hls
 
