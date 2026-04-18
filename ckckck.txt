@@ -462,7 +462,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-manchester-city-epl-2026&contentid=49038abc-ca8e-4492-84d6-7564d0834387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_billiards.jpg" ch-number="92" group-logo="",Day 1 of the 4th Chungnam Provincial Governor's Cup 3-Cushion Tournament National Competition (LIVE NOW)
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18291031/record/52873124/thumbnail/image_480.jpg" ch-number="92" group-logo="",Day 1 of the 4th Chungnam Provincial Governor's Cup 3-Cushion Tournament National Competition (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260418BILLIARDS1
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15210194/live/18291159/record/52877993/thumbnail/image_480.jpg" ch-number="92" group-logo="",2026 Seoul Korea Open International Wheelchair Tennis Championships (LIVE NOW)
