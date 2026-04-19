@@ -130,6 +130,93 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301560&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301560/original/latest.jpg" group-title="🔴 Live Event",🔴 Bayern Munich - Stuttgart
+http://spacetv.my.id/experimen/ge.mpd?id=301560&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301579&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301579/original/latest.jpg" group-title="🔴 Live Event",🔴 Boston Celtics - Philadelphia 76ers
+http://spacetv.my.id/experimen/ge.mpd?id=301579&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301561&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301561/original/latest.jpg" group-title="🔴 Live Event",🔴 Borussia Monchengladbach - Mainz
+http://spacetv.my.id/experimen/ge.mpd?id=301561&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301575&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301575/original/latest.jpg" group-title="📅 Upcoming",⏳ Paris SG - Lyon
+#http://spacetv.my.id/experimen/ge.mpd?id=301575&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301608&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301608/original/latest.jpg" group-title="📅 Upcoming",⏳ Juventus - Bologna
+#http://spacetv.my.id/experimen/ge.mpd?id=301608&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301580&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/03/12145041-expptzzvdxobqrmx.png" group-title="📅 Upcoming",⏳ Oklahoma City Thunder - Phoenix Suns
+#http://spacetv.my.id/experimen/ge.mpd?id=301580&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301838&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17143011-pbyvl5negyhs2goj.png" group-title="📅 Upcoming",⏳ Tampa Bay Lightning - Montreal Canadiens
+#http://spacetv.my.id/experimen/ge.mpd?id=301838&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301610&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14131449-qlk24n20ykzxrukk.png" group-title="📅 Upcoming",⏳ Lecce - Fiorentina
+#http://spacetv.my.id/experimen/ge.mpd?id=301610&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301597&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/14132720-izoebsnbhlnprpl8.png" group-title="📅 Upcoming",⏳ Crystal Palace - West Ham
+#http://spacetv.my.id/experimen/ge.mpd?id=301597&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301839&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17143059-keozccsq7mizte2e.png" group-title="📅 Upcoming",⏳ Carolina Hurricanes - Ottawa Senators
+#http://spacetv.my.id/experimen/ge.mpd?id=301839&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301581&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/16083912-y8mkvkurzgoljund.png" group-title="📅 Upcoming",⏳ New York Knicks - Atlanta Hawks
+#http://spacetv.my.id/experimen/ge.mpd?id=301581&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301762&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17114519-f9f7m8zorx95qjaj.png" group-title="📅 Upcoming",⏳ Athletic Bilbao - Osasuna
+#http://spacetv.my.id/experimen/ge.mpd?id=301762&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301764&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17114601-rap4ouqv9nxmurfy.png" group-title="📅 Upcoming",⏳ Mallorca - Valencia
+#http://spacetv.my.id/experimen/ge.mpd?id=301764&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301752&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17112017-5cyqpima8kh61yoj.png" group-title="📅 Upcoming",⏳ Leicester - Hull
+#http://spacetv.my.id/experimen/ge.mpd?id=301752&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301796&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17131857-f8wsklltlvhkvxu3.png" group-title="📅 Upcoming",⏳ Brighton - Chelsea
+#http://spacetv.my.id/experimen/ge.mpd?id=301796&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/303e2b38-d866-45d9-91c6-53d83245865c/f8c14f87-ccac-46c5-b415-99d50613cb2a.png" group-title="🔴 Live Event",LIVE 🔴 Manchester City vs Arsenal
 https://qtv.my.id/myco/index.m3u8?id=manchester-city-vs-arsenal-epl-2026&contentid=c43f3c24-543e-4f10-8d72-ed4ec40ee52a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
