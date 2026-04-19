@@ -9,6 +9,9 @@ https://archertv.my.id/atraksi/sony.m3u8?id=1090528442&type=hls
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775440209753352_bliga26_MD30_Borussia_vs_Mainz_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Borussia Mönchengladbach vs Mainz - MD 30 - 19 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528443&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017239%2F177624339656752_Golf_Mexico_Day4_tv_bg.jpg" group-title="🔴 Live Event",🔴 Mexico City - Day 4 - 19 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528444&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017297%2F1776410593940312_FA_Cup_Semi_Finals_combo_tv_bg_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup Semifinals
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090528194&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
