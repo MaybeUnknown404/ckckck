@@ -9,6 +9,19 @@ https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8|User-Agent=Mozilla/5.0 (Win
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 3
 https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775440024102352_bliga26_MD30_Bayern_vs_Stuttgart_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Bayern Munich vs VfB Stuttgart - MD 30 - 19 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528442&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016703%2F1774788789161263_IFC_Real_Kashmir_FC_vs_Sreenidi_Deccan_FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Real Kashmir FC vs Sreenidi Deccan FC - 19 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528440&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016952%2F1775439825216352_bliga26_MD30_Freiburg_vs_Heidenheim_5apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Freiburg vs Heidenheim - MD 30 - 19 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528441&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017297%2F1776410593940312_FA_Cup_Semi_Finals_combo_tv_bg_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup Semifinals
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090528194&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=Or7TP8C4hf9bYyvPbadnwK22U9g1rjTS
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/vfKEKTAiJuFhGBqHUKQpls6whNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg", Aston Villa vs Sunderland
