@@ -124,9 +124,8 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d7f08f583f1a7c859c8bdb&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
@@ -287,6 +286,3 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18291049/record/52939910/thumbnail/image_480.jpg" ch-number="92" group-logo="",2nd day of the 4th Chungnam Provincial Governor's Cup 3-Cushion Tournament National Competition (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260419BILLIARDS1
-
-#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 7 Parramatta v Canterbury
-https://foxau.indi1.workers.dev/index.m3u8?id=158590&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
