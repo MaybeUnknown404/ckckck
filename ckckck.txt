@@ -244,14 +244,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=crystal-palace-vs-west-ham-united-epl-2026&contentid=01660aec-c5df-4493-a7a2-9750cc8e79b4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
-#https://qtv.my.id/myco/index.m3u8?id=auckland-vs-central-coast-mariners-a-league-2025-26&contentid=100d3bef-aa48-4c6e-96cf-b31baa934416|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/784c4b62-55e4-4e1e-9a5e-d12d5716341a/1ebaa8be-7a93-4baa-8b15-35342b459119.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Adelaide United VS Macarthur
-#https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-macarthur-a-league-2025-26&contentid=9b73a371-93d2-4139-bebf-28841de5a689|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f24c4cfb-16db-4f58-81e6-85b5e2884f53/92709f19-bc6b-4a91-8bec-57b77b1abc27.png" group-title="📁 MyCo Upcoming",UPCOMING - Brighton & Hove Albion vs Chelsea
 #https://qtv.my.id/myco/index.m3u8?id=brighton-hove-albion-vs-chelsea-epl-2026&contentid=b8ed338b-b4e0-4419-8569-1b09d62aa884|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -263,6 +255,13 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/87c9776c-1d84-43bf-8bbf-db0f67141be2/62ebd939-a5ae-42a3-ba83-ea6662c470fb.png" group-title="📁 MyCo Upcoming",UPCOMING - Burnley vs Manchester City
 #https://qtv.my.id/myco/index.m3u8?id=burnley-vs-manchester-city-epl-2026&contentid=49038abc-ca8e-4492-84d6-7564d0834387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1010e86c-383a-48f8-9b1a-1cb8e8434122/634da5a5-7265-4c62-a059-7be8431943cb.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Auckland VS Central Coast Mariners
+#https://qtv.my.id/myco/index.m3u8?id=auckland-vs-central-coast-mariners-a-league-2025-26&contentid=100d3bef-aa48-4c6e-96cf-b31baa934416|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/784c4b62-55e4-4e1e-9a5e-d12d5716341a/1ebaa8be-7a93-4baa-8b15-35342b459119.jpg" group-title="🔴 Live Event",LIVE 🔴 Adelaide United VS Macarthur
+https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-macarthur-a-league-2025-26&contentid=9b73a371-93d2-4139-bebf-28841de5a689|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18291049/record/52939910/thumbnail/image_480.jpg" ch-number="92" group-logo="",2nd day of the 4th Chungnam Provincial Governor's Cup 3-Cushion Tournament National Competition (LIVE NOW)
 https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260419BILLIARDS1
