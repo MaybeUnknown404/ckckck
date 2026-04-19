@@ -122,6 +122,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d7fa6c496b4634d2d62803&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69d7f0da496b4634d2d627fe&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d7f0da496b4634d2d627fe&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1775759486086-IBARAKIROBOTSVSNAGASAKIVELCA.jpg" tvg-name="",Ibaraki Robots vs Nagasaki Velca | Round 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69d7f08f583f1a7c859c8bdb&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69d7f08f583f1a7c859c8bdb&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3HLvHtniWksaMEF_A_coz-IQGH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015855/98bfde.jpg", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi
