@@ -174,9 +174,8 @@ http://spacetv.my.id/experimen/ge.mpd?id=301580&type=dash|User-Agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301838&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301838/original/latest.jpg" group-title="📅 Upcoming",⏳ Tampa Bay Lightning - Montreal Canadiens
-#http://spacetv.my.id/experimen/ge.mpd?id=301838&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301838/original/latest.jpg" group-title="🔴 Live Event",🔴 Tampa Bay Lightning - Montreal Canadiens
+http://spacetv.my.id/experimen/ge.mpd?id=301838&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301610&type=drm
@@ -242,6 +241,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301840&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17143757-aermovjjcwtpc1h3.png" group-title="📅 Upcoming",⏳ Buffalo Sabres - Boston Bruins
 #http://spacetv.my.id/experimen/ge.mpd?id=301840&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301792&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17122210-cyhrifgzxg5n9byo.png" group-title="📅 Upcoming",⏳ San Antonio Spurs - Portland Trail Blazers
+#http://spacetv.my.id/experimen/ge.mpd?id=301792&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed954cd8-1f02-4e7e-b0e7-0d281ebc6613/3c680ebc-bfed-4dc5-a9e8-d3087c69d1a5.png" group-title="📁 MyCo Upcoming",UPCOMING - Crystal Palace vs West Ham United
