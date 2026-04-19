@@ -255,9 +255,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=adelaide-united-vs-macarthur-a-league-2025-26&contentid=9b73a371-93d2-4139-bebf-28841de5a689|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f33d2e3b-1e21-4452-a730-398c33951d26/d55b8c23-5d05-4b68-830a-aa226ce3f956.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Ipswich Town F.C. VS Middlesbrough F.C.
-#https://qtv.my.id/myco/index.m3u8?id=ipswich-town-fc-vs-middlesbrough-fc-efl-championship-2025-26&contentid=d6d3efde-8ebb-4202-a19d-8beddb750438|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f33d2e3b-1e21-4452-a730-398c33951d26/d55b8c23-5d05-4b68-830a-aa226ce3f956.jpg" group-title="🔴 Live Event",LIVE 🔴 Ipswich Town F.C. VS Middlesbrough F.C.
+https://qtv.my.id/myco/index.m3u8?id=ipswich-town-fc-vs-middlesbrough-fc-efl-championship-2025-26&contentid=d6d3efde-8ebb-4202-a19d-8beddb750438|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1259e18c-bfa6-496a-a2c6-4ca9054cb57a/7574614e-3a46-468e-9df0-60259376c19c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Bayer 04 Leverkusen VS FC Bayern München
 #https://qtv.my.id/myco/index.m3u8?id=bayer-04-leverkusen-vs-fc-bayern-munchen-dfb-pokal-2025-26&contentid=64be3105-b3fe-4117-85df-470f0dee3764|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
