@@ -312,9 +312,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301840&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301840/original/latest.jpg" group-title="📅 Upcoming",⏳ Buffalo Sabres - Boston Bruins
-#http://spacetv.my.id/experimen/ge.mpd?id=301840&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/301840/original/latest.jpg" group-title="🔴 Live Event",🔴 Buffalo Sabres - Boston Bruins
+http://spacetv.my.id/experimen/ge.mpd?id=301840&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301792&type=drm
@@ -380,6 +379,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301770&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17114950-rhcl7m7ythw68s1n.png" group-title="📅 Upcoming",⏳ Levante - Sevilla
 #http://spacetv.my.id/experimen/ge.mpd?id=301770&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=301771&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/17115036-5yw5nhis15qxcosl.png" group-title="📅 Upcoming",⏳ Rayo Vallecano - Espanyol
+#http://spacetv.my.id/experimen/ge.mpd?id=301771&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/71b19b93-df93-4312-99b7-2d63da5b50b0/2a8287cb-afe8-4f9b-b75f-dc1fa159eed3.png" group-title="📁 MyCo Upcoming",UPCOMING - AFC Bournemouth vs Leeds United
