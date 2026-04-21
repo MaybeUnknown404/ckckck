@@ -246,6 +246,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/caf4f688-22c0-43dc-bc75-f3f7fff46875/eaf5d13d-6b4b-4a25-8bf0-c9a4e6aab682.png" group-title="📁 MyCo Upcoming",UPCOMING - Sunderland vs Nottingham Forest
+#https://qtv.my.id/myco/index.m3u8?id=sunderland-vs-nottingham-forest-epl-2026&contentid=0d57feb7-f4dc-430b-8ef8-e28f9600edf5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9692bc88-c506-4d0e-b4e7-d0ae243ec15d/5e7b4546-8f53-42a6-9921-6d8119025a39.png" group-title="📁 MyCo Upcoming",UPCOMING - Fulham vs Aston Villa
+#https://qtv.my.id/myco/index.m3u8?id=fulham-vs-aston-villa-epl-2026&contentid=34ee0ea1-4342-4dcd-9e06-a889a8fec3af|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5cc152b9-6c06-4d91-b609-5042345418df/9c5e4bbd-44a3-4b96-9251-c35ce6b24ef4.png" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool vs Crystal Palace
+#https://qtv.my.id/myco/index.m3u8?id=liverpool-vs-crystal-palace-epl-2026&contentid=2da47110-f639-48b4-9774-cb1074271b08|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7242e79-16d8-4523-acd9-ede16dc3bb82/9ca7add7-704a-47c9-a5bc-fb709e423e38.png" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United vs Everton
+#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-vs-everton-epl-2026&contentid=8312c724-8002-4cfa-a983-d913553d95b0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b503c917-44f3-494b-a49b-51b15672a34c/8a4f0fec-17d3-4e77-9cf3-d5739e340b0d.png" group-title="📁 MyCo Upcoming",UPCOMING - Wolverhampton Wanderers vs Tottenham Hotspur
+#https://qtv.my.id/myco/index.m3u8?id=wolverhampton-wanderers-vs-tottenham-hotspur-epl-2026&contentid=a8672790-c7a2-4088-8ee7-24d27ee73538|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed925ccc-abd8-46d4-822e-2ce793d29460/97a96844-83e0-434f-8975-ba81b73750c4.png" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal vs Newcastle United
+#https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-newcastle-united-epl-2026&contentid=18f875ca-4585-421e-aa79-c2234dafd856|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/f24c4cfb-16db-4f58-81e6-85b5e2884f53/92709f19-bc6b-4a91-8bec-57b77b1abc27.png" group-title="📁 MyCo Upcoming",UPCOMING - Brighton & Hove Albion vs Chelsea
 #https://qtv.my.id/myco/index.m3u8?id=brighton-hove-albion-vs-chelsea-epl-2026&contentid=b8ed338b-b4e0-4419-8569-1b09d62aa884|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -272,30 +296,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9c5ad5d0-2d06-42ce-9344-91fef22cef49/30033698-d109-47df-acb0-a8e136d00be9.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Macarthur VS Wellington Phoenix
 #https://qtv.my.id/myco/index.m3u8?id=macarthur-vs-wellington-phoenix-a-league-2025-26&contentid=52c76dc8-2d45-4671-9c89-02f451d798f7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/caf4f688-22c0-43dc-bc75-f3f7fff46875/eaf5d13d-6b4b-4a25-8bf0-c9a4e6aab682.png" group-title="📁 MyCo Upcoming",UPCOMING - Sunderland vs Nottingham Forest
-#https://qtv.my.id/myco/index.m3u8?id=sunderland-vs-nottingham-forest-epl-2026&contentid=0d57feb7-f4dc-430b-8ef8-e28f9600edf5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9692bc88-c506-4d0e-b4e7-d0ae243ec15d/5e7b4546-8f53-42a6-9921-6d8119025a39.png" group-title="📁 MyCo Upcoming",UPCOMING - Fulham vs Aston Villa
-#https://qtv.my.id/myco/index.m3u8?id=fulham-vs-aston-villa-epl-2026&contentid=34ee0ea1-4342-4dcd-9e06-a889a8fec3af|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5cc152b9-6c06-4d91-b609-5042345418df/9c5e4bbd-44a3-4b96-9251-c35ce6b24ef4.png" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool vs Crystal Palace
-#https://qtv.my.id/myco/index.m3u8?id=liverpool-vs-crystal-palace-epl-2026&contentid=2da47110-f639-48b4-9774-cb1074271b08|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d7242e79-16d8-4523-acd9-ede16dc3bb82/9ca7add7-704a-47c9-a5bc-fb709e423e38.png" group-title="📁 MyCo Upcoming",UPCOMING - West Ham United vs Everton
-#https://qtv.my.id/myco/index.m3u8?id=west-ham-united-vs-everton-epl-2026&contentid=8312c724-8002-4cfa-a983-d913553d95b0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/b503c917-44f3-494b-a49b-51b15672a34c/8a4f0fec-17d3-4e77-9cf3-d5739e340b0d.png" group-title="📁 MyCo Upcoming",UPCOMING - Wolverhampton Wanderers vs Tottenham Hotspur
-#https://qtv.my.id/myco/index.m3u8?id=wolverhampton-wanderers-vs-tottenham-hotspur-epl-2026&contentid=a8672790-c7a2-4088-8ee7-24d27ee73538|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/ed925ccc-abd8-46d4-822e-2ce793d29460/97a96844-83e0-434f-8975-ba81b73750c4.png" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal vs Newcastle United
-#https://qtv.my.id/myco/index.m3u8?id=arsenal-vs-newcastle-united-epl-2026&contentid=18f875ca-4585-421e-aa79-c2234dafd856|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/310e6ef7-fae0-4339-beb3-7074599da30a/a7caf4cc-7e28-4fe8-9f61-2e9c5677a544.png" group-title="📁 MyCo Upcoming",UPCOMING - Manchester United vs Brentford
