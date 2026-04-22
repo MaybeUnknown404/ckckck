@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
-https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
+https://ml-pull-hwc.myco.io/EPLBONGO2/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 2
+https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
@@ -302,9 +305,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/71b19b93-df93-4312-99b7-2d63da5b50b0/2a8287cb-afe8-4f9b-b75f-dc1fa159eed3.png" group-title="🔴 Live Event",LIVE 🔴 AFC Bournemouth vs Leeds United
 https://qtv.my.id/myco/index.m3u8?id=afc-bournemouth-vs-leeds-united-epl-2026&contentid=4f7777e5-aa20-419e-88b8-851cd5a94e13|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/87c9776c-1d84-43bf-8bbf-db0f67141be2/62ebd939-a5ae-42a3-ba83-ea6662c470fb.png" group-title="📁 MyCo Upcoming",UPCOMING - Burnley vs Manchester City
-#https://qtv.my.id/myco/index.m3u8?id=burnley-vs-manchester-city-epl-2026&contentid=49038abc-ca8e-4492-84d6-7564d0834387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/87c9776c-1d84-43bf-8bbf-db0f67141be2/62ebd939-a5ae-42a3-ba83-ea6662c470fb.png" group-title="🔴 Live Event",LIVE 🔴 Burnley vs Manchester City
+https://qtv.my.id/myco/index.m3u8?id=burnley-vs-manchester-city-epl-2026&contentid=49038abc-ca8e-4492-84d6-7564d0834387|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/caf4f688-22c0-43dc-bc75-f3f7fff46875/eaf5d13d-6b4b-4a25-8bf0-c9a4e6aab682.png" group-title="📁 MyCo Upcoming",UPCOMING - Sunderland vs Nottingham Forest
 #https://qtv.my.id/myco/index.m3u8?id=sunderland-vs-nottingham-forest-epl-2026&contentid=0d57feb7-f4dc-430b-8ef8-e28f9600edf5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
