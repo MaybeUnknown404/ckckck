@@ -12,11 +12,6 @@ https://ml-pull-hwc.myco.io/EPLBONGO3/hls/index.m3u8|User-Agent=Mozilla/5.0 (Win
 https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18796&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qUU4L3uDMOLXrgtdpHDJJLXHIB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021457/84ed9b.jpg", Bournemouth vs Leeds United
-https://vid-id.indi1.workers.dev/index.mpd?id=18796&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wora2uFGwpX8DSbHy3SYNjgwRPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021960/86b97f.jpg", Sunderland vs Nottingham Forest
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
@@ -35,15 +30,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ny4FdNIZD2NjbDEm7Yof5xwW4Sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022120/e6865d.jpg", Wolves vs Tottenham
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19375&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ghqXxl3f7wuHn3hBjPJaekQ8dps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022132/77ec28.jpg", West Ham vs Everton
 #https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ny4FdNIZD2NjbDEm7Yof5xwW4Sc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022120/e6865d.jpg", Wolves vs Tottenham
+#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
