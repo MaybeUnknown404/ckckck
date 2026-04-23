@@ -5,6 +5,24 @@
 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JlO1vIWXH5-94pM-hrJSstTby04=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-2a3ffc.jpg", BWF Thomas & Uber Cup Finals 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F79NVeZswJhT_7NJliW2WavpTxY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-c85de3.jpg", BWF Thomas & Uber Cup Finals 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Yr7Jl02n5z3CNLxgFs6metvc9WE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-0805b7.jpg", BWF Thomas & Uber Cup Finals 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wora2uFGwpX8DSbHy3SYNjgwRPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021960/86b97f.jpg", Sunderland vs Nottingham Forest
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=vqNjm5DSjgLNWEEnPYvA0TELdoe8AcvB|User-Agent=VidioPlayer/6.31.6
