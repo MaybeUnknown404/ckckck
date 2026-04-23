@@ -332,10 +332,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-brentford-epl-2026&contentid=123fab1a-0d48-47d8-9b02-5f3e6e5556ad|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/1259e18c-bfa6-496a-a2c6-4ca9054cb57a/7574614e-3a46-468e-9df0-60259376c19c.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Bayer 04 Leverkusen VS FC Bayern München
-#https://qtv.my.id/myco/index.m3u8?id=bayer-04-leverkusen-vs-fc-bayern-munchen-dfb-pokal-2025-26&contentid=64be3105-b3fe-4117-85df-470f0dee3764|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0f2b4274-abbf-41f8-b1e5-8e8577d06c9c/10a48889-6316-46b4-928d-abab5dab31c6.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Salford City VS Bromley
 #https://qtv.my.id/myco/index.m3u8?id=salford-city-vs-bromley-league-two-2025-26&contentid=efd76ac7-f09f-43e9-a2ea-ebbc664cd2ff|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
