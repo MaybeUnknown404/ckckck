@@ -309,11 +309,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=205&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0_41DFG6JGnncA5QQdCYOhPsrik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022116/3b9f1f.jpg", PERSIJAP vs PSBS Biak
-https://archertv.my.id/atraksi/vidx.mpd?id=205&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iEBLgh_2Xq_CNuovBbGAdXKlnpY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022117/35bf48.jpg", Jelang Kick Off
 #https://archertv.my.id/atraksi/vidx.mpd?id=19355&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -497,8 +492,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=london-city-lionesses-vs-leicester-city-women-womens-super-league-2025-26&contentid=b1c39a7d-a6ef-4f54-bd75-ef6cb8aba8ba|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/49a6ba64-01ba-4101-ad78-55542369434c/8616e901-222f-4ae0-a3a2-73e68ad2a74e.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Ahli Saudi FC
-#https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-ahli-saudi-fc-roshn-saudi-league-2025-2026&contentid=686fbe1a-7881-42b7-91ee-f95c6592ba38|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4267fddd-9087-416f-9179-a5e69ec42b4e/a4c22e33-8c83-41ad-8e0d-be771f311184.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool Women VS West Ham United Women
+#https://qtv.my.id/myco/index.m3u8?id=liverpool-women-vs-west-ham-united-women-womens-super-league-2025-26&contentid=3973d681-6c88-4bdb-9d29-6cfb541a34e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/e67aed62-feea-45e6-868e-2d56a8ca6032/ee8cc1a1-b744-4d7f-a8d6-4a4aa3510e38.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Nashville SC VS Tigres
@@ -509,20 +504,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://qtv.my.id/myco/index.m3u8?id=al-taawoun-fc-vs-al-ittihad-roshn-saudi-league-2025-2026&contentid=7d63f4cb-ae73-4559-978e-8a164debc79b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/86e76384-952e-464e-86f1-83b73ef1e55d/eb8ddbe8-256f-4c7b-85ce-ee87fb891f27.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Los Angeles FC VS Deportivo La Coruna
-#https://qtv.my.id/myco/index.m3u8?id=los-angeles-fc-vs-deportivo-la-coruna-concacaf-champions-cup-2026&contentid=8d616195-3c38-4209-9b6e-1a054520187e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/7442dfab-41fb-4958-9f3f-685c8c163031/bb93b974-2b4f-4a3b-a15e-b24903650600.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Southampton F.C. VS Ipswich Town F.C.
 #https://qtv.my.id/myco/index.m3u8?id=southampton-fc-vs-ipswich-town-fc-efl-championship-2025-26&contentid=f6c1014d-577f-4fdd-b14f-3aaadcca1a7a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0301f567-cff6-4fce-90b6-fb2a9ac2ca33/be82be85-3d94-46cf-a892-ad2450535467.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal Women VS Leicester City Women
-#https://qtv.my.id/myco/index.m3u8?id=arsenal-women-vs-leicester-city-women-womens-super-league-2025-26&contentid=1de62ea8-cb0c-4c2b-9bb9-37d73ce593e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/49a6ba64-01ba-4101-ad78-55542369434c/8616e901-222f-4ae0-a3a2-73e68ad2a74e.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Al-Nassr FC VS Al-Ahli Saudi FC
+#https://qtv.my.id/myco/index.m3u8?id=al-nassr-fc-vs-al-ahli-saudi-fc-roshn-saudi-league-2025-2026&contentid=686fbe1a-7881-42b7-91ee-f95c6592ba38|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/4267fddd-9087-416f-9179-a5e69ec42b4e/a4c22e33-8c83-41ad-8e0d-be771f311184.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool Women VS West Ham United Women
-#https://qtv.my.id/myco/index.m3u8?id=liverpool-women-vs-west-ham-united-women-womens-super-league-2025-26&contentid=3973d681-6c88-4bdb-9d29-6cfb541a34e0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/86e76384-952e-464e-86f1-83b73ef1e55d/eb8ddbe8-256f-4c7b-85ce-ee87fb891f27.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Los Angeles FC VS Deportivo La Coruna
+#https://qtv.my.id/myco/index.m3u8?id=los-angeles-fc-vs-deportivo-la-coruna-concacaf-champions-cup-2026&contentid=8d616195-3c38-4209-9b6e-1a054520187e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0301f567-cff6-4fce-90b6-fb2a9ac2ca33/be82be85-3d94-46cf-a892-ad2450535467.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal Women VS Leicester City Women
+#https://qtv.my.id/myco/index.m3u8?id=arsenal-women-vs-leicester-city-women-womens-super-league-2025-26&contentid=1de62ea8-cb0c-4c2b-9bb9-37d73ce593e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18412406/record/53127506/thumbnail/image_480.jpg" ch-number="92" group-logo="",KB Stars VS Samsung Life Insurance (LIVE NOW)
