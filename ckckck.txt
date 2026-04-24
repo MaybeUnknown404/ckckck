@@ -285,10 +285,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/caf4f688-22c0-43dc-bc75-f3f7fff46875/eaf5d13d-6b4b-4a25-8bf0-c9a4e6aab682.png" group-title="📁 MyCo Upcoming",UPCOMING - Sunderland vs Nottingham Forest
-#https://qtv.my.id/myco/index.m3u8?id=sunderland-vs-nottingham-forest-epl-2026&contentid=0d57feb7-f4dc-430b-8ef8-e28f9600edf5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9692bc88-c506-4d0e-b4e7-d0ae243ec15d/5e7b4546-8f53-42a6-9921-6d8119025a39.png" group-title="📁 MyCo Upcoming",UPCOMING - Fulham vs Aston Villa
 #https://qtv.my.id/myco/index.m3u8?id=fulham-vs-aston-villa-epl-2026&contentid=34ee0ea1-4342-4dcd-9e06-a889a8fec3af|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
