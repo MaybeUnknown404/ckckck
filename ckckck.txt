@@ -33,7 +33,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zLiljUL0KoxXFswJ_tyQL42k_Jo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025260/fed224.jpg", Jonatan Christie (INA) vs Adel Hamek (ALG)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RHIKaN--s3OOFSDmxdgR-89YE64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025260/c9f191.jpg", Jonatan Christie (INA) vs Adel Hamek (ALG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -45,25 +45,25 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Alwi Farhan (INA) vs Mohamed Abderrahime Belarbi (ALG)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mT8ojWajrHNIWcxrEYAKrrYVMQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025261/c5c2ea.jpg", Alwi Farhan (INA) vs Mohamed Abderrahime Belarbi (ALG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Anthony Sinisuka Ginting (INA) vs Mohamed Abdelaziz Ouchefoun (ALG)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rdUoTaCOAawJFm4DK26nrXCbTTk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025262/4fcc08.jpg", Anthony Sinisuka Ginting (INA) vs Mohamed Abdelaziz Ouchefoun (ALG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Mohamed Abderrahime Belarbi/Koceila Mammeri (ALG)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XPFyHIgxiNbMUJrJ2uKlrXSf3Cc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025263/f8e2a6.jpg", Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Mohamed Abderrahime Belarbi/Koceila Mammeri (ALG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Raymond Indra/Nikolaus Joaquin (INA) vs Adel Hamek/Mohamed Abdelaziz Ouchefoun (ALG)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/a46_FPSa5z7XxRqcxt4OeiM6OEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025264/33a9fa.jpg", Raymond Indra/Nikolaus Joaquin (INA) vs Adel Hamek/Mohamed Abdelaziz Ouchefoun (ALG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -222,14 +222,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aExJG7n2r4iZXU_Ww5y1Agvi_kw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023253/8e530a.jpg", Chelsea vs Leeds United
 #https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776668887302-Practice3.jpg" tvg-name="",Grand Prix of Spain: Practice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d0e499107f403f2f6588&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d0e499107f403f2f6588&type=hls
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776404601460-GOLF.png" tvg-name="",Investec South African Women's Open | Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
