@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
-#https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-Error mengambil data dari API.#EXTM3U
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
+https://ml-pull-hwc.myco.io/EPLBONGO4/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
