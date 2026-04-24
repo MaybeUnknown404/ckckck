@@ -61,6 +61,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Mohamed Abderrahime Belarbi/Koceila Mammeri (ALG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Raymond Indra/Nikolaus Joaquin (INA) vs Adel Hamek/Mohamed Abdelaziz Ouchefoun (ALG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wora2uFGwpX8DSbHy3SYNjgwRPg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021960/86b97f.jpg", Sunderland vs Nottingham Forest
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=HGvXoCN6gVkvF8mliHQswR5PYgbrAyKX|User-Agent=VidioPlayer/6.31.6
