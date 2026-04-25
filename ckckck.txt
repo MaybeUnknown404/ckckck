@@ -16,12 +16,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/by.kt?id=20921&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/A6yxYgqT4wwK7WJt5ifpCv-2Hx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015440/590423.jpg", Azwan Che Will vs Aaron Clarke
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/d7Kgb7nnIs38dtEve6RE7rzp7S8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20921/byon-combat-showbiz-vol-7-1c8741.jpg", BYON Combat Showbiz Vol.7
 https://archertv.my.id/atraksi/by.mpd?id=20921&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/by.kt?id=20922&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/dq_5TJMww-naoQN-QDBpcTFt1nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021969/136269.jpg", Azwan Che Will vs Aaron Clarke
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J_Xr4UnBVcAdcfrXNpTN0BmLEVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-92dd89.jpg", BYON Combat Showbiz Vol.7
 https://archertv.my.id/atraksi/by.mpd?id=20922&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -389,6 +389,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d3c2b4a622381c24e5be&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f1c199107f403f2f6568&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f1c199107f403f2f6568&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776670318654-GROUPRACE.jpg" tvg-name="",Lake Como GP: Group Stages
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d681b4a622381c24e5bf&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d681b4a622381c24e5bf&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
