@@ -12,8 +12,8 @@ https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8|User-Agent=Mozilla/5.0 (Win
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017462%2F1777028328270801_FA_Cup_Semi_Final_With_Players_Manchester_City_vs_Southampton_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Manchester City vs Southampton - Semi-Final - 25 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090528814&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528793&type=hls
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775631940830558_BLGA_26_MD31_Hamburger-vs-Hoffenheim_tv_background.jpg" group-title="🔴 Live Event",🔴 Hamburger SV vs Hoffenheim - MD 31 - 25 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528813&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
