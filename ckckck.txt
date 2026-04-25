@@ -2,6 +2,12 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016950%2F1775437334425181_DP_World_Tour_Volvo_China_Open_Day3_tv_bg.jpg" group-title="🔴 Live Event",🔴 Volvo China Open - Day 3 - 25 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528760&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017371%2F1776681510561468_Asian_Tour_Singapore_Open_Day2_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Singapore Open - Day 3 - 25 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528759&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/Q8z2ankWWxtjcuCWwvplqBU-sA8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026319/a091ac.jpg", Karupathevan Letshanaa (MAS) vs Neslihan Arin (TUR)
@@ -407,9 +413,8 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f17999107f403f2f6567&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kxXvhsh-4coEznaCxzYuzRcqfko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024736/194032.jpg", Gold Final
-#https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/kxXvhsh-4coEznaCxzYuzRcqfko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024736/194032.jpg", Gold Final
+https://archertv.my.id/atraksi/vidx.mpd?id=20240&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
@@ -644,6 +649,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/0301f567-cff6-4fce-90b6-fb2a9ac2ca33/be82be85-3d94-46cf-a892-ad2450535467.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Arsenal Women VS Leicester City Women
 #https://qtv.my.id/myco/index.m3u8?id=arsenal-women-vs-leicester-city-women-womens-super-league-2025-26&contentid=1de62ea8-cb0c-4c2b-9bb9-37d73ce593e7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-id="Local" group-title="📁 Korean League" tvg-logo="https://ssl.pstatic.net/static/sports/common/livecenter/new/bg_live_etc.jpg" ch-number="92" group-logo="",19th Korea Sports Promotion Foundation Chairman's Cup National Elementary School Soft Tennis Competition (LIVE NOW)
+https://qtv.my.id/tv_baru/korea/index.m3u8?id=20260425TNS2
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="🔴 Live Rugby",NRL Round 8 St George Illawarra v Sydney Roosters
 https://foxau.indi1.workers.dev/index.m3u8?id=158643&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
