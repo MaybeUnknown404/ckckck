@@ -7,32 +7,7 @@ https://ml-pull-hwc.myco.io/EPLBONGO6/hls/index.m3u8|User-Agent=Mozilla/5.0 (Win
 https://ml-pull-hwc.myco.io/EPLBONGO7/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 3
-https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775629814703558_BLGA_26_MD31_Mainz-vs-Bayern_tv_background.jpg" group-title="🔴 Live Event",🔴 Mainz vs Bayern Munich - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528803&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775631364320558_BLGA_26_MD31_Koln-vs-Leverkusen_tv_background.jpg" group-title="🔴 Live Event",🔴 FC Koln vs Bayer Leverkusen - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528802&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017409%2F1776795331099598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Chanmari FC vs Diamond Harbour FC - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528761&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775549811903558_BLGA_26_MD31_Wolfsburg-vs-Borussia-Mgladbach_tv_background.jpg" group-title="🔴 Live Event",🔴 Wolfsburg vs Borussia Monchengladbach - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528801&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775632720797558_BLGA_26_MD31_Augsburg-vs-Eintracht-Frankfurt_tv_background.jpg" group-title="🔴 Live Event",🔴 Augsburg vs Eintracht Frankfurt - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528805&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775630366309558_BLGA_26_MD31_Heidenheim-vs-St-Pauli_tv_background.jpg" group-title="🔴 Live Event",🔴 Heidenheim vs St. Pauli - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528804&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000006892%2F1755929880729148_Bliga26_Goal_Arena_tv_Bg.jpg" group-title="🔴 Live Event",🔴 Goal Arena - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528793&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017469%2F177703638258293_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090528342&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+https://ml-pull-hwc.myco.io/EPLBONGO8/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/by.kt?id=20922&type=drm
@@ -279,6 +254,22 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1c8d9389330251cf8a80d&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1c8d9389330251cf8a80d&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776670656031-FINALS1.jpg" tvg-name="",Lake Como GP: Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d7cfb4a622381c24e5c1&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d7cfb4a622381c24e5c1&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776765578206-LiveThumbnail.jpg" tvg-name="",Jerez: Race 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d9a7b4a622381c24e5c2&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d9a7b4a622381c24e5c2&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qK_zwvumZ0MHAJeNeIMFPB-UAMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024737/6f3c70.jpg", Gold Final
@@ -322,11 +313,6 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash|User-Agent=Mozilla/5.
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g8mAYfM0l9DtpAmcEn2yPh89Et4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022289/3b7fb8.jpg", PSMS Medan vs Adhyaksa FC
 https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19543&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0KC4SOVuKiOrG_MDSsyIEmq2oz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022286/27e3ac.jpg", PSIS Semarang vs Kendal Tornado FC
-https://archertv.my.id/atraksi/vidx.mpd?id=19543&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm
