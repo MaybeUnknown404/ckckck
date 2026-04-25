@@ -392,14 +392,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d26199107f403f2f6589&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d26199107f403f2f6589&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776415945138-FightingEaglesNagoyavsNagasakiVelca.jpg" tvg-name="",Fighting Eagles Nagoya vs Nagasaki Velca | Round 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f53d99107f403f2f656d&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f53d99107f403f2f656d&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776669383694-FP2-Qualifying2.jpg" tvg-name="",Grand Prix of Spain: Free Practice 2/Qualifying
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
