@@ -68,11 +68,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwI
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JBSS3WXMA7S4G8StMOo8qV-B6YY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026474/06a52f.jpg", Hsu Ya Ching/Sung Yu-Hsuan (TPE) vs Flora Huo/Victoria Tjonadi (AUS)
-https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SmXEBAdNh3T2wjjmjQJIqdob8Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026367/29ede3.jpg", Man Wei Chong/Tee Kai Wun (MAS) vs Alex Green/Zach Russ (ENG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
@@ -106,6 +101,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kt69Cz06Z5ErFZK7ye4N6STvFi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026363/1bddee.jpg", Ni Kadek Dhinda Amartya Pratiwi (INA) vs Rachel Chan (CAN)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", BWF Thomas & Uber Cup Finals 2026
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -263,8 +264,48 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aExJG7n2r4iZXU_Ww5y1Agvi_kw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023253/8e530a.jpg", Chelsea vs Leeds United
-#https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6 Tidak ada jadwal yang ditemukan.#EXTM3U
+#https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776669588583-LiveThumbnail6.jpg" tvg-name="",Samarkand | Women's and Men's Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d3c2b4a622381c24e5be&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d3c2b4a622381c24e5be&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776404671765-GOLF.png" tvg-name="",Investec South African Women's Open | Day 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1c8d9389330251cf8a80d&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1c8d9389330251cf8a80d&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776783822319-TissotSprint.jpg" tvg-name="",Grand Prix of Spain: Qualifying/Sprint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e791dd99107f403f2f6592&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e791dd99107f403f2f6592&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776415243299-PerthGloryvsBrisbaneRoarFC.jpg" tvg-name="",Perth Glory vs Brisbane Roar FC | Round 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f21f99107f403f2f6569&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f21f99107f403f2f6569&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776670572859-RACEOFF.jpg" tvg-name="",Lake Como GP: Race Off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d77eb4a622381c24e5c0&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d77eb4a622381c24e5c0&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
