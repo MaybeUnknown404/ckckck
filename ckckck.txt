@@ -131,26 +131,14 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwI
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnAlIgMPa2BMPHXrDDk0o-_FBYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026326/8d1960.jpg", Chi Yu Jen (TPE) vs Kevin Linell (SWE)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5PPNh4_iA5C5hMobgY_9pP6vZTg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026321/c61bd5.jpg", Goh Jin Wei (MAS) vs Zehra Erdem (TUR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7hWQFbViNRHPXnh87zJBnLpJwGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026322/b22753.jpg", Ong Xin Yee/Thinaah Muralitharan (MAS) vs Bengisu Ercetin/Nazlican Inci (TUR)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PCCHSro2vc2Q9QjWqzQOiTBTMoI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026327/69e873.jpg", Liu Kuang Heng/Yang Po Han (TPE) vs Ludvig Axelsson/Filip Karlborg (SWE)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wnAlIgMPa2BMPHXrDDk0o-_FBYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026326/8d1960.jpg", Chi Yu Jen (TPE) vs Kevin Linell (SWE)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -161,8 +149,14 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PCCHSro2vc2Q9QjWqzQOiTBTMoI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026327/69e873.jpg", Liu Kuang Heng/Yang Po Han (TPE) vs Ludvig Axelsson/Filip Karlborg (SWE)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Co-ul8srsTx_LoOUOhCv71ujpQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026323/d985f0.jpg", Low Zi Yu/Noraqilah Maisarah (MAS) vs Yasemen Bektas/Zehra Erdem (TUR)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7hWQFbViNRHPXnh87zJBnLpJwGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026322/b22753.jpg", Ong Xin Yee/Thinaah Muralitharan (MAS) vs Bengisu Ercetin/Nazlican Inci (TUR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -170,6 +164,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OA_nsyX7DdbP-OkdJM1w53mq3ng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026333/b0e735.jpg", Yuki Fukushima/Arisa Igarashi (JPN) vs Eliana De Villiers/Anri Schoonees (RSA)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Co-ul8srsTx_LoOUOhCv71ujpQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026323/d985f0.jpg", Low Zi Yu/Noraqilah Maisarah (MAS) vs Yasemen Bektas/Zehra Erdem (TUR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -185,15 +185,39 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J8jzS2g0wtP_yUECVcO85LeLOdA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026364/f891fc.jpg", Justin Hoh (MAS) vs Harry Huang (ENG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uYmmynO03Ae028a9LVaGVUAdKt0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026360/ce11a3.jpg", Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Jackie Dent/Crystal Lai (CAN)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aAkO5h5zKW_RdgymAhvs519UjwE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026365/ee76f1.jpg", Aaron Chia/Soh Wooi Yik (MAS) vs Oliver Butler/Samuel Jones (ENG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hNOuKCn_hSh91n_FnSN7vVFOe-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026361/ea7b12.jpg", Thalita Ramadhani Wiryawan (INA) vs Wen Yu Zhang (CAN)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hV8TAY1e5YZZMkc4z7qcTrpAWtA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026366/413ebd.jpg", Shahyar Aidil (MAS) vs Cholan Kayan (ENG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SmXEBAdNh3T2wjjmjQJIqdob8Ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026367/29ede3.jpg", Man Wei Chong/Tee Kai Wun (MAS) vs Alex Green/Zach Russ (ENG)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
