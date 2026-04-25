@@ -1,21 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
-https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017462%2F1777028328270801_FA_Cup_Semi_Final_With_Players_Manchester_City_vs_Southampton_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Manchester City vs Southampton - Semi-Final - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528814&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775631940830558_BLGA_26_MD31_Hamburger-vs-Hoffenheim_tv_background.jpg" group-title="🔴 Live Event",🔴 Hamburger SV vs Hoffenheim - MD 31 - 25 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090528813&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017311%2F1776425229478560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090528341&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/by.kt?id=20922&type=drm
