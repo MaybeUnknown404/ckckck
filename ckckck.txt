@@ -283,6 +283,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f53d99107f403f2f656d&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5d2d899107f403f2f658a&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5d2d899107f403f2f658a&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776415078495-NewcastleJetsFCvsCCMFC.jpg" tvg-name="",Newcastle Jets FC vs Central Coast Mariners FC | Round 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f17999107f403f2f6567&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f17999107f403f2f6567&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kxXvhsh-4coEznaCxzYuzRcqfko=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024736/194032.jpg", Gold Final
