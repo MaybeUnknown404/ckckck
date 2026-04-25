@@ -336,6 +336,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1c8d9389330251cf8a80d&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e791dd99107f403f2f6592&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e791dd99107f403f2f6592&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776415243299-PerthGloryvsBrisbaneRoarFC.jpg" tvg-name="",Perth Glory vs Brisbane Roar FC | Round 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f21f99107f403f2f6569&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f21f99107f403f2f6569&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=20240&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/qK_zwvumZ0MHAJeNeIMFPB-UAMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024737/6f3c70.jpg", Gold Final
