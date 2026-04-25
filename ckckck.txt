@@ -127,112 +127,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CUZvpCdJI2KEn-h39SvF2sCmcL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015436/dafda2.jpg", Jai JMT vs Fatkur Rozi
-https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NI75Uj2I8ulmlKGqKwZkj6t9rfc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021966/6d7e26.jpg", Jai JMT vs Fatkur Rozi
-https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Bf0gDr1desaMEP54pJMLH7N2qOo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015437/7b2e7f.jpg", Charles Ebu vs Amir Zolfi
-#https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/cpxWWuEQfs9npaYb_ly4LbJTVv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021967/572a5a.jpg", Charles Ebu vs Amir Zolfi
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LaAQplN7RdjB9TacjT0BuSxUTuw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015438/467b73.jpg", Masdewa vs Bashir Mazreavi
-#https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jOgHBLKCs4JNP2zcEcp1OgXFSdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021968/d4988e.jpg", Masdewa vs Bashir Mazreavi
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/A6yxYgqT4wwK7WJt5ifpCv-2Hx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015440/590423.jpg", Azwan Che Will vs Aaron Clarke
-#https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dq_5TJMww-naoQN-QDBpcTFt1nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021969/136269.jpg", Azwan Che Will vs Aaron Clarke
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3vxpQVQPhPULelyxXkYSBM3E9C8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021970/a0478b.jpg", Sun Go Kong vs Innwan 77
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wxxez3q2QIj8sxUZNzE1RKj9sYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015439/adeee6.jpg", Sun Go Kong vs Innwan 77
-#https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VfPkUKOoGbwy3sk3MIe9lNwRjxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021971/b90d6b.jpg", Boy Prata vs Faisal Giru
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20921&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/werMduBndOTTCJm71qcWxJOuXxs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015441/5432b6.jpg", Boy Prata vs Faisal Giru
-#https://vid-id.indi1.workers.dev/index.mpd?id=20921&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qy3PzdLBp1PBMHMmo1NGy1btd7Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015430/7c1051.jpg", Winona Karamoy vs Emmabell Cassandra
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LGqv1KWL6dfvvdy-k3WXyq1JeVw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015431/355cbb.jpg", Kkasam vs Aman Koboi
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FalbOEX1k-XrNHA_8BboXFToxyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015432/aa74e7.jpg", Nidal Mahmoud vs Adam Maulana
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QrejX5X8OWiSnidBYGjY6k_1i_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015433/6a1d23.jpg", Ammarul Shafiq vs Harris Sofyan
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hSf5gQhpEOrZp5WQvR3xL52yykk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015434/84f43b.jpg", Fahri Alamsyah vs Kabilan Jelevan II
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20922&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2Nsz2e1NuzTzPdljTqHhUPp9ZxM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015435/4ebb01.jpg", Putra Abdullah vs Ronal Siahaan
-#https://vid-id.indi1.workers.dev/index.mpd?id=20922&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JRuVhxIVLNRlkOk4CcnuAKi6WBI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022150/8986fe.jpg", Parma vs Pisa
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
@@ -500,12 +394,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19662&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JOvm_7otuC2Raoh7MMgnUnJaz6Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19662/pegadaian-championship-2025-26-2b6055.jpg", Persekat Tegal vs Persiraja Banda Aceh
-#https://archertv.my.id/atraksi/vidx.mpd?id=19662&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-t4QVHQsf5MkJEL3bBYSF9DYeGI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024687/a878d3.jpg", Persipal FC vs Persipura Jayapura
 #https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -515,6 +403,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19584&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oQf8qUk-uh1Jhf6BsQt8dy23O3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", Persipal FC vs Persipura Jayapura
 #https://archertv.my.id/atraksi/vidx.mpd?id=19584&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19662&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JOvm_7otuC2Raoh7MMgnUnJaz6Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19662/pegadaian-championship-2025-26-2b6055.jpg", Persekat Tegal vs Persiraja Banda Aceh
+#https://archertv.my.id/atraksi/vidx.mpd?id=19662&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
