@@ -3,6 +3,20 @@
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://cdn.dribbble.com/userupload/29930091/file/original-99697bea69f3ce62d548588354d907a8.jpg?resize=752x&vertical=center",Live EPL 1
 https://ml-pull-hwc.myco.io/EPLBONGO9/hls/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017462%2F1777028328270801_FA_Cup_Semi_Final_With_Players_Manchester_City_vs_Southampton_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Manchester City vs Southampton - Semi-Final - 25 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528814&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775631940830558_BLGA_26_MD31_Hamburger-vs-Hoffenheim_tv_background.jpg" group-title="🔴 Live Event",🔴 Hamburger SV vs Hoffenheim - MD 31 - 25 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090528813&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017311%2F1776425229478560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090528341&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/by.kt?id=20922&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2Nsz2e1NuzTzPdljTqHhUPp9ZxM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015435/4ebb01.jpg", Putra Abdullah vs Ronal Siahaan
@@ -168,11 +182,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/n8gCD6FGCKCuk5kodu6BJpBrXak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021558/a7e979.jpg", Getafe vs Barcelona
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YUwCDtEGIQxhwSW5W9YN7uDJD1I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021559/15d9c3.jpg", Valencia vs Girona
 #https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=aIFuBvqHZMwIwxkExVL0w7iph77VQmsb|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
@@ -301,18 +310,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/310e6ef7-fae0-4339-beb3-7074599da30a/a7caf4cc-7e28-4fe8-9f61-2e9c5677a544.png" group-title="📁 MyCo Upcoming",UPCOMING - Manchester United vs Brentford
 #https://qtv.my.id/myco/index.m3u8?id=manchester-united-vs-brentford-epl-2026&contentid=123fab1a-0d48-47d8-9b02-5f3e6e5556ad|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c0c520e9-f3fa-4528-bf63-1554a89c531e/a21f63a1-0929-4e77-a8ef-681b202bffdc.jpg" group-title="📁 MyCo Upcoming",UPCOMING - West Bromwich Albion F.C. VS Ipswich Town F.C.
-#https://qtv.my.id/myco/index.m3u8?id=west-bromwich-albion-fc-vs-ipswich-town-fc-efl-championship-2025-26&contentid=d56e3c63-2485-49c8-ac47-fc94664bd5cf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/17309640-9b25-49a0-bea4-e10c5ed10fe4/2ec25b56-da52-4193-b982-09fcf6a5ecb9.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Brighton and Hove Albion Women VS Manchester City Women
-#https://qtv.my.id/myco/index.m3u8?id=brighton-and-hove-albion-women-vs-manchester-city-women-womens-super-league-2025-26&contentid=cbc1ea00-9418-4fbd-9713-e4da09ce4874|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/a6a9db20-a629-408e-9044-1f87342ff302/c4817e38-4281-4373-99da-55362c6a54c6.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Perth Glory VS Brisbane Roar
-#https://qtv.my.id/myco/index.m3u8?id=perth-glory-vs-brisbane-roar-a-league-2025-26&contentid=477b3fd7-37e3-46f4-8262-2bb4fafbe2ad|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/e9078af4-b3ce-4525-948f-f1ab5798b4cd/a27bf69f-a973-46f6-b4eb-ed99a65dfe4f.jpg" group-title="📁 MyCo Upcoming",UPCOMING - Sydney FC VS Auckland
