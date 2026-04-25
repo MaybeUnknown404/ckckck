@@ -256,14 +256,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1c8d9389330251cf8a80d&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1c8d9389330251cf8a80d&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776783822319-TissotSprint.jpg" tvg-name="",Grand Prix of Spain: Qualifying/Sprint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e791dd99107f403f2f6592&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e791dd99107f403f2f6592&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776415243299-PerthGloryvsBrisbaneRoarFC.jpg" tvg-name="",Perth Glory vs Brisbane Roar FC | Round 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -361,10 +353,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw2kqvx9uTSlVoBuh_X1IxEm71w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026349/245335.jpg", Persiku Kudus vs Deltras FC
 #https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/9692bc88-c506-4d0e-b4e7-d0ae243ec15d/5e7b4546-8f53-42a6-9921-6d8119025a39.png" group-title="📁 MyCo Upcoming",UPCOMING - Fulham vs Aston Villa
-#https://qtv.my.id/myco/index.m3u8?id=fulham-vs-aston-villa-epl-2026&contentid=34ee0ea1-4342-4dcd-9e06-a889a8fec3af|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/5cc152b9-6c06-4d91-b609-5042345418df/9c5e4bbd-44a3-4b96-9251-c35ce6b24ef4.png" group-title="📁 MyCo Upcoming",UPCOMING - Liverpool vs Crystal Palace
