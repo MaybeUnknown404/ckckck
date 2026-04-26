@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017414%2F1776846626339274_UFC_Fight_Night_Sterling_vs_Zalal_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529074&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016950%2F1775437342025181_DP_World_Tour_Volvo_China_Open_Day4_tv_bg.jpg" group-title="🔴 Live Event",🔴 Volvo China Open - Day 4 - 26 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529082&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017371%2F1776681530102468_Asian_Tour_Singapore_Open_Day4_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Singapore Open - Day 4 - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529081&type=hls
 
