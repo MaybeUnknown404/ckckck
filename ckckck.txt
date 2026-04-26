@@ -32,20 +32,26 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=X7lvQ68BwMgy
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6GuQME1vUNppaJVCjFHkQkMi5Vg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027647/30a9bf.jpg", Riko Gunji (JPN) vs Ozge Bayrak (TUR)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg", Jeong Na Eun/Kim Hye Jeong(KOR) vs Gergana Pavlova/Tsevetina Popivanova (BUL)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6GuQME1vUNppaJVCjFHkQkMi5Vg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027647/30a9bf.jpg", Riko Gunji (JPN) vs Ozge Bayrak (TUR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", BWF Thomas & Uber Cup Finals 2026
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/A4GdMupazpL5HGj3BQikrv_OkdU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028484/70e0ab.jpg", Putri Kusuma Wardani (INA) vs Tiffany Ho (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Putri Kusuma Wardani (INA) vs Tiffany Ho (AUS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -56,9 +62,33 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AR7vdgb5gjhW-6LuK4xkOyneAPQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028485/2e8225.jpg", Thalita Ramadhani Wiryawan (INA) vs Faye Huo (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/D56QuaoIA0g_iK_whUrQT6wTSJg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027649/00cc2a.jpg", Hina Akechi (JPN) vs Zehra Erdem (TUR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7uGadl2fa3KBTvXqIWUEB8f5b5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028486/fe99b5.jpg", Ester Nurumi Tri Wardoyo (INA) vs Jesslyn Carrisia (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/llUDiFWUi_H1h0m7hRq9ycgo40g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028487/3db819.jpg", Amalia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Gronya Sommerville/Angela Yu (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mbkqbudNKSrW0aq4Cd0uvNcCnMw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028488/bc95e7.jpg", Febriana Dwipuji Kusuma/Rachel Allessya Rose(INA) vs Jesslyn Carrisia/Victoria Tjonadi (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -109,9 +139,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20249&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aExJG7n2r4iZXU_Ww5y1Agvi_kw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023253/8e530a.jpg", Chelsea vs Leeds United
-#https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aExJG7n2r4iZXU_Ww5y1Agvi_kw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023253/8e530a.jpg", Chelsea vs Leeds United
+https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777019542398-DUNDEEUNITEDVSDUNDEEFC.jpg" tvg-name="",Dundee United vs Dundee | Round 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
