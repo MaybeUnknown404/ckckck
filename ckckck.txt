@@ -2,9 +2,6 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017462%2F1777028358554801_FA_Cup_Semi_Final_With_Players_Chelsea_vs_Leeds_United_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Chelsea vs Leeds United - Semi-Final - 26 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529123&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775632324763558_BLGA_26_MD31_Dortmund-vs-SC-Freiburg_tv_background.jpg" group-title="🔴 Live Event",🔴 Borussia Dortmund vs SC Freiburg - MD 31 - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529097&type=hls
 
