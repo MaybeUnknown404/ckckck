@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017462%2F1777028358554801_FA_Cup_Semi_Final_With_Players_Chelsea_vs_Leeds_United_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Chelsea vs Leeds United - Semi-Final - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529123&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017023%2F1775632324763558_BLGA_26_MD31_Dortmund-vs-SC-Freiburg_tv_background.jpg" group-title="🔴 Live Event",🔴 Borussia Dortmund vs SC Freiburg - MD 31 - 26 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529097&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017409%2F1776796041928599_IFL26_ShillongLajongFC_vs_DempoSportsClubFC_21apr_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shillong Lajong FC vs Dempo Sports Club FC - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529095&type=hls
 
@@ -160,14 +163,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20249&type=drm&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/aExJG7n2r4iZXU_Ww5y1Agvi_kw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023253/8e530a.jpg", Chelsea vs Leeds United
 https://vid-id.indi1.workers.dev/index.mpd?id=20249&type=dash&token=X7lvQ68BwMgyFpP7hCvsz2M2AxuDuYvJ|User-Agent=VidioPlayer/6.31.6
-
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777019542398-DUNDEEUNITEDVSDUNDEEFC.jpg" tvg-name="",Dundee United vs Dundee | Round 34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb2aaeb4a622381c24e5d1&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb2aaeb4a622381c24e5d1&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
