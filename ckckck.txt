@@ -187,6 +187,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f59599107f403f2f656e&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1f5e499107f403f2f656f&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1f5e499107f403f2f656f&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776765595124-LiveThumbnail.jpg" tvg-name="",Jerez: Race 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e5db78b4a622381c24e5c3&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e5db78b4a622381c24e5c3&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yawPdv8hKp79RNiGLFkYw1Qgn2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026348/199469.jpg", Bali United FC vs PSM Makassar
