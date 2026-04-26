@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017414%2F1776846626339274_UFC_Fight_Night_Sterling_vs_Zalal_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529074&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017371%2F1776681530102468_Asian_Tour_Singapore_Open_Day4_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Singapore Open - Day 4 - 26 Apr 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529081&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017311%2F1776425229478560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090528341&type=hls
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
