@@ -2,6 +2,10 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/t-CGq8qB3B3l-1om8OOraewvob8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028745/ffc481.jpg", Ditlev Jaeger Holm (DEN) vs Romeo Makboul (SWE)
@@ -17,11 +21,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HZ76Rba7f9bq_2ykTpO2fzvOhJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029766/141696.jpg", Man United vs Brentford
 #https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wNKO4lVtpP-bK0kFogv3Dk33G2M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026338/793e8e.jpg", Milan vs Juventus
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
@@ -47,14 +46,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1cc4699107f403f2f6560&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1cc4699107f403f2f6560&type=hls
-
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1776417854613-HoustonAstrosvsNewYorkYankees.jpg" tvg-name="",Houston Astros vs New York Yankees
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69e1fc5499107f403f2f6570&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69e1fc5499107f403f2f6570&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
