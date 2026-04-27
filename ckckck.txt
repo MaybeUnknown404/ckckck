@@ -16,19 +16,25 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/c_XzfuMEYmyipuayqnRu_EbbbME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030300/f56952.jpg", Yuki Fukushima/Mayu Matsumoto (JPN) vs Ong Xin Yee/Thinaah Muralitharan (MAS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2wC-n_D3O4f1t82-2dn3olWtVqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030301/e691ed.jpg", Tomoka Miyazaki (JPN) vs Wong Ling Ching (MAS)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2wC-n_D3O4f1t82-2dn3olWtVqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030301/e691ed.jpg", Tomoka Miyazaki (JPN) vs Wong Ling Ching (MAS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_sN02ais4A46EsYDo8yezBRlDw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030302/3d6872.jpg", Rin Iwanaga/Kie Nakanishi (JPN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8QAR4x_ATPRGc949RjjQhF3B9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032176/60774a.jpg", Line Christophersen (DEN) vs Polina Buhrova (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg", Line Christophersen (DEN) vs Polina Buhrova (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,6 +47,30 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Wamu8krfoajarsbkkLPyK2GKqAg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030303/532682.jpg", Riko Gunji (JPN) vs Goh Jin Wei (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/grQDzfnLGLIG9wS44iuveZQOPrM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032177/d3d364.jpg", Line Hojmark Kjaersfeldt (DEN) vs Sofiia Lavrova (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/l3iXvtT8R8Ve1iiPvc70MqbT3I4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032178/9607a7.jpg", Amalie Schulz (DEN) vs Mariia Stoliarenko (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/j1cPwqRJS24c4NsPAecE22Zn_hs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032179/cb0ffe.jpg", Alexandra Boje/Simona Pilgaard (DEN) vs Raiia Almalalha/Anastasiia Alymova (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-QJiPb6fbZCOosFxFR01-Y3EB7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032180/9c3180.jpg", Amalie Cecilie Kudsk/Mette Werge (DEN) vs Sofiia Lavrova/Mariia Stoliarenko (UKR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
