@@ -22,18 +22,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQ
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AZDdjUWShF8K9vZqnU70dh_ExQQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029943/bae5bd.jpg", Lee Jhe-Huei/Yang Po-Hsuan (TPE) vs Cho Song Hyun/Kim Won Ho (KOR)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CwWtP1MaF4Ob2DMIzVK_-tf6prA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029944/1e157e.jpg", Lee Chia Hao (TPE) vs Cho Hyun Woo (KOR)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ldRYZEYNIUha_C2x2EAOLGwChws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029951/628820.jpg", Hariharan Amsakarunan/Madathil Arjun (IND) vs Andika Ramadiansyah/Edward Stephen Sam (AUS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
@@ -41,7 +29,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pnk01D9J7oSvIEYT3zLEW5MEUww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030299/ab3621.jpg", Akane Yamaguchi (JPN) vs Karupathevan Letshanaa (MAS)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AZDdjUWShF8K9vZqnU70dh_ExQQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029943/bae5bd.jpg", Lee Jhe-Huei/Yang Po-Hsuan (TPE) vs Cho Song Hyun/Kim Won Ho (KOR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -59,7 +47,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c_XzfuMEYmyipuayqnRu_EbbbME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030300/f56952.jpg", Yuki Fukushima/Mayu Matsumoto (JPN) vs Ong Xin Yee/Thinaah Muralitharan (MAS)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CwWtP1MaF4Ob2DMIzVK_-tf6prA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029944/1e157e.jpg", Lee Chia Hao (TPE) vs Cho Hyun Woo (KOR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -71,7 +59,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2wC-n_D3O4f1t82-2dn3olWtVqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030301/e691ed.jpg", Tomoka Miyazaki (JPN) vs Wong Ling Ching (MAS)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pnk01D9J7oSvIEYT3zLEW5MEUww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030299/ab3621.jpg", Akane Yamaguchi (JPN) vs Karupathevan Letshanaa (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -83,7 +71,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_sN02ais4A46EsYDo8yezBRlDw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030302/3d6872.jpg", Rin Iwanaga/Kie Nakanishi (JPN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/c_XzfuMEYmyipuayqnRu_EbbbME=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030300/f56952.jpg", Yuki Fukushima/Mayu Matsumoto (JPN) vs Ong Xin Yee/Thinaah Muralitharan (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -91,6 +79,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/FLwW2LRvHF-SPo1JHtTtrCRylX8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030298/3d589c.jpg", Yudai Okimoto (JPN) vs Nadeem Dalvi (ENG)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2wC-n_D3O4f1t82-2dn3olWtVqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030301/e691ed.jpg", Tomoka Miyazaki (JPN) vs Wong Ling Ching (MAS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_sN02ais4A46EsYDo8yezBRlDw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030302/3d6872.jpg", Rin Iwanaga/Kie Nakanishi (JPN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=acQWLh9LpSFQVH1RYWyVQGdZi33QsSrO|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
