@@ -133,6 +133,5 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1, [Info] Tidak ada jadwal Live/Upcoming saat ini
-#http://localhost/empty Error: Operation timed out after 300753 milliseconds with 0 out of 0 bytes receivedError: Operation timed out after 300767 milliseconds with 0 out of 0 bytes received
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1, [Error] Gagal mengambil access_token dari server
+http://localhost/error Error: Operation timed out after 300248 milliseconds with 0 out of 0 bytes receivedError: OpenSSL SSL_connect: Connection reset by peer in connection to foxtel.indi1.workers.dev:443
