@@ -16,14 +16,8 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/O5jpCLi_6NaLovgJu-JAG74Df1A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032259/7aef97.jpg", Hsu Yin-Hui/Lin Jhih Yun (TPE) vs Rachel Allessya Rose/Febi Setianingrum (INA)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/4jAbtw4WO8frSulLPvntUpMTRT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032260/9599b9.jpg", Huang Yu-Hsun (TPE) vs Ester Nurumi Tri Wardoyo (INA)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/4jAbtw4WO8frSulLPvntUpMTRT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032260/9599b9.jpg", Huang Yu-Hsun (TPE) vs Ester Nurumi Tri Wardoyo (INA)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
