@@ -51,9 +51,21 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ei7sMMMiWTk6k5JdHd6F_oIG5i0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036065/6086e2.jpg", Semifinals Leg 1: Shakhtar Donetsk vs Crystal Palace
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DUBA8xk39lKoLd5cKsG36xQ13Ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032212/280902.jpg", Semifinals Leg 1: Braga vs SC Freiburg
 #https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xzGtbZc9C5sGy8WthU-IC-555tE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036064/f24cde.jpg", Semifinals Leg 1: Nottingham Forest vs Aston Villa
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
