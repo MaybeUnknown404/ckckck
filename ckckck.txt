@@ -2,7 +2,17 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-Error mengambil data dari API.#EXTM3U
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017526%2F1777288187801542_UEL_Semi_Final_Leg1_Nottingham_Forest_vs_Aston_Villa_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Nottingham Forest vs Aston Villa - UEFA Europa League
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090529079&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017526%2F1777288298140542_UEL_Semi_Final_Leg1_Braga_vs_Freiburg_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Braga vs Freiburg - UEFA Europa League
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090529080&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
+#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
@@ -11,13 +21,19 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=qqON4oGIge33
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg", Gergana Pavlova (BUL) vs Christina Teruel (ESP)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wIYy9az9DWUEvUkHDedQZUg9UkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032263/af9f62.jpg", Gergana Pavlova (BUL) vs Christina Teruel (ESP)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/pTgSEoZI11ooe1TKsIEYfBGjlNE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032269/824b35.jpg", Rachel Chan (CAN) vs Faye Huo (AUS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/mDj060TgUifsjRtvT82VWyeVCz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032270/476fcc.jpg", Catherine Choi/Crystal Lai (CAN) vs Gronya Sommerville/Angela Yu (AUS)
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DXykjeWHOXg0Ixm7_557ZjRsWSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032264/d5cdeb.jpg", Gabriela Stoeva/Stefani Stoeva (BUL) vs Nikol Carulla/Carmen Maria Jimenez (ESP)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
@@ -26,20 +42,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge33
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mDj060TgUifsjRtvT82VWyeVCz0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032270/476fcc.jpg", Catherine Choi/Crystal Lai (CAN) vs Gronya Sommerville/Angela Yu (AUS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg", Gabriela Stoeva/Stefani Stoeva (BUL) vs Nikol Carulla/Carmen Maria Jimenez (ESP)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg", Elena Popivanova (BUL) vs Ines Costero (ESP)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_lCAk4lR4B2FNMS_4-YYkPEb1UM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032265/b90308.jpg", Elena Popivanova (BUL) vs Ines Costero (ESP)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -62,15 +66,15 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Eliana Zhang/Wen Yu Zhang (CAN) vs Faye Huo/Victoria Tjonadi (AUS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CvoQrcFFIgtof81aixLcpERCBq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032266/ffd4cd.jpg", Kaloyana Nalbantova/Gergana Pavlova (BUL) vs Paula Lopez/Lucia Rodriguez (ESP)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg", Kaloyana Nalbantova/Gergana Pavlova (BUL) vs Paula Lopez/Lucia Rodriguez (ESP)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NYeyOYm3lzaHDNJxGNlV6mbJaWI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/bwf-thomas-uber-cup-finals-2026-group-stage-court-3-f3527e.jpg", Eliana Zhang/Wen Yu Zhang (CAN) vs Faye Huo/Victoria Tjonadi (AUS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=qqON4oGIge330XGnr7yMhN8ZywIqa62z|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
