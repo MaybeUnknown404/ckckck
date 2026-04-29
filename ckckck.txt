@@ -18,198 +18,198 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/KkxO6AW9NZ16Cqm5sIGoqFHYoA0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038872/d51c06.jpg", Hsiang Chieh Chiu/Wang Chi-Lin (TPE) vs Daniel Lundgaard/Mads Vestergaard (DEN)
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MOmx_VABolXU0vXa3wNTvcW-Vn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038863/c466d1.jpg", Choi Jihoon (KOR) vs Kim Linell (SWE)
-https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BFuI_XOj7_p5aQ2_macuXh44L8s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038865/681f7f.jpg", Cholan Kayan (ENG) vs Kalle Koljonen (FIN)
-https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iHl36eZAvCUFaAL_iBC8FPKzkHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038868/a7ed57.jpg", Nadeem Dalvi (ENG) vs Eliel Melleri (FIN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oi-Hr7l27mSuMMNcZN8V_oeN4MI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038869/645d88.jpg", Robin Harper/Harry Wakefield (ENG) vs Ananda Galvani Daniswara/Alvar Melleri (FIN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HhLT4SpfqkRxY19tr7Gp2oWWx2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038873/e0d542.jpg", Lin Chu-Yi (TPE) vs Magnus Johannesen (DEN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WCQOkW2YW-r7iy_dW9pLXDcye4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038870/6bb2dd.jpg", Alex Green/Zach Russ (ENG) vs Eliel Melleri/Niilo Nyqvist (FIN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EEmMW-1WN7Gnnr-AM2xEzabMX4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038866/86b866.jpg", Song Hyun Cho/Lee Jongmin (KOR) vs Ludwig Axelsson/Filip Karlborg (SWE)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/09wkUPnuv0fMNayCYh0UVhgx2zU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038874/b7a4ee.jpg", Liu Kuang Heng/Yang Po-Hsuan (TPE) vs Kim Astrup/Mathias Christiansen (DEN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aXVw34hncEE2LhHRGYyqfBP0UZQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038875/82b4f5.jpg", Chi Yu Jen (TPE) vs Ditlev Jaeger Holm (DEN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IIh9pZefgPO2wY2q3syEjftTX0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038867/53fdd3.jpg", Cho Woo Hyeon (KOR) vs Tim Mork (SWE)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/O_6iQjR6Vs3QxEjNXTXszogCS8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036125/e054de.jpg", Leeds United vs Burnley
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xhC47U5Xp6OTWt4LLu0e43C0tXg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036133/341308.jpg", Newcastle vs Brighton
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19375&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19375&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/g41-jd3EkFp9ModV2daq4fT486s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036126/f2b5e0.jpg", Wolves vs Sunderland
-#https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19375&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iea_LkOl_APSr7UM3AX0tCGOuQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036137/f9f6ea.jpg", Brentford vs West Ham
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xW2ycBho80weKguryQinpgwgj5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036130/ff72ff.jpg", Arsenal vs Fulham
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RIUlAIKPH9G3NWH8X6iA-kia8nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036140/4fc8f0.jpg", Bournemouth vs Crystal Palace
-#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9182&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/BlDMVzTBFARVBPw9U0mWPlThIFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036135/d2c6d2.jpg", Man United vs Liverpool
-#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=9182&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19536&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19536&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0m_QZZHwBnZFp5AQ5hsewlIJTKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036128/700eb4.jpg", (Data Zone) Man United vs Liverpool
-#https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19536&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19388&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19388&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0sYnuyXyMbqFSrCOylWHvyNAHgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036139/eb224f.jpg", Rajadamnern 2026 Rajadamnern Stadium Female Flyweight World Championship
-#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19388&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WKJ_s_movQjcs8q9qsqsD_M-_5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036156/2498ea.jpg", Pisa vs Lecce
-#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20435&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=20435&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Kv-ZvTulvxLHyy-RUPEVnitVi6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030175/5ee2df.jpg", Semifinals Leg 1: Atletico Madrid vs Arsenal
-#https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=20435&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ige-5EUrGN1UzFvNyT_2zj2DvsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036092/932a83.jpg", Practice
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/T8gG5KepHAMDOAithKckjtBtyVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036093/606a77.jpg", Practice
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G8SxM19xqO51rSco0Zfhq1xUpm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036094/6d977d.jpg", Qualifying
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5OUNj7xAF0-zWuxH_W-_9clgA1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036096/ec4f58.jpg", Sprint Qualifying
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XWZtMWME4LejhaYtE87gy-OI1MA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036141/aff209.jpg", Sprint
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17884&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H9cS9-I70pblgN7PaDX7OUx12xo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036142/8c61dc.jpg", Sprint
-#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17884&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19644&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EJ04GS0LEQfsGb3R7xuQIMI8Lpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032219/819ba7.jpg", Semifinals Leg 1: Rayo Vallecano vs Strasbourg
-#https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19644&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6317&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ei7sMMMiWTk6k5JdHd6F_oIG5i0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036065/6086e2.jpg", Semifinals Leg 1: Shakhtar Donetsk vs Crystal Palace
-#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=6317&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=17875&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gKOw6TXVqiLB7RSnUhosODaaYy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036155/4fbd47.jpg", Girona vs Mallorca
-#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=17875&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DUBA8xk39lKoLd5cKsG36xQ13Ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032212/280902.jpg", Semifinals Leg 1: Braga vs SC Freiburg
-#https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xzGtbZc9C5sGy8WthU-IC-555tE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036064/f24cde.jpg", Semifinals Leg 1: Nottingham Forest vs Aston Villa
-#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+#https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777044051418-AlTaawounvsAlIttihadLiveThumbnail.jpg" tvg-name="",Al Taawoun vs Al Ittihad | MW 30
