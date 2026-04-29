@@ -26,7 +26,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/I-PDt05gPXEj8egGy2rrI3yKvtc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036119/f525f6.jpg", Victor Lai (CAN) vs Ephraim Stephen Sam (AUS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/1afpPKy7nVOCLdPVSNiQu1v_9P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036120/b13719.jpg", Kevin Lee/Ty Alexander Lindeman (CAN) vs Rizky Hidayat/Jack Yu (AUS)
 https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,12 +39,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wARuEvo42oOThP6Z-2uJXkVNCzo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036108/5e277f.jpg", Liang Wei Keng/Wang Chang (CHN) vs Satwiksairaj Rankireddy/Chirag Shetty (IND)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/1afpPKy7nVOCLdPVSNiQu1v_9P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036120/b13719.jpg", Kevin Lee/Ty Alexander Lindeman (CAN) vs Rizky Hidayat/Jack Yu (AUS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -66,6 +60,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wXE9a_2vxjF1WBpUug70zPC0Gxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036116/078e2f.jpg", Takumi Nomura/Yuichi Shimogami (JPN) vs Nur Izzuddin/Soh Wooi Yik (MAS)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SQZ2sC8IWlE_uBqs05PiSNJXjtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036110/a700aa.jpg", He Ji Ting/Ren Xiang Yu (CHN) vs Hariharan Amsakarunan/Madathil Arjun (IND)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
@@ -79,26 +79,20 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wXE9a_2vxjF1WBpUug70zPC0Gxg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036116/078e2f.jpg", Takumi Nomura/Yuichi Shimogami (JPN) vs Nur Izzuddin/Soh Wooi Yik (MAS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/7oNJMY8DPSUggMGNuLNqRODl_b8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036117/dcd667.jpg", Koki Watanabe (JPN) vs Lee Zii Jia (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wSvsVunQWWRRKlCFqNB9GgdpNg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036111/5882a5.jpg", Lu Guang Zu (CHN) vs Prannoy H. S. (IND)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/88MAK8bQ24qQ68JEaM7xTGUNvBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036123/d4e0a0.jpg", Joshua Nguyen (CAN) vs Rishi Honda Boopathy (AUS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wSvsVunQWWRRKlCFqNB9GgdpNg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036111/5882a5.jpg", Lu Guang Zu (CHN) vs Prannoy H. S. (IND)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
