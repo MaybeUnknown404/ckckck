@@ -48,12 +48,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SQZ2sC8IWlE_uBqs05PiSNJXjtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036110/a700aa.jpg", He Ji Ting/Ren Xiang Yu (CHN) vs Hariharan Amsakarunan/Madathil Arjun (IND)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/NahgngauSt6Q02k5zOIqn3JiDPs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036122/e02610.jpg", Daniel Leung/Nyl Yakura (CAN) vs Andika Ramadiansyah/Frederick Zhao (AUS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
@@ -61,7 +55,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wSvsVunQWWRRKlCFqNB9GgdpNg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036111/5882a5.jpg", Lu Guang Zu (CHN) vs Prannoy H. S. (IND)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SQZ2sC8IWlE_uBqs05PiSNJXjtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036110/a700aa.jpg", He Ji Ting/Ren Xiang Yu (CHN) vs Hariharan Amsakarunan/Madathil Arjun (IND)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -75,6 +69,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18252&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/88MAK8bQ24qQ68JEaM7xTGUNvBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036123/d4e0a0.jpg", Joshua Nguyen (CAN) vs Rishi Honda Boopathy (AUS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18252&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/wSvsVunQWWRRKlCFqNB9GgdpNg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036111/5882a5.jpg", Lu Guang Zu (CHN) vs Prannoy H. S. (IND)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=76FHw2KqodIKkIQJalv7TNX5mqp6W4Cz|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
