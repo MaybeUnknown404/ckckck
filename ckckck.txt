@@ -2,7 +2,17 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-Error mengambil data dari API.#EXTM3U
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017533%2F1777298648174734_UEL_Semi_Final_With_Players_Nottingham_Forest_vs_Aston_Villa_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Nott'm Forest vs Aston Villa  - Semi-Final - Leg 1 - 1 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529439&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017560%2F1777395377096118_UECL_Semi_Final_Leg1_Shakhtar_vs_Crystal_Palace_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shakhtar vs Crystal Palace FC - Semi-Final - Leg 1 - 1 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529440&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017533%2F1777298622846734_UEL_Semi_Final_With_Players_Braga_vs_Freiburg_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Braga vs Freiburg - Semi-Final - Leg 1 - 1 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529438&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017560%2F1777395334690118_UECL_Semi_Final_Leg1_Rayo_Vallecano_vs_Strasbourg_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rayo Vallecano vs Strasbourg - Semi-Final - Leg 1 - 1 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529441&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
