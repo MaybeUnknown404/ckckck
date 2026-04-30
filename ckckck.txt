@@ -2,21 +2,6 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017526%2F1777288187801542_UEL_Semi_Final_Leg1_Nottingham_Forest_vs_Aston_Villa_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Nottingham Forest vs Aston Villa - UEFA Europa League
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090529079&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017526%2F1777288298140542_UEL_Semi_Final_Leg1_Braga_vs_Freiburg_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - Braga vs Freiburg - UEFA Europa League
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090529080&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016951%2F1775437634034818_DP_World_Tour_Turkish_Airlines_Open_Day1_tv_bg.jpg" group-title="🔴 Live Event",🔴  Turkish Airlines Open - Day 1 - 30 Apr 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529435&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016596%2F1774516537256541_9_India_Series_promo_tv_bg.jpg" group-title="📅 Upcoming",⏳ Upcoming - India’s Cricketing Mayhem
-#https://archertv.my.id/atraksi/sony.m3u8?id=1090507595&type=hls
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=21254&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qLm2Oemkn5vJq1kmxJT5qZryxoQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038879/417af4.jpg", Finals: Nakhonratchasima Qmnic vs NEC Red Rockets
@@ -24,19 +9,9 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/E_N8HIGyJ79bjxCaWt-uOsUc9tA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038937/23eb8d.jpg", Chen Yu Fei (CHN) vs Wong Ling Ching (MAS)
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/NKQz7w8NTrTTjkLLOC4oGFYXVmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038942/575c00.jpg", Tomoka Miyazaki (JPN) vs Pornpawee Chochuwong (THA)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/36BByBUcpv4iuHKk0NnFoLAAnkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038938/ba1e31.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
@@ -45,15 +20,15 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuL
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IY-MRqImLu9HJUUVWiRGkE_pRU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038939/3f65bc.jpg", Han Yue (CHN) vs Goh Jin Wei (MAS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/18EV9pHrUc4gn0zHJQGP4YfmZvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038944/bdd238.jpg", Riko Gunji (JPN) vs Supanida Katethong (THA)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg", Denmark vs Indonesia
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
