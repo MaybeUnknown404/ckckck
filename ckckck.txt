@@ -25,7 +25,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/oj-CAikJPhF3TKeK3Hw5WCGD344=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038936/fd3d68.jpg", Liu Sheng Shu/Tan Ning (CHN) vs Ong Xin Yee/Carmen Ting (MAS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/E_N8HIGyJ79bjxCaWt-uOsUc9tA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038937/23eb8d.jpg", Chen Yu Fei (CHN) vs Wong Ling Ching (MAS)
 https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -35,7 +35,7 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/E_N8HIGyJ79bjxCaWt-uOsUc9tA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038937/23eb8d.jpg", Chen Yu Fei (CHN) vs Wong Ling Ching (MAS)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/36BByBUcpv4iuHKk0NnFoLAAnkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038938/ba1e31.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -43,12 +43,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/hrynCsc0W0CGOn7E2nzVdViNunQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038943/1b6d03.jpg", Akane Igarashi/Kie Nakanishi (JPN) vs Ornnicha Jongsathapornparn/Jhenicha Sudjaipraparat (THA)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/36BByBUcpv4iuHKk0NnFoLAAnkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038938/ba1e31.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Low Zi Yu/Noraqilah Maisarah (MAS)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
