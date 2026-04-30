@@ -17,13 +17,13 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rr9uRfOeKMib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QpXfdE2GpbJDqKETxiwJdA2S9-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049151/bcb272.jpg", Lin Hsiang Ti (TPE) vs Kim Ga Eun (KOR)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JQgwO7hqvUEULMNIZUPdWDSkg5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049150/5a900b.jpg", Hsieh Pei Shan/Hung En-Tzu (TPE) vs Lee So Hee/Lee Yeon Woo (KOR)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v8lRxwujsEeYM9ukWaqKiycHsyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049065/601185.jpg", Amalie Schulz (DEN) vs Ester Nurumi Tri Wardoyo (INA)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QpXfdE2GpbJDqKETxiwJdA2S9-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049151/bcb272.jpg", Lin Hsiang Ti (TPE) vs Kim Ga Eun (KOR)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -34,7 +34,7 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m1MXxDKnWfDgiKqKM2ygxwg49lE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049069/1338a2.jpg", Alexandra Boje/Line Christophersen (DEN) vs Rachel Allessya Rose/Febi Setianingrum (INA)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/v8lRxwujsEeYM9ukWaqKiycHsyw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049065/601185.jpg", Amalie Schulz (DEN) vs Ester Nurumi Tri Wardoyo (INA)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
@@ -42,6 +42,12 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xS28fiFr5zQ6wpAX6gwAJcjcMfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049153/4db6ec.jpg", Huang Yu-Hsun (TPE) vs Sim Yu Jin (KOR)
 #https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m1MXxDKnWfDgiKqKM2ygxwg49lE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049069/1338a2.jpg", Alexandra Boje/Line Christophersen (DEN) vs Rachel Allessya Rose/Febi Setianingrum (INA)
+#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
