@@ -2,15 +2,6 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017533%2F1777298648174734_UEL_Semi_Final_With_Players_Nottingham_Forest_vs_Aston_Villa_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Nott'm Forest vs Aston Villa  - Semi-Final - Leg 1 - 1 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529439&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017560%2F1777395377096118_UECL_Semi_Final_Leg1_Shakhtar_vs_Crystal_Palace_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shakhtar vs Crystal Palace FC - Semi-Final - Leg 1 - 1 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529440&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017533%2F1777298622846734_UEL_Semi_Final_With_Players_Braga_vs_Freiburg_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Braga vs Freiburg - Semi-Final - Leg 1 - 1 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529438&type=hls
-
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017560%2F1777395334690118_UECL_Semi_Final_Leg1_Rayo_Vallecano_vs_Strasbourg_live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Rayo Vallecano vs Strasbourg - Semi-Final - Leg 1 - 1 May 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529441&type=hls
 
@@ -228,16 +219,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8YVckjQyMQ9R7N8ofQ26s7nCDHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038923/66166c.jpg", AZ Alkmaar vs Twente
 #https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19603&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DUBA8xk39lKoLd5cKsG36xQ13Ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032212/280902.jpg", Semifinals Leg 1: Braga vs SC Freiburg
-https://vid-id.indi1.workers.dev/index.mpd?id=19603&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6299&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xzGtbZc9C5sGy8WthU-IC-555tE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036064/f24cde.jpg", Semifinals Leg 1: Nottingham Forest vs Aston Villa
-https://vid-id.indi1.workers.dev/index.mpd?id=6299&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19355&type=drm
