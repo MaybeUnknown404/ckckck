@@ -22,9 +22,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuL
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JQgwO7hqvUEULMNIZUPdWDSkg5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049150/5a900b.jpg", Hsieh Pei Shan/Hung En-Tzu (TPE) vs Lee So Hee/Lee Yeon Woo (KOR)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/JQgwO7hqvUEULMNIZUPdWDSkg5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5049150/5a900b.jpg", Hsieh Pei Shan/Hung En-Tzu (TPE) vs Lee So Hee/Lee Yeon Woo (KOR)
+https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=39XLtHOcipuLtDMq1DFia5EC26dDkfBU
@@ -374,6 +373,10 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 9 Parramatta v Warriors [02 Mei 26 14:30 WIB]
 #https://foxau.indi1.workers.dev/index.m3u8?id=160376&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 9 Sydney Roosters v Brisbane [02 Mei 26 16:35 WIB]
+#https://foxau.indi1.workers.dev/index.m3u8?id=160377&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="📅 Upcoming",NRL Round 9 Newcastle v South Sydney [03 Mei 26 11:00 WIB]
