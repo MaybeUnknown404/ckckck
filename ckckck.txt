@@ -20,11 +20,6 @@ https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=rr9uRfOeKMib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/tLFph0Am7zN4C4bULQwAlP5q5HM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055398/cb85f8.jpg", Satwiksairaj Rankireddy/Chirag Shetty (IND) vs Chiu Hsiang Chieh/Wang Chi-Lin (TPE)
-https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18250&type=drm&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/lTxfCSyvqpfrqur4RLPMYOaqZp0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055399/6f4d50.jpg", Ayush Shetty (IND) vs Lin Chun-Yi (TPE)
 https://vid-id.indi1.workers.dev/index.mpd?id=18250&type=dash&token=rr9uRfOeKMibXWQri0jP3dainMRCEbRT|User-Agent=VidioPlayer/6.31.6
 
