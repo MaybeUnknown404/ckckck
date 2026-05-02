@@ -316,6 +316,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb97a7b4a622381c24e5e9&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69f08c605f022a65ee4d6ebf&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69f08c605f022a65ee4d6ebf&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777025092505-GOLF.png" tvg-name="",MCB Ladies Classic | Day 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb406742602174d8732cef&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb406742602174d8732cef&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/9EzxouCeAKumSCNVPKoV4dQdBeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036134/25507d.jpg", PERSEBAYA Surabaya vs PSBS Biak
