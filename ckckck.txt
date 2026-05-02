@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017563%2F1777399260029799_UFC_Fight_Night_Della_Maddalena_vs_Prates_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Della Maddalena vs Prates - 2 May 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529626&type=hls
 
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017601%2F1777486465622406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴 Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529615&type=hls
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016951%2F1775437619052818_DP_World_Tour_Turkish_Airlines_Open_Day3_tv_bg.jpg" group-title="🔴 Live Event",🔴  Turkish Airlines Open - Day 3 - 2 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529602&type=hls
 
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017646%2F1777576975048683_UCL_Semi_Final_Leg2_Bayern_vs_PSG_promo_landscape_thumb_dated.jpg" group-title="📅 Upcoming",⏳ Upcoming - Bayern vs PSG - UEFA Champions League 2025-26
 #https://archertv.my.id/atraksi/sony.m3u8?id=1090529546&type=hls
@@ -306,9 +306,8 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb9b03b4a622381c24e5eb&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xorB_bfPnzELkhDlOS_eU9TAsB0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036136/0c86db.jpg", Malut United FC vs PERSIS
-#https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/xorB_bfPnzELkhDlOS_eU9TAsB0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036136/0c86db.jpg", Malut United FC vs PERSIS
+https://archertv.my.id/atraksi/vidx.mpd?id=19354&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
