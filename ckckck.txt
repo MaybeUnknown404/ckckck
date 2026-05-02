@@ -5,6 +5,12 @@
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017563%2F1777399260029799_UFC_Fight_Night_Della_Maddalena_vs_Prates_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Della Maddalena vs Prates - 2 May 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529626&type=hls
 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017546%2F1777362064351318_IFL26_Shillong-Lajong-FC--vs-Chanmari-FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shillong Lajong FC vs Chanmari FC - 2 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529604&type=hls
+
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017601%2F1777486613739406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Final_Race_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴  Round 7 - Berlin E - Prix - Final Race - 2 May 2026
+https://archertv.my.id/atraksi/sony.m3u8?id=1090529614&type=hls
+
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016951%2F1775437619052818_DP_World_Tour_Turkish_Airlines_Open_Day3_tv_bg.jpg" group-title="🔴 Live Event",🔴  Turkish Airlines Open - Day 3 - 2 May 2026
 https://archertv.my.id/atraksi/sony.m3u8?id=1090529602&type=hls
 
