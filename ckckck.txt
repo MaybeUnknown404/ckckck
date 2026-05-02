@@ -5,17 +5,6 @@
 Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/gh217XLDZIvlCivRrAhqvLay_Sk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057648/5b3194.jpg", Chen Bo Yang/Liu Yi (CHN) vs Mathias Christiansen/Daniel Lundgaard (DEN)
-https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg", Weng Hong Yang (CHN) vs Ditlev Jaeger Holm (DEN)
-#https://vid-id.indi1.workers.dev/index.mpd?id=18249&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=9183&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RIUlAIKPH9G3NWH8X6iA-kia8nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036140/4fc8f0.jpg", Bournemouth vs Crystal Palace
 #https://vid-id.indi1.workers.dev/index.mpd?id=9183&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
@@ -146,9 +135,8 @@ https://vid-id.indi1.workers.dev/index.mpd?id=6685&type=dash&token=8OxKB9jHQSQms
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6686&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/WnyNOIAr79wQ3kB3BiaoWjW0gEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038931/07f410.jpg", NEC Nijmegen vs Telstar
-#https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/WnyNOIAr79wQ3kB3BiaoWjW0gEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038931/07f410.jpg", NEC Nijmegen vs Telstar
+https://vid-id.indi1.workers.dev/index.mpd?id=6686&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=6685&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
