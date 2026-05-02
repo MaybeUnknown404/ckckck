@@ -300,14 +300,6 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ef08655f022a65ee4d6eaf&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb9637b4a622381c24e5e6&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb9637b4a622381c24e5e6&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777323756348-SUPERPOLE.jpg" tvg-name="",Rd 4 Motul Hungarian Round: SBK Tissot Superpole
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69efcefd5f022a65ee4d6ebc&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69efcefd5f022a65ee4d6ebc&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777047435672-LiveThumbnailQualifying.jpg" tvg-name="",Rd 7 Berlin E-Prix: Qualifying
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
