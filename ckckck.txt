@@ -2,32 +2,7 @@
 
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-id="" tvg-logo="https://thesmp.net/wp-content/uploads/2021/01/Premier-League-1200x675.jpg",OFFLINE
 #https://qtv.my.id/offline.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017551%2F1777366558429475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim_tv_background.jpg" group-title="🔴 Live Event",🔴 Bayern Munich vs Heidenheim - MD 32 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529611&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017551%2F1777366753686475_Bundesliga_2025-26_MD-32_Eintracht-Frankfurt-vs-Hamburger-SV_tv_background.jpg" group-title="🔴 Live Event",🔴 Eintracht Frankfurt vs Hamburger SV - MD 32 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529610&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017551%2F1777368883023475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_tv_background.jpg" group-title="🔴 Live Event",🔴 Werder Bremen vs FC Augsburg - MD 32 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529609&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017551%2F1777369311909475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_tv_background.jpg" group-title="🔴 Live Event",🔴 Union Berlin vs FC Koln - MD 32 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529608&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017551%2F1777369712037475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_tv_background.jpg" group-title="🔴 Live Event",🔴 Hoffenheim vs VfB Stuttgart - MD 32 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529607&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017563%2F1777399260029799_UFC_Fight_Night_Della_Maddalena_vs_Prates_tv_bg.jpg" group-title="🔴 Live Event",🔴 UFC Fight Night - Della Maddalena vs Prates - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529626&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017546%2F1777362064351318_IFL26_Shillong-Lajong-FC--vs-Chanmari-FC_tv_bg.jpg" group-title="🔴 Live Event",🔴 Shillong Lajong FC vs Chanmari FC - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529604&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000017601%2F1777486613739406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Final_Race_Live_tv_bg.jpg" group-title="🔴 Live Event",🔴  Round 7 - Berlin E - Prix - Final Race - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529614&type=hls
-
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https%3A%2F%2Forigin-staticv2.sonyliv.com%2Fvideoasset_images%2Fmanage_file%2F1000016951%2F1775437619052818_DP_World_Tour_Turkish_Airlines_Open_Day3_tv_bg.jpg" group-title="🔴 Live Event",🔴  Turkish Airlines Open - Day 3 - 2 May 2026
-https://archertv.my.id/atraksi/sony.m3u8?id=1090529602&type=hls
+Error mengambil data dari API.#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=18249&type=drm&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt
@@ -320,14 +295,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=2DRyf3HmJS5uK2x20Glj5m7iVJ2RJ0xt|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777025092505-GOLF.png" tvg-name="",MCB Ladies Classic | Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb406742602174d8732cef&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb406742602174d8732cef&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777283148366-MensTeam-ChinavsEngland.png" tvg-name="",London | Day 1 Men's Team: CHN vs ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -343,6 +310,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb9b03b4a622381c24e5eb&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69efcfd25f022a65ee4d6ebd&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69efcfd25f022a65ee4d6ebd&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777051020172-LiveThumbnailRace.jpg" tvg-name="",Rd 7 Berlin E-Prix: Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eba5b042602174d8732cff&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eba5b042602174d8732cff&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
