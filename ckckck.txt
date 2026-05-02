@@ -42,11 +42,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/EJfV_I96xuQcfLZa8k4mKo0HNKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038917/75b309.jpg", Atalanta vs Genoa
-https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-id.indi1.workers.dev/index.drm?id=19404&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/AX7qv0DWPfI6DMCOjygP13Pulsc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038919/f8dd70.jpg", Bologna vs Cagliari
 #https://vid-id.indi1.workers.dev/index.mpd?id=19404&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
