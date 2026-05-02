@@ -210,6 +210,22 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eba6fcb4a622381c24e5ec&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eba6fcb4a622381c24e5ec&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777283192090-MensTeam-SwedenvsEngland.png" tvg-name="",London | Day 1 Men's Team: SWE vs ENG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eba769b4a622381c24e5ed&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eba769b4a622381c24e5ed&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777462324952-LiveThumbnail8.jpg" tvg-name="",Triple Crown: Kentucky Derby 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69f08eed8dbffe093d04b7cd&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69f08eed8dbffe093d04b7cd&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/A0KtUpBwaMQMA0XC2gu1I4ot4Kc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038945/840366.jpg", PERSIK Kediri vs Arema FC
