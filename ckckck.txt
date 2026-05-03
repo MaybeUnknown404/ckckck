@@ -23,6 +23,18 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=19404&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XgxQ3Uu3bSJGXX_dnbTVzzeTRtA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055662/0c9b15.jpg", Cremonese vs Lazio
+#https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=19404&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rvaOUTPR5pYYJUNEMhcXFTueuvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057848/9a55ec.jpg", Roma vs Fiorentina
+#https://susu2.indi2.workers.dev/index.mpd?id=19404&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=6299&type=drm&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5xbBnjxvWZHm5e1vsf2-zTGwcpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057807/c3cf2a.jpg", Sevilla vs Real Sociedad
 #https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=MIbWkqpgmuorYFGjPNeCaPzDMzQcC43K|User-Agent=VidioPlayer/6.31.6
@@ -76,15 +88,15 @@ http://spacetv.my.id/experimen/ge.mpd?id=302550&type=dash|User-Agent=Mozilla/5.0
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=302087&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/23121651-frr84uuiq1xvaiai.png" group-title="📅 Upcoming",⏳ Heart of Midlothian - Rangers
-#http://spacetv.my.id/experimen/ge.mpd?id=302087&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=302116&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/23124259-vff13o8wktnnnnpq.png" group-title="📅 Upcoming",⏳ Cremonese - Lazio
 #http://spacetv.my.id/experimen/ge.mpd?id=302116&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=302087&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/04/23121651-frr84uuiq1xvaiai.png" group-title="📅 Upcoming",⏳ Heart of Midlothian - Rangers
+#http://spacetv.my.id/experimen/ge.mpd?id=302087&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
