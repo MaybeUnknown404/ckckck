@@ -159,14 +159,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #https://vid-id.indi1.workers.dev/index.mpd?id=19436&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777023351384-IBARAKIROBOTSVSOSAKAEVESSA.jpg" tvg-name="",Ibaraki Robots vs Osaka Evessa | Round 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb398242602174d8732ceb&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb398242602174d8732ceb&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777324074452-SUPERPOLERACE.jpg" tvg-name="",Rd 4 Motul Hungarian Round: SBK Tissot Superpole Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -182,6 +174,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69efd0345f022a65ee4d6ebe&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb40b1b4a622381c24e5d9&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb40b1b4a622381c24e5d9&type=hls
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777280684223-FormulaEThumbnailQualifying.jpg" tvg-name="",Rd 8 Berlin E-Prix: Qualifying
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ef26c55f022a65ee4d6eb4&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ef26c55f022a65ee4d6eb4&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
