@@ -176,6 +176,14 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ef26c55f022a65ee4d6eb4&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69efd0908dbffe093d04b7c9&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69efd0908dbffe093d04b7c9&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777023443269-HIBERNIANVSCELTIC.jpg" tvg-name="",Hibernian vs Celtic | Round 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb39eb42602174d8732cec&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb39eb42602174d8732cec&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19354&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qrTbwP-aIFtJwMdWEq4zr19KSFE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038946/e324e1.jpg", Dewa United Banten FC vs Semen Padang FC
