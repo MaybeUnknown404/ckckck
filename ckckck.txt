@@ -41,11 +41,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJQ_&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=9183&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RIUlAIKPH9G3NWH8X6iA-kia8nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036140/4fc8f0.jpg", Bournemouth vs Crystal Palace
-https://susu2.indi2.workers.dev/index.mpd?id=9183&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=9182&type=drm&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/BlDMVzTBFARVBPw9U0mWPlThIFQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036135/d2c6d2.jpg", Man United vs Liverpool
 https://susu2.indi2.workers.dev/index.mpd?id=9182&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
