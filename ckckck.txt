@@ -137,6 +137,14 @@ https://susu2.indi2.workers.dev/index.mpd?id=19436&type=dash&token=8OxKB9jHQSQms
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/8YVckjQyMQ9R7N8ofQ26s7nCDHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038923/66166c.jpg", AZ Alkmaar vs Twente
 https://susu2.indi2.workers.dev/index.mpd?id=6685&type=dash&token=8OxKB9jHQSQmsQHZc9IEj12baqv7imex|User-Agent=VidioPlayer/6.31.6
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777283862279-MensTeam-SouthKoreavsEngland.png" tvg-name="",London | Day 2 Men's Team: KOR vs ENG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69ef33235f022a65ee4d6eb6&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=69ef33235f022a65ee4d6eb6&type=hls
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=205&type=drm
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/uCvYFiC0rOXIXpP9I4A-WfcFNEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058269/fdd74e.jpg", PSM Makassar vs Bhayangkara Presisi Lampung FC
