@@ -154,14 +154,6 @@ https://drive.usercontent.google.com/download?id=1HluOiyC_NN93pyeOdBRc0tuhVSJlCJ
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69eb40b1b4a622381c24e5d9&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=69eb40b1b4a622381c24e5d9&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777324164928-WorldWCR.jpg" tvg-name="",Rd 3 Motul Hungarian Round: Race 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=69efd0908dbffe093d04b7c9&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=69efd0908dbffe093d04b7c9&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1777023443269-HIBERNIANVSCELTIC.jpg" tvg-name="",Hibernian vs Celtic | Round 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
